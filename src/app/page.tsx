@@ -120,18 +120,6 @@ export default function DiscoveryPage() {
     }
   };
 
-  // Quick intent chips
-  const quickIntents = [
-    { icon: '🎨', label: 'ศิลปะ', intent: 'อยากดูงานศิลปะ หอศิลป์ แกลเลอรี' },
-    { icon: '🎵', label: 'ดนตรี', intent: 'อยากฟังดนตรีสด คอนเสิร์ต' },
-    { icon: '☕', label: 'คาเฟ่', intent: 'อยากนั่งชิลคาเฟ่ กาแฟ' },
-    { icon: '🍜', label: 'ของกิน', intent: 'อยากหาของกิน อาหารอร่อย' },
-    { icon: '🛍️', label: 'ตลาด', intent: 'อยากเดินตลาด ช้อปปิ้ง' },
-    { icon: '🎭', label: 'วัฒนธรรม', intent: 'อยากดูพิพิธภัณฑ์ วัฒนธรรม' },
-    { icon: '🌳', label: 'กลางแจ้ง', intent: 'อยากออกไปกลางแจ้ง สวนสาธารณะ' },
-    { icon: '🎪', label: 'สนุกสนาน', intent: 'อยากทำอะไรสนุกๆ ตื่นเต้น' },
-  ];
-
   return (
     <main style={{ maxWidth: '1000px', margin: '0 auto', padding: '2rem 1rem' }}>
       {/* Header */}
@@ -338,41 +326,6 @@ export default function DiscoveryPage() {
             <label style={{ display: 'block', fontWeight: 600, marginBottom: '0.5rem', color: '#e2e8f0' }}>
               💬 บอกสิ่งที่คุณอยากทำด้วยภาษาธรรมชาติ
             </label>
-            
-            {/* Quick Intent Chips */}
-            <div style={{ display: 'flex', gap: '0.5rem', flexWrap: 'wrap', marginBottom: '0.75rem' }}>
-              {quickIntents.map((item, idx) => (
-                <button
-                  key={idx}
-                  type="button"
-                  onClick={() => setIntentText(item.intent)}
-                  style={{
-                    background: '#334155',
-                    color: '#e2e8f0',
-                    border: '1px solid #475569',
-                    padding: '0.4rem 0.8rem',
-                    borderRadius: '6px',
-                    fontSize: '0.85rem',
-                    cursor: 'pointer',
-                    display: 'flex',
-                    alignItems: 'center',
-                    gap: '0.3rem',
-                    transition: 'all 0.2s',
-                  }}
-                  onMouseOver={(e) => {
-                    e.currentTarget.style.background = '#475569';
-                    e.currentTarget.style.borderColor = '#64748b';
-                  }}
-                  onMouseOut={(e) => {
-                    e.currentTarget.style.background = '#334155';
-                    e.currentTarget.style.borderColor = '#475569';
-                  }}
-                >
-                  <span>{item.icon}</span>
-                  <span>{item.label}</span>
-                </button>
-              ))}
-            </div>
             
             <input
               type="text"

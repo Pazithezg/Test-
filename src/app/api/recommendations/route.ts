@@ -13,12 +13,12 @@
  */
 
 import { NextRequest, NextResponse } from 'next/server';
-import { getPlaceIndex } from '@/search/place-index';
 import { getRecommendationEngine } from '@/personalization/recommendation-engine';
 import { createDefaultPreferences, UserProfile } from '@/personalization/user-profile';
-import { getDiscoveryRepository } from '@/repository';
-import { RuleBasedAiService } from '@/ai/rule-based-service';
-import { DiscoveryEngine } from '@/discovery/engine';
+import { getPlaceIndex } from '@/search/place-index';
+import { parseThaiIntent } from '@/ai/thai-intent-parser';
+import { mapToOsmCategories } from '@/ai/thai-intent-dictionary';
+import { calculateDistanceKm } from '@/geo/distance';
 
 export const dynamic = 'force-dynamic';
 
@@ -125,16 +125,60 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    const engine = new DiscoveryEngine(getDiscoveryRepository(), new RuleBasedAiService());
-    const result = await engine.recommend({
-      ...body,
-      location: {
-        mode: 'coordinates',
-        latitude: location.latitude,
-        longitude: location.longitude,
-        radiusKm: 10000,
+    const index = await getPlaceIndex();
+    const places = index.getAllPlaces();
+    const intentText = String(body.intentText || '').trim();
+    const intent = parseThaiIntent({ intentText: intentText || 'สถานที่ใกล้ฉัน', mood: body.mood });
+    const requestedCategories = new Set(mapToOsmCategories(intent.categories));
+    const all = places.map((place) => ({
+      place,
+      distanceKm: calculateDistanceKm(
+        { latitude: location.latitude, longitude: location.longitude },
+        { latitude: place.latitude, longitude: place.longitude }
+      ),
+    })).filter((item) => item.distanceKm !== null);
+
+    // Show all nearby records first. A query narrows by the local category
+    // index, but never calls an external AI/API.
+    const matching = intentText
+      ? all.filter(({ place }) => requestedCategories.has(place.category))
+      : all;
+    const selected = (matching.length > 0 ? matching : all)
+      .sort((a, b) => (a.distanceKm! - b.distanceKm!))
+      .slice(0, 100);
+    const now = new Date().toISOString();
+    const result = {
+      status: 'success',
+      interpretedIntent: {
+        querySummary: intent.summary,
+        querySummaryTh: intent.summaryTh,
+        detectedCategories: intent.categories,
+        detectedVibes: intent.vibeTags,
+        budgetLevel: intent.budgetLevel,
       },
-    });
+      totalCandidatesEvaluated: all.length,
+      results: selected.map(({ place, distanceKm }) => ({
+        id: place.id,
+        type: 'place' as const,
+        title: place.name,
+        titleTh: place.name,
+        description: `${place.category} จากข้อมูล OpenStreetMap`,
+        descriptionTh: `สถานที่ประเภท ${place.category} จากข้อมูล OpenStreetMap`,
+        venueName: place.name,
+        address: 'กรุงเทพฯ',
+        areaId: 'nearby-pin',
+        coordinates: { latitude: place.latitude, longitude: place.longitude },
+        distanceKm: Number(distanceKm!.toFixed(2)),
+        pricing: { isFree: false, minPrice: null, maxPrice: null, currency: 'THB', priceKnown: false, priceNote: 'ไม่พบราคาในข้อมูลสถานที่', priceNoteTh: 'ไม่พบราคาในข้อมูลสถานที่' },
+        categories: [place.category],
+        tags: Object.keys(place.tags || {}),
+        source: { sourceUrl: null, sourceName: 'OpenStreetMap local data', lastCheckedAt: now, verificationStatus: 'unverified' as const, isDemoFixture: false },
+        matchScore: Math.max(1, 100 - Math.round(distanceKm! * 10)),
+        explanation: { headline: 'Nearby place', headlineTh: 'สถานที่ใกล้จุดที่ปักหมุด', reasons: [`${Number(distanceKm!.toFixed(2))} km from your pin`], reasonsTh: [`ห่างจากจุดที่ปักหมุด ${Number(distanceKm!.toFixed(2))} กม.`], matchHighlights: { categoryMatch: requestedCategories.has(place.category), dateMatch: true, freeTimeMatch: true, budgetMatch: true, locationMatch: true, vibeMatch: false } },
+        actionableLinks: { sourceUrl: null, mapsUrl: `https://www.google.com/maps/dir/?api=1&origin=${location.latitude},${location.longitude}&destination=${place.latitude},${place.longitude}` },
+      })),
+      metadata: { executionTimeMs: 0, aiAssisted: false, aiProvider: 'deterministic_local_search', dataFreshnessReference: 'Local OpenStreetMap dataset' },
+    };
     return NextResponse.json(result, { status: 200 });
   } catch (error) {
     console.error('[Recommendations API POST] Error:', error);

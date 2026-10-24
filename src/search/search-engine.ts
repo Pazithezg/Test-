@@ -30,6 +30,7 @@ export interface SearchResponse {
     original: string;
     detectedActivities: Activity[];
     detectedKeywords: string[];
+    detectedMood?: string;
     searchedCategories: string[];
   };
   stats: {
