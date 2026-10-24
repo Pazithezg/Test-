@@ -35,7 +35,7 @@ export default function MapPage() {
   };
 
   return (
-    <main style={{ maxWidth: '1200px', margin: '0 auto', padding: '2rem 1rem' }}>
+    <main className="secondary-page" style={{ maxWidth: '1200px', margin: '0 auto', padding: '2rem 1rem' }}>
       {/* Header */}
       <header style={{ marginBottom: '2rem' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', marginBottom: '1rem' }}>

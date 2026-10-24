@@ -106,7 +106,7 @@ article:hover { transform: translateY(-4px); box-shadow: 0 18px 38px rgba(15, 23
   letter-spacing: -0.06em;
 }
 
-.brand-mark span { color: #fb7185; }
+.brand-mark span { color: #38bdf8; }
 
 .nav-pill {
   color: #cbd5e1;
@@ -122,6 +122,19 @@ article:hover { transform: translateY(-4px); box-shadow: 0 18px 38px rgba(15, 23
   color: #fff;
   border-color: #fb7185;
   text-decoration: none;
+}
+
+.secondary-page {
+  color: #0f172a;
+}
+
+.secondary-page h1, .secondary-page h2, .secondary-page h3 { color: #0f172a !important; }
+.secondary-page p { color: #475569 !important; }
+.secondary-page section { background: #fff !important; box-shadow: 0 12px 30px rgba(15, 23, 42, 0.07) !important; }
+.secondary-page a { background: #eff6ff !important; color: #075985 !important; border-color: #bfdbfe !important; }
+.secondary-page button { border-color: #bfdbfe !important; }
+.secondary-page > div, .secondary-page > section {
+  border-color: #dbeafe !important;
 }
 
 .value-strip {

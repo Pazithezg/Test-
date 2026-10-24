@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Bangkok Discovery - ค้นหากิจกรรมและที่เที่ยวตามเวลาว่างและอารมณ์',
-  description: 'ระบบแนะนำกิจกรรมและสถานที่ท่องเที่ยวตามเวลาว่าง งบประมาณ และพิกัดในกรุงเทพฯ',
+  title: 'NearTrip - ค้นพบประสบการณ์ใกล้ตัวแบบเรียลไทม์',
+  description: 'ค้นหาสถานที่ กิจกรรม และอีเวนต์ใกล้คุณในเวลาที่มีอยู่',
 };
 
 export default function RootLayout({

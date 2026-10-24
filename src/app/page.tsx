@@ -121,7 +121,7 @@ export default function DiscoveryPage() {
       {/* Header */}
       <header className="hero-section" style={{ textAlign: 'center', marginBottom: '2.5rem' }}>
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '1rem', marginBottom: '3rem', textAlign: 'left' }}>
-          <div className="brand-mark">spidersa<span>.</span></div>
+          <div className="brand-mark">Near<span>Trip</span></div>
           <div style={{ display: 'flex', gap: '0.6rem', flexWrap: 'wrap', justifyContent: 'flex-end' }}>
             <span className="nav-pill active">ค้นพบใกล้ตัว</span>
             <Link href="/map" className="nav-pill">แผนที่</Link>
@@ -186,7 +186,7 @@ export default function DiscoveryPage() {
       {/* Search Form */}
       <section id="discover" className="map-section" style={{ marginBottom: '2rem' }}>
         <h2 style={{ color: '#e2e8f0', marginBottom: '0.75rem' }}>เริ่มจากจุดที่คุณอยู่</h2>
-        <p style={{ color: '#94a3b8', marginBottom: '0.75rem' }}>ปักหมุดหรือใช้ GPS แล้วให้ spidersa หาอะไรที่ทำได้รอบตัวคุณ</p>
+        <p style={{ color: '#94a3b8', marginBottom: '0.75rem' }}>ปักหมุดหรือใช้ GPS แล้วให้ NearTrip หาอะไรที่ทำได้รอบตัวคุณ</p>
         <BangkokMap
           height="360px"
           onLocationSelect={(lat, lng) => {
