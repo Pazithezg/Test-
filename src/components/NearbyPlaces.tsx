@@ -11,6 +11,8 @@ interface Place {
   name: string;
   type: 'hotel' | 'park';
   vicinity?: string;
+  latitude?: number;
+  longitude?: number;
 }
 
 export default function NearbyPlaces({ lat, lng }: NearbyPlacesProps) {
@@ -60,7 +62,9 @@ export default function NearbyPlaces({ lat, lng }: NearbyPlacesProps) {
           .map((el: any) => ({
             name: el.tags.name,
             type: 'hotel' as const,
-            vicinity: el.tags['addr:street'] || ''
+            vicinity: el.tags['addr:street'] || '',
+            latitude: el.lat ?? el.center?.lat,
+            longitude: el.lon ?? el.center?.lon
           }));
 
         const parkList = parkData.elements
@@ -100,9 +104,17 @@ export default function NearbyPlaces({ lat, lng }: NearbyPlacesProps) {
             🏨 โรงแรม:
           </div>
           {hotels.map((hotel, idx) => (
-            <div key={idx} style={{ fontSize: '0.8125rem', color: '#075985', paddingLeft: '0.5rem' }}>
-              • {hotel.name} {hotel.vicinity && `(${hotel.vicinity})`}
-            </div>
+            <a
+              key={idx}
+              href={hotel.latitude && hotel.longitude
+                ? `https://www.google.com/maps/search/?api=1&query=${hotel.latitude},${hotel.longitude}`
+                : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(hotel.name)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ fontSize: '0.8125rem', color: '#075985', paddingLeft: '0.5rem', textDecoration: 'none' }}
+            >
+              • {hotel.name} {hotel.vicinity && `(${hotel.vicinity})`} ↗
+            </a>
           ))}
         </div>
       )}
