@@ -160,4 +160,13 @@ describe('Thai Intent Dictionary & Parser', () => {
     expect(result.categories).toContain('creative');
     expect(result.companions).toBe('friends');
   });
+
+  it.each([
+    ['อยากวิ่ง', 'running'],
+    ['อยากออกกำลังกาย', 'fitness'],
+    ['อยากว่ายน้ำ', 'swimming'],
+    ['อยากไปสวน', 'nature_park'],
+  ])('maps Thai activity "%s" to a searchable category', (text, expected) => {
+    expect(parseThaiIntent({ intentText: text }).categories).toContain(expected);
+  });
 });
