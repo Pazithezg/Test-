@@ -13,17 +13,10 @@ export function mergeRealAndMockData(
   realCount: number;
   mockCount: number;
 } {
-  // Bangkok has real data from OSM files (not loaded here)
-  if (province === 'กรุงเทพมหานคร' || province === 'Bangkok') {
-    return {
-      places: [], // Real data served by existing OSM system
-      realCount: 12207,
-      mockCount: 0
-    };
-  }
-  
-  // Filter mock places by province
-  const filtered = mockPlaces.filter(p => p.province === province);
+  // Bangkok has real data from OSM files
+  // For now, also include Bangkok mock places for demo
+  const normalizedProvince = province === 'Bangkok' ? 'กรุงเทพมหานคร' : province;
+  const filtered = mockPlaces.filter(p => p.province === normalizedProvince);
   
   // Verify all have isMock: true
   filtered.forEach(place => {
@@ -32,9 +25,11 @@ export function mergeRealAndMockData(
     }
   });
   
+  const isRealBangkok = normalizedProvince === 'กรุงเทพมหานคร';
+  
   return {
     places: filtered,
-    realCount: 0,
+    realCount: isRealBangkok ? 12207 : 0,
     mockCount: filtered.length
   };
 }

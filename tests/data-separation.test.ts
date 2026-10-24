@@ -7,19 +7,25 @@ import { describe, it, expect } from 'vitest';
 import { mergeRealAndMockData } from '@/services/data-adapter/data-merger';
 
 describe('Real vs Mock Data Separation', () => {
-  it('Bangkok returns realCount=12207, mockCount=0', () => {
+  it('Bangkok returns realCount=12207, mockCount with demo places', () => {
     const result = mergeRealAndMockData('กรุงเทพมหานคร');
     
     expect(result.realCount).toBe(12207);
-    expect(result.mockCount).toBe(0);
-    expect(result.places).toHaveLength(0); // Real data served by existing OSM system
+    expect(result.mockCount).toBeGreaterThan(0); // Has demo mock places
+    expect(result.places.length).toBe(result.mockCount);
+    
+    // All returned places should have isMock: true
+    if (result.places.length > 0) {
+      const allHaveMockFlag = result.places.every(p => p.isMock === true);
+      expect(allHaveMockFlag).toBe(true);
+    }
   });
   
   it('Bangkok (English) returns same counts', () => {
     const result = mergeRealAndMockData('Bangkok');
     
     expect(result.realCount).toBe(12207);
-    expect(result.mockCount).toBe(0);
+    expect(result.mockCount).toBeGreaterThan(0);
   });
   
   it('mock province returns only mock data with isMock flag', () => {

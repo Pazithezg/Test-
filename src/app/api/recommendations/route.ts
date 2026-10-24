@@ -19,6 +19,7 @@ import { getPlaceIndex } from '@/search/place-index';
 import { parseThaiIntent } from '@/ai/thai-intent-parser';
 import { mapToOsmCategories } from '@/ai/thai-intent-dictionary';
 import { calculateDistanceKm } from '@/geo/distance';
+import { mockPlaces } from '@/data/mock-data/mock-places';
 
 export const dynamic = 'force-dynamic';
 
@@ -126,7 +127,12 @@ export async function POST(request: NextRequest) {
     }
 
     const index = await getPlaceIndex();
-    const places = index.getAllPlaces();
+    const realPlaces = index.getAllPlaces();
+    
+    // Combine real OSM places + mock places
+    const allPlacesData = [...realPlaces, ...mockPlaces];
+    
+    const places = allPlacesData;
     const intentText = String(body.intentText || '').trim();
     const intent = parseThaiIntent({ intentText: intentText || 'สถานที่ใกล้ฉัน', mood: body.mood });
     const requestedCategories = new Set(mapToOsmCategories(intent.categories));
@@ -157,26 +163,74 @@ export async function POST(request: NextRequest) {
         budgetLevel: intent.budgetLevel,
       },
       totalCandidatesEvaluated: all.length,
-      results: selected.map(({ place, distanceKm }) => ({
+      results: selected.map(({ place, distanceKm }) => {
+        const isMockPlace = (place as any).isMock === true;
+        const sourceName = isMockPlace ? 'ข้อมูลจำลอง (Mock Data)' : 'OpenStreetMap local data';
+        const priceInfo = (place as any).price ? {
+          isFree: (place as any).price === 0,
+          minPrice: (place as any).price,
+          maxPrice: (place as any).price,
+          currency: 'THB',
+          priceKnown: true,
+          priceNote: `ราคาโดยประมาณ ${(place as any).price} บาท`,
+          priceNoteTh: `ราคาโดยประมาณ ${(place as any).price} บาท`
+        } : {
+          isFree: false,
+          minPrice: null,
+          maxPrice: null,
+          currency: 'THB',
+          priceKnown: false,
+          priceNote: 'ไม่พบราคาในข้อมูลสถานที่',
+          priceNoteTh: 'ไม่พบราคาในข้อมูลสถานที่'
+        };
+        
+        return {
         id: place.id,
         type: 'place' as const,
         title: place.name,
         titleTh: place.name,
-        description: `${place.category} จากข้อมูล OpenStreetMap`,
-        descriptionTh: `สถานที่ประเภท ${place.category} จากข้อมูล OpenStreetMap`,
+        description: isMockPlace 
+          ? `${place.category} - ${(place as any).description || 'ข้อมูลจำลองสำหรับ Prototype'}` 
+          : `${place.category} จากข้อมูล OpenStreetMap`,
+        descriptionTh: isMockPlace
+          ? `${place.category} - ${(place as any).description || 'ข้อมูลจำลองสำหรับ Prototype'}`
+          : `สถานที่ประเภท ${place.category} จากข้อมูล OpenStreetMap`,
         venueName: place.name,
-        address: 'กรุงเทพฯ',
+        address: (place as any).address || (place as any).province || 'กรุงเทพฯ',
         areaId: 'nearby-pin',
         coordinates: { latitude: place.latitude, longitude: place.longitude },
         distanceKm: Number(distanceKm!.toFixed(2)),
-        pricing: { isFree: false, minPrice: null, maxPrice: null, currency: 'THB', priceKnown: false, priceNote: 'ไม่พบราคาในข้อมูลสถานที่', priceNoteTh: 'ไม่พบราคาในข้อมูลสถานที่' },
+        pricing: priceInfo,
         categories: [place.category],
         tags: Object.keys(place.tags || {}),
-        source: { sourceUrl: null, sourceName: 'OpenStreetMap local data', lastCheckedAt: now, verificationStatus: 'unverified' as const, isDemoFixture: false },
+        source: { 
+          sourceUrl: null, 
+          sourceName, 
+          lastCheckedAt: now, 
+          verificationStatus: isMockPlace ? ('mock' as any) : ('unverified' as const),
+          isDemoFixture: isMockPlace,
+          isMock: isMockPlace
+        },
         matchScore: Math.max(1, 100 - Math.round(distanceKm! * 10)),
-        explanation: { headline: 'Nearby place', headlineTh: 'สถานที่ใกล้จุดที่ปักหมุด', reasons: [`${Number(distanceKm!.toFixed(2))} km from your pin`], reasonsTh: [`ห่างจากจุดที่ปักหมุด ${Number(distanceKm!.toFixed(2))} กม.`], matchHighlights: { categoryMatch: requestedCategories.has(place.category), dateMatch: true, freeTimeMatch: true, budgetMatch: true, locationMatch: true, vibeMatch: false } },
-        actionableLinks: { sourceUrl: null, mapsUrl: `https://www.google.com/maps/dir/?api=1&origin=${location.latitude},${location.longitude}&destination=${place.latitude},${place.longitude}` },
-      })),
+        explanation: { 
+          headline: isMockPlace ? 'Mock place for testing' : 'Nearby place', 
+          headlineTh: isMockPlace ? 'ข้อมูลจำลองสำหรับทดสอบ' : 'สถานที่ใกล้จุดที่ปักหมุด', 
+          reasons: [`${Number(distanceKm!.toFixed(2))} km from your pin`], 
+          reasonsTh: [`ห่างจากจุดที่ปักหมุด ${Number(distanceKm!.toFixed(2))} กม.`], 
+          matchHighlights: { 
+            categoryMatch: requestedCategories.has(place.category), 
+            dateMatch: true, 
+            freeTimeMatch: true, 
+            budgetMatch: true, 
+            locationMatch: true, 
+            vibeMatch: false 
+          } 
+        },
+        actionableLinks: { 
+          sourceUrl: null, 
+          mapsUrl: `https://www.google.com/maps/dir/?api=1&origin=${location.latitude},${location.longitude}&destination=${place.latitude},${place.longitude}` 
+        },
+      }}),
       metadata: { executionTimeMs: 0, aiAssisted: false, aiProvider: 'deterministic_local_search', dataFreshnessReference: 'Local OpenStreetMap dataset' },
     };
     return NextResponse.json(result, { status: 200 });

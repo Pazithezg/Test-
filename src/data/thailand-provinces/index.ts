@@ -13,7 +13,7 @@ export const provinces: ProvinceData[] = [
     latitude: 13.7563,
     longitude: 100.5018,
     realPlacesCount: 12207, // From existing OSM data
-    mockPlacesCount: 0, // Bangkok has real data only
+    mockPlacesCount: 8, // From mock-places.ts
     categories: [
       'cafe', 'restaurant', 'museum', 'shopping', 'park',
       'shop', 'bar', 'hotel', 'fitness', 'attraction',
@@ -28,7 +28,7 @@ export const provinces: ProvinceData[] = [
     latitude: 18.7883,
     longitude: 98.9853,
     realPlacesCount: 0, // Will be populated from OSM
-    mockPlacesCount: 3, // From mock-places.ts
+    mockPlacesCount: 5, // From mock-places.ts
     categories: ['cafe', 'restaurant', 'attraction', 'temple', 'market'],
     lastUpdated: '2026-10-24'
   },
@@ -94,7 +94,7 @@ export const provinces: ProvinceData[] = [
     latitude: 14.3532,
     longitude: 100.5776,
     realPlacesCount: 0,
-    mockPlacesCount: 0,
+    mockPlacesCount: 2,
     categories: ['temple', 'attraction', 'restaurant', 'museum'],
     lastUpdated: '2026-10-24'
   },
@@ -127,7 +127,7 @@ export const provinces: ProvinceData[] = [
     latitude: 19.9105,
     longitude: 99.8406,
     realPlacesCount: 0,
-    mockPlacesCount: 0,
+    mockPlacesCount: 2,
     categories: ['temple', 'attraction', 'cafe', 'restaurant'],
     lastUpdated: '2026-10-24'
   }

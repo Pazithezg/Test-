@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'NearTrip - ค้นพบประสบการณ์ใกล้ตัวแบบเรียลไทม์',
-  description: 'ค้นหาสถานที่ กิจกรรม และอีเวนต์ใกล้คุณในเวลาที่มีอยู่',
+  title: 'ทำไรดี - ค้นหาสถานที่ท่องเที่ยวและกิจกรรมใกล้คุณ',
+  description: 'วางแผนเวลาว่างให้คุ้มค่า คำนวณเวลา ระยะทาง ค่าใช้จ่าย พร้อมแนะนำสถานที่ใกล้เคียง',
 };
 
 export default function RootLayout({

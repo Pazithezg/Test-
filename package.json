@@ -1,8 +1,8 @@
 {
-  "name": "travel-discovery-backend",
+  "name": "thamrai-dee",
   "version": "1.0.0",
   "private": true,
-  "description": "Backend and core discovery system for Bangkok location-aware activity and event discovery",
+  "description": "ทำไรดี - วางแผนเวลาว่างให้คุ้มค่า ค้นหาสถานที่ท่องเที่ยวและกิจกรรมใกล้คุณ",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

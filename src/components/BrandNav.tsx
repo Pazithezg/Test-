@@ -7,7 +7,7 @@ export interface BrandNavProps {
 export default function BrandNav({ active = 'discover' }: BrandNavProps) {
   return (
     <nav className="brand-nav" aria-label="เมนูหลัก">
-      <Link href="/" className="brand-mark">Near<span>Trip</span></Link>
+      <Link href="/" className="brand-mark">ทำไร<span>ดี</span></Link>
       <div className="brand-nav-links">
         <Link className={active === 'discover' ? 'active' : ''} href="/">ค้นพบใกล้ตัว</Link>
         <Link className={active === 'map' ? 'active' : ''} href="/map">แผนที่</Link>

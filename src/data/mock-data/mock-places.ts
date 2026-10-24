@@ -119,8 +119,209 @@ export const mockPlaces: PlaceData[] = [
     isMock: true
   },
 
-  // Add more mock places for other provinces...
-  // Total should be ~150 mock places across all categories and provinces
+  // Bangkok Mock Places
+  {
+    id: 'mock-bkk-cafe-001',
+    name: 'คาเฟ่กลางเมือง',
+    nameTh: 'คาเฟ่กลางเมือง',
+    category: 'cafe',
+    latitude: 13.7563,
+    longitude: 100.5018,
+    province: 'กรุงเทพมหานคร',
+    address: 'ใกล้สยาม',
+    source: 'mock',
+    lastUpdated: '2026-10-24',
+    dataQuality: 'mock',
+    isMock: true
+  },
+  {
+    id: 'mock-bkk-park-001',
+    name: 'สวนสาธารณะกลางเมือง',
+    nameTh: 'สวนสาธารณะกลางเมือง',
+    category: 'park',
+    latitude: 13.7310,
+    longitude: 100.5418,
+    province: 'กรุงเทพมหานคร',
+    address: 'ถนนพระราม 4',
+    source: 'mock',
+    lastUpdated: '2026-10-24',
+    dataQuality: 'mock',
+    isMock: true
+  },
+  {
+    id: 'mock-bkk-fitness-001',
+    name: 'ฟิตเนสตัวอย่าง',
+    nameTh: 'ฟิตเนสตัวอย่าง',
+    category: 'fitness',
+    latitude: 13.7460,
+    longitude: 100.5340,
+    province: 'กรุงเทพมหานคร',
+    address: 'ใกล้ BTS',
+    source: 'mock',
+    lastUpdated: '2026-10-24',
+    dataQuality: 'mock',
+    isMock: true
+  },
+  {
+    id: 'mock-bkk-pool-001',
+    name: 'สระว่ายน้ำสาธารณะ',
+    nameTh: 'สระว่ายน้ำสาธารณะ',
+    category: 'fitness',
+    latitude: 13.7650,
+    longitude: 100.5380,
+    province: 'กรุงเทพมหานคร',
+    address: 'ใกล้สวนลุม',
+    source: 'mock',
+    lastUpdated: '2026-10-24',
+    dataQuality: 'mock',
+    isMock: true
+  },
+  {
+    id: 'mock-bkk-market-001',
+    name: 'ตลาดตัวอย่าง',
+    nameTh: 'ตลาดตัวอย่าง',
+    category: 'market',
+    latitude: 13.7990,
+    longitude: 100.5530,
+    province: 'กรุงเทพมหานคร',
+    address: 'ใกล้จตุจักร',
+    source: 'mock',
+    lastUpdated: '2026-10-24',
+    dataQuality: 'mock',
+    isMock: true
+  },
+  {
+    id: 'mock-bkk-museum-001',
+    name: 'พิพิธภัณฑ์ตัวอย่าง',
+    nameTh: 'พิพิธภัณฑ์ตัวอย่าง',
+    category: 'museum',
+    latitude: 13.7470,
+    longitude: 100.4920,
+    province: 'กรุงเทพมหานคร',
+    address: 'ใกล้แม่น้ำเจ้าพระยา',
+    source: 'mock',
+    lastUpdated: '2026-10-24',
+    dataQuality: 'mock',
+    isMock: true
+  },
+  {
+    id: 'mock-bkk-restaurant-001',
+    name: 'ร้านอาหารไทยตัวอย่าง',
+    nameTh: 'ร้านอาหารไทยตัวอย่าง',
+    category: 'restaurant',
+    latitude: 13.7520,
+    longitude: 100.4950,
+    province: 'กรุงเทพมหานคร',
+    address: 'ริมแม่น้ำ',
+    source: 'mock',
+    lastUpdated: '2026-10-24',
+    dataQuality: 'mock',
+    isMock: true
+  },
+  {
+    id: 'mock-bkk-shopping-001',
+    name: 'ห้างสรรพสินค้าตัวอย่าง',
+    nameTh: 'ห้างสรรพสินค้าตัวอย่าง',
+    category: 'shopping',
+    latitude: 13.7470,
+    longitude: 100.5390,
+    province: 'กรุงเทพมหานคร',
+    address: 'ใกล้รัชดาภิเษก',
+    source: 'mock',
+    lastUpdated: '2026-10-24',
+    dataQuality: 'mock',
+    isMock: true
+  },
+
+  // More Chiang Mai
+  {
+    id: 'mock-cm-park-001',
+    name: 'สวนสาธารณะเชียงใหม่',
+    nameTh: 'สวนสาธารณะเชียงใหม่',
+    category: 'park',
+    latitude: 18.7900,
+    longitude: 98.9800,
+    province: 'เชียงใหม่',
+    address: 'ในเมืองเชียงใหม่',
+    source: 'mock',
+    lastUpdated: '2026-10-24',
+    dataQuality: 'mock',
+    isMock: true
+  },
+  {
+    id: 'mock-cm-fitness-001',
+    name: 'ฟิตเนสเชียงใหม่',
+    nameTh: 'ฟิตเนสเชียงใหม่',
+    category: 'fitness',
+    latitude: 18.7950,
+    longitude: 98.9920,
+    province: 'เชียงใหม่',
+    address: 'นิมมาน',
+    source: 'mock',
+    lastUpdated: '2026-10-24',
+    dataQuality: 'mock',
+    isMock: true
+  },
+
+  // Ayutthaya
+  {
+    id: 'mock-ay-temple-001',
+    name: 'วัดตัวอย่างอยุธยา',
+    nameTh: 'วัดตัวอย่างอยุธยา',
+    category: 'attraction',
+    latitude: 14.3532,
+    longitude: 100.5676,
+    province: 'พระนครศรีอยุธยา',
+    address: 'เกาะเมืองอยุธยา',
+    source: 'mock',
+    lastUpdated: '2026-10-24',
+    dataQuality: 'mock',
+    isMock: true
+  },
+  {
+    id: 'mock-ay-market-001',
+    name: 'ตลาดอยุธยา',
+    nameTh: 'ตลาดอยุธยา',
+    category: 'market',
+    latitude: 14.3580,
+    longitude: 100.5710,
+    province: 'พระนครศรีอยุธยา',
+    address: 'ริมแม่น้ำ',
+    source: 'mock',
+    lastUpdated: '2026-10-24',
+    dataQuality: 'mock',
+    isMock: true
+  },
+
+  // Chiang Rai
+  {
+    id: 'mock-cr-cafe-001',
+    name: 'คาเฟ่เชียงราย',
+    nameTh: 'คาเฟ่เชียงราย',
+    category: 'cafe',
+    latitude: 19.9105,
+    longitude: 99.8406,
+    province: 'เชียงราย',
+    address: 'ใจกลางเมือง',
+    source: 'mock',
+    lastUpdated: '2026-10-24',
+    dataQuality: 'mock',
+    isMock: true
+  },
+  {
+    id: 'mock-cr-temple-001',
+    name: 'วัดตัวอย่างเชียงราย',
+    nameTh: 'วัดตัวอย่างเชียงราย',
+    category: 'attraction',
+    latitude: 19.9150,
+    longitude: 99.8320,
+    province: 'เชียงราย',
+    address: 'เมืองเชียงราย',
+    source: 'mock',
+    lastUpdated: '2026-10-24',
+    dataQuality: 'mock',
+    isMock: true
+  }
 ];
 
 /**

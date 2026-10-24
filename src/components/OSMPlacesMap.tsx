@@ -78,7 +78,7 @@ function PlaceMarkers({ places, onPlaceClick }: { places: Place[]; onPlaceClick?
             <br/>
             <a href="https://www.openstreetmap.org/${place.osmType}/${place.osmId}" 
                target="_blank" 
-               style="font-size: 0.85rem; color: #38bdf8;">
+               style="font-size: 0.85rem; color: #0ea5e9;">
               View on OpenStreetMap →
             </a>
           </div>

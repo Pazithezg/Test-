@@ -15,22 +15,22 @@ L.Icon.Default.mergeOptions({
 });
 
 interface BangkokMapProps {
-  onLocationSelect?: (lat: number, lng: number) => void;
+  onSelect?: (lat: number, lng: number) => void;
   initialCenter?: [number, number];
   initialZoom?: number;
   height?: string;
 }
 
 // Component to handle map clicks
-function LocationMarker({ onLocationSelect, initialPosition }: { onLocationSelect?: (lat: number, lng: number) => void; initialPosition?: [number, number] }) {
+function LocationMarker({ onSelect, initialPosition }: { onSelect?: (lat: number, lng: number) => void; initialPosition?: [number, number] }) {
   const [position, setPosition] = useState<[number, number] | null>(initialPosition || null);
 
   useMapEvents({
     click(e) {
       const { lat, lng } = e.latlng;
       setPosition([lat, lng]);
-      if (onLocationSelect) {
-        onLocationSelect(lat, lng);
+      if (onSelect) {
+        onSelect(lat, lng);
       }
     },
   });
@@ -42,7 +42,7 @@ function LocationMarker({ onLocationSelect, initialPosition }: { onLocationSelec
       const marker = e.target as L.Marker;
       const next = marker.getLatLng();
       setPosition([next.lat, next.lng]);
-      onLocationSelect?.(next.lat, next.lng);
+      onSelect?.(next.lat, next.lng);
     } }}>
       <Popup>
         <div style={{ fontSize: '0.9rem', lineHeight: 1.4 }}>
@@ -58,7 +58,7 @@ function LocationMarker({ onLocationSelect, initialPosition }: { onLocationSelec
 }
 
 export default function BangkokMap({
-  onLocationSelect,
+  onSelect,
   initialCenter = [13.7563, 100.5018], // Bangkok center
   initialZoom = 12,
   height = '500px',
@@ -67,8 +67,8 @@ export default function BangkokMap({
 
   const handleLocationSelect = (lat: number, lng: number) => {
     setSelectedCoords({ lat, lng });
-    if (onLocationSelect) {
-      onLocationSelect(lat, lng);
+    if (onSelect) {
+      onSelect(lat, lng);
     }
   };
 
@@ -94,7 +94,7 @@ export default function BangkokMap({
             url="https://tile.openstreetmap.org/{z}/{x}/{y}.png"
             maxZoom={19}
           />
-          <LocationMarker onLocationSelect={handleLocationSelect} initialPosition={selectedCoords ? [selectedCoords.lat, selectedCoords.lng] : undefined} />
+          <LocationMarker onSelect={handleLocationSelect} initialPosition={selectedCoords ? [selectedCoords.lat, selectedCoords.lng] : undefined} />
         </MapContainer>
       </div>
 
