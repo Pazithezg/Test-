@@ -1,0 +1,2483 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "OpenStreetMap",
+    "snapshotDate": "2026-10-23",
+    "category": "museum",
+    "count": 131,
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL",
+    "url": "https://www.openstreetmap.org/copyright"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "osm-node-5764199061",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54449,
+          13.739048
+        ]
+      },
+      "properties": {
+        "name": "100 tonson gallery",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "5764199061"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5342565921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5150098,
+          13.7302643
+        ]
+      },
+      "properties": {
+        "name": "1PROJECTS",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "5342565921",
+        "addr:street": "ซอยเจริญกรุง 26",
+        "addr:housenumber": "672/63",
+        "phone": "+66 816995298",
+        "website": "https://www.1projects.org",
+        "description": "1PROJECTS organises Asian contemporary art projects. We seek to promote and support Asian emerging contemporary artists locally and internationally at art fairs, overseas galleries or 1PROJECTS’ own gallery space in Bangkok, Thailand."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6274093085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5481405,
+          13.7245223
+        ]
+      },
+      "properties": {
+        "name": "338 Oida Gallery Bangkok",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "6274093085"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5999761382",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5777848,
+          13.7183962
+        ]
+      },
+      "properties": {
+        "name": "กามาวิจิตรา",
+        "nameTh": "กามาวิจิตรา",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "5999761382",
+        "addr:street": "ซอยแสงชัย ซอยสุขุมวิท 38",
+        "addr:housenumber": "25/14"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1333746826",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55089508,
+          13.736659959999997
+        ]
+      },
+      "properties": {
+        "name": "คาฬวิท",
+        "nameTh": "คาฬวิท",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1333746826"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10792898504",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5045967,
+          13.7517945
+        ]
+      },
+      "properties": {
+        "name": "จอยแมน แกลลอรี่",
+        "nameTh": "จอยแมน แกลลอรี่",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "10792898504",
+        "addr:street": "ถนนมหาไชย",
+        "addr:housenumber": "357-359",
+        "phone": "+6665-124-1111",
+        "website": "https://www.joymangallery.com",
+        "opening_hours": "Tu-Su 11:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14069978050",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5431728,
+          13.8049427
+        ]
+      },
+      "properties": {
+        "name": "ชุมทางบางซื่อ ณ วันวาน",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "14069978050"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1135386422",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47020097,
+          13.788689259999998
+        ]
+      },
+      "properties": {
+        "name": "ชุ่ยสโมสร",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1135386422"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11431852656",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5162403,
+          13.7244797
+        ]
+      },
+      "properties": {
+        "name": "เซ็นทรัล สเปซ",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "11431852656"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1156196151",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51028406,
+          13.72920056
+        ]
+      },
+      "properties": {
+        "name": "เดอะแจมแฟคทอรี่แกลเลอรี่",
+        "nameTh": "เดอะแจมแฟคทอรี่แกลเลอรี่",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1156196151"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1365786068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54581373333333,
+          13.726617333333332
+        ]
+      },
+      "properties": {
+        "name": "เดอะไวร์เลสเฮาส์",
+        "nameTh": "เดอะไวร์เลสเฮาส์",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1365786068"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-178329986",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49165153783783,
+          13.75434874864865
+        ]
+      },
+      "properties": {
+        "name": "ตึกถาวรวัตถุ",
+        "nameTh": "ตึกถาวรวัตถุ",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "178329986"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14257969134",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4891926,
+          13.7527473
+        ]
+      },
+      "properties": {
+        "name": "ท่าพิพิธภัณฑ์",
+        "nameTh": "ท่าพิพิธภัณฑ์",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "14257969134",
+        "addr:street": "ถนนมหาราช",
+        "addr:housenumber": "166",
+        "phone": "(+66)65-097-9909",
+        "website": "https://www.museumpier.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13955697790",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5146751,
+          13.7402997
+        ]
+      },
+      "properties": {
+        "name": "บางกอก คุนส์ฮาเลอ",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "13955697790",
+        "addr:street": "ซอยพันธจิตต์",
+        "addr:housenumber": "599"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1232451911",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51578144285715,
+          13.724730314285713
+        ]
+      },
+      "properties": {
+        "name": "บ้านเขียวอันยุมัน",
+        "nameTh": "บ้านเขียวอันยุมัน",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1232451911"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-539017238",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54717297812499,
+          13.746242403124997
+        ]
+      },
+      "properties": {
+        "name": "บ้านปาร์คนายเลิศ",
+        "nameTh": "บ้านปาร์คนายเลิศ",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "539017238"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1530111538",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.39163798000001,
+          13.79718604
+        ]
+      },
+      "properties": {
+        "name": "บ้านพิพิธภัณฑ์",
+        "nameTh": "บ้านพิพิธภัณฑ์",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1530111538",
+        "addr:street": "Khlong Pho Land, Moo 7, Soi 2, Khlong Pho Rd.",
+        "addr:housenumber": "170/17"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1209280473",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46349086000001,
+          13.73084686
+        ]
+      },
+      "properties": {
+        "name": "บ้านพึ่งศิลป์คลองบางหลวง",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1209280473"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-352117293",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46322575714285,
+          13.731287742857145
+        ]
+      },
+      "properties": {
+        "name": "บ้านศิลปิน",
+        "nameTh": "บ้านศิลปิน",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "352117293",
+        "website": "https://www.artisthousebangkok.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1004865076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4998859,
+          13.751452480000001
+        ]
+      },
+      "properties": {
+        "name": "บำรุงชาติสาสนายาไทย",
+        "nameTh": "บำรุงชาติสาสนายาไทย",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1004865076"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-897441588",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5284422,
+          13.749836400000001
+        ]
+      },
+      "properties": {
+        "name": "ผ้าไหมบ้านครัว",
+        "nameTh": "ผ้าไหมบ้านครัว",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "897441588"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-863463383",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53290021785713,
+          13.768815557142855
+        ]
+      },
+      "properties": {
+        "name": "พระราชวังพญาไท",
+        "nameTh": "พระราชวังพญาไท",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "863463383"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12619471943",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5112538,
+          13.735041
+        ]
+      },
+      "properties": {
+        "name": "พิพิธตลาดน้อย",
+        "nameTh": "พิพิธตลาดน้อย",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "12619471943"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12841518298",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5106851,
+          13.7680314
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภ้ณฑ์ตำรวจ",
+        "nameTh": "พิพิธภ้ณฑ์ตำรวจ",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "12841518298"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1255671352",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49559433333333,
+          13.744588466666665
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์กรมที่ดิน",
+        "nameTh": "พิพิธภัณฑ์กรมที่ดิน",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1255671352"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12182702231",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4860851,
+          13.7582291
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ก่อนประวัติศาสตร์ สุด แสงวิเชียร",
+        "nameTh": "พิพิธภัณฑ์ก่อนประวัติศาสตร์ สุด แสงวิเชียร",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "12182702231"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12182702230",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4862081,
+          13.7582031
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์กายวิภาคศาสตร์คองดอน",
+        "nameTh": "พิพิธภัณฑ์กายวิภาคศาสตร์คองดอน",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "12182702230"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1374667393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53983193157896,
+          13.782332563157892
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์การกระจายเสียงและหอจดหมายเหตุ กรมประชาสัมพันธ์",
+        "nameTh": "พิพิธภัณฑ์การกระจายเสียงและหอจดหมายเหตุ กรมประชาสัมพันธ์",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1374667393"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12182702234",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4849183,
+          13.7587685
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์การแพทย์แผนไทย อวย เกตุสิงห์",
+        "nameTh": "พิพิธภัณฑ์การแพทย์แผนไทย อวย เกตุสิงห์",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "12182702234"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2447283108",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4854995,
+          13.7587143
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์การแพทย์ศิริราช",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "2447283108"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1485366495",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49957601999999,
+          13.74143568
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์การไฟฟ้าไทย",
+        "nameTh": "พิพิธภัณฑ์การไฟฟ้าไทย",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1485366495"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1104559611",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60523819230772,
+          13.668496530769232
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์การเรียนรู้อุตุนิยมวิทยา",
+        "nameTh": "พิพิธภัณฑ์การเรียนรู้อุตุนิยมวิทยา",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1104559611"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1222569935",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54707586999999,
+          13.707392810000002
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์คงเที่ยง",
+        "nameTh": "พิพิธภัณฑ์คงเที่ยง",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1222569935"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-210306786",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51805364444445,
+          13.72811198888889
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ชาวบางกอก",
+        "nameTh": "พิพิธภัณฑ์ชาวบางกอก",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "210306786",
+        "opening_hours": "Tu-Su,PH 09:00-16:00; Mo closed"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-83519055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55067518000001,
+          13.80338596
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์เด็กกรุงเทพมหานคร",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "83519055"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1373257203",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52762909230768,
+          13.79525136923077
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ทหารสรรพาวุธ",
+        "nameTh": "พิพิธภัณฑ์ทหารสรรพาวุธ",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1373257203"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1373388545",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5263427888889,
+          13.79183361111111
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ทหารสื่อสาร",
+        "nameTh": "พิพิธภัณฑ์ทหารสื่อสาร",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1373388545",
+        "website": "https://signal.rta.mi.th/web/newweb/his.php#pipittapan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3096836185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5110977,
+          13.7367162
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ท้องถิ่นกรุงเทพมหานคร เขตสัมพันธวงศ์",
+        "nameTh": "พิพิธภัณฑ์ท้องถิ่นกรุงเทพมหานคร เขตสัมพันธวงศ์",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "3096836185"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2411920280",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.529853,
+          13.7371239
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์เทคโนโลยีทางภาพ",
+        "nameTh": "พิพิธภัณฑ์เทคโนโลยีทางภาพ",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "2411920280"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3542061032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4995365,
+          13.7682842
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ธนาคารแห่งประเทศไทย",
+        "nameTh": "พิพิธภัณฑ์ธนาคารแห่งประเทศไทย",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "3542061032",
+        "website": "https://www.botlc.or.th/museum",
+        "opening_hours": "Sat-Sun 09:30-16:30",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12691410977",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4982932,
+          13.7679769
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ธนาคารแห่งประเทศไทย",
+        "nameTh": "พิพิธภัณฑ์ธนาคารแห่งประเทศไทย",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "12691410977"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10072839713",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5295838,
+          13.7351853
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ธรณีวิทยา",
+        "nameTh": "พิพิธภัณฑ์ธรณีวิทยา",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "10072839713"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12182702233",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4853071,
+          13.7588636
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์นิติเวชศาสตร์ สงกรานต์ นิยมเสน",
+        "nameTh": "พิพิธภัณฑ์นิติเวชศาสตร์ สงกรานต์ นิยมเสน",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "12182702233"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1467232352",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49305541666666,
+          13.739427666666666
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์บ้านกุฎีจีน",
+        "nameTh": "พิพิธภัณฑ์บ้านกุฎีจีน",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1467232352"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12182702235",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4847728,
+          13.7589152
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ปรสิตวิทยา",
+        "nameTh": "พิพิธภัณฑ์ปรสิตวิทยา",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "12182702235"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1799203298",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56285,
+          13.6998906
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ปลากัดสยาม",
+        "nameTh": "พิพิธภัณฑ์ปลากัดสยาม",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "1799203298",
+        "phone": "+66 89 4464155",
+        "opening_hours": "Sa-Su 10:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-82542417",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49071687777779,
+          13.75195694074074
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ผ้าในสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ",
+        "nameTh": "พิพิธภัณฑ์ผ้าในสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "82542417",
+        "website": "https://www.qsmtthailand.org/",
+        "opening_hours": "Mo-Su 09:00-16:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12182702232",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4851085,
+          13.7587712
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์พยาธิวิทยาเอลลิส",
+        "nameTh": "พิพิธภัณฑ์พยาธิวิทยาเอลลิส",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "12182702232"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-229966092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50647065000001,
+          13.756075509375002
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว",
+        "nameTh": "พิพิธภัณฑ์พระบาทสมเด็จพระปกเกล้าเจ้าอยู่หัว",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "229966092"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-628951391",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51449608888889,
+          13.746931933333334
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์พระพุทธศาสนาวัดเทพศิรินทร์",
+        "nameTh": "พิพิธภัณฑ์พระพุทธศาสนาวัดเทพศิรินทร์",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "628951391"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1371677911",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51316291111111,
+          13.766769833333333
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์พระอนุสรณ์ อ.ป.ก.",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1371677911"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-539268957",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5374095888889,
+          13.746226566666667
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์พระอาจารย์มั่น ภูริทตฺโต วัดปทุมวนาราม",
+        "nameTh": "พิพิธภัณฑ์พระอาจารย์มั่น ภูริทตฺโต วัดปทุมวนาราม",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "539268957",
+        "phone": "+66 98 095 3040",
+        "opening_hours": "We-Su 08:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10072839714",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5305626,
+          13.735042
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์พืช ศาสตราจารย์กสิน สุวตะพันธ์ุ",
+        "nameTh": "พิพิธภัณฑ์พืช ศาสตราจารย์กสิน สุวตะพันธ์",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "10072839714"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12118055070",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5711404,
+          13.6974329
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์พื้นบ้านคลองบน",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "12118055070"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5938466357",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.515678,
+          13.7474923
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์เพื่อการศึกษาโรงเรียนเทพศิรินทร์",
+        "nameTh": "พิพิธภัณฑ์เพื่อการศึกษาโรงเรียนเทพศิรินทร์",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "5938466357"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-332674477",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5782355,
+          13.72297654
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์เภสัชกรรมไทย",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "332674477"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-200670984",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53234072,
+          13.73957906
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์มหาวิทยาลัย",
+        "nameTh": "พิพิธภัณฑ์มหาวิทยาลัย",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "200670984"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2962478192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5344222,
+          13.7435407
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ร่างกายมนุษย์",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "2962478192",
+        "phone": "+66 87 097 5481",
+        "opening_hours": "Mo,Fr 09:00-16:00; We 09:00-12:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-87995463",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50352808333332,
+          13.74879595
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ราชทัณฑ์",
+        "nameTh": "พิพิธภัณฑ์ราชทัณฑ์",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "87995463",
+        "addr:street": "ถนนมหาไชย",
+        "addr:housenumber": "463",
+        "opening_hours": "closed"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4590299089",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5613203,
+          13.7391534
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์เรือนคำเที่ยง",
+        "nameTh": "พิพิธภัณฑ์เรือนคำเที่ยง",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "4590299089"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2962489061",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5497571,
+          13.7530368
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์แรงงานไทย",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "2962489061",
+        "addr:street": "Ratchathewi Road",
+        "phone": "+66 02 251 3173"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13081957326",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5265347,
+          13.7631705
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์แร่-หิน",
+        "nameTh": "พิพิธภัณฑ์แร่-หิน",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "13081957326"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-349650555",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51347364705883,
+          13.755655129411764
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์วังวรดิศ",
+        "nameTh": "พิพิธภัณฑ์วังวรดิศ",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "349650555"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12712708926",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5136741,
+          13.737669
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์วัดไตรมิตร",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "12712708926"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-82542154",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49013018000001,
+          13.75096088
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์วัดพระศรีรัตนศาสดาราม",
+        "nameTh": "พิพิธภัณฑ์วัดพระศรีรัตนศาสดาราม",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "82542154",
+        "opening_hours": "Mo-Su 09:00-15:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-320273828",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48680056666667,
+          13.759773833333332
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์ศิริราชพิมุขสถาน",
+        "nameTh": "พิพิธภัณฑ์ศิริราชพิมุขสถาน",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "320273828"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13081424492",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5247066,
+          13.7653332
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์สตางค์ มงคลสุข",
+        "nameTh": "พิพิธภัณฑ์สตางค์ มงคลสุข",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "13081424492"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-373098282",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5300846,
+          13.7374778
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑสถานธรรมชาติวิทยา",
+        "nameTh": "พิพิธภัณฑสถานธรรมชาติวิทยา",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "373098282"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-202235947",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48449166666667,
+          13.761992233333332
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑสถานแห่งชาติ เรือพระราชพิธี",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "202235947"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3568027498",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4908979,
+          13.752666
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑสถานแห่งชาติศิลป์พีระศรี",
+        "nameTh": "พิพิธภัณฑสถานแห่งชาติศิลป์พีระศรี",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "3568027498"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-261080002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53185003333334,
+          13.732102399999999
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์​สภากาชาดไทย",
+        "nameTh": "พิพิธภัณฑ์​สภากาชาดไทย",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "261080002"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13076284527",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.530678,
+          13.7439142
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์สมุนไพร",
+        "nameTh": "พิพิธภัณฑ์สมุนไพร",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "13076284527",
+        "opening_hours": "Th 09:00-12:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1466799252",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50387253333334,
+          13.753622983333335
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์สุนทรภู่",
+        "nameTh": "พิพิธภัณฑ์สุนทรภู่",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1466799252"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1263652598",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51149957999999,
+          13.777279513333333
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์หนังสือพิมพ์ไทย",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1263652598"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-134103785",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49461361666668,
+          13.759028183333333
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์เหรียญกษาปณานุรักษ์",
+        "nameTh": "พิพิธภัณฑ์เหรียญกษาปณานุรักษ์",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "134103785"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1128384545",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60341932857143,
+          13.67567157142857
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์เหล้าโบราณ",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1128384545"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13630816737",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5296289,
+          13.7746413
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์แห่งการเรียนรู้การประปาไทย",
+        "nameTh": "พิพิธภัณฑ์แห่งการเรียนรู้การประปาไทย",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "13630816737"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10316166095",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5855026,
+          13.6710807
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์อุทกศาสตร์",
+        "nameTh": "พิพิธภัณฑ์อุทกศาสตร์",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "10316166095",
+        "addr:housenumber": "222"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6285636993",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5145645,
+          13.7278474
+        ]
+      },
+      "properties": {
+        "name": "พีที แกลเลอรี่",
+        "nameTh": "พีที แกลเลอรี่",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "6285636993"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1696984912",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5317246,
+          13.7464988
+        ]
+      },
+      "properties": {
+        "name": "มาดามทุสโซ กรุงเทพฯ",
+        "nameTh": "มาดามทุสโซ กรุงเทพฯ",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "1696984912",
+        "website": "https://www.madametussauds.com/bangkok"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-349609932",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49401679333336,
+          13.744104553333335
+        ]
+      },
+      "properties": {
+        "name": "มิวเซียมสยาม",
+        "nameTh": "มิวเซียมสยาม",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "349609932",
+        "phone": "+66(0)-2225-2777",
+        "website": "https://www.museumsiam.org/",
+        "opening_hours": "Tu-Su 10:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-993621177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51512697999999,
+          13.729122660000002
+        ]
+      },
+      "properties": {
+        "name": "เล็กแกลเลอรี่อาร์ต",
+        "nameTh": "เล็กแกลเลอรี่อาร์ต",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "993621177",
+        "addr:street": "ซอยเจริญกรุง 30",
+        "addr:housenumber": "27;27/1;27/2;27/3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-82078207",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49175945714285,
+          13.750976442857143
+        ]
+      },
+      "properties": {
+        "name": "ศาลาเครื่องราชอิสริยยศ เครื่องราชอิสริยาภรณ์ และเหรียญกษาปณ์",
+        "nameTh": "ศาลาเครื่องราชอิสริยยศ เครื่องราชอิสริยาภรณ์ และเหรียญกษาปณ์",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "82078207"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1194737958",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5083855857143,
+          13.766782099999999
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์การเรียนรู้กระทรวงศึกษาธิการ",
+        "nameTh": "ศูนย์การเรียนรู้กระทรวงศึกษาธิการ",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1194737958"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1533185271",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57765466666666,
+          13.755628344444444
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์การเรียนรู้ด้านรถไฟฟ้าขนส่งมวลชน",
+        "nameTh": "ศูนย์การเรียนรู้ด้านรถไฟฟ้าขนส่งมวลชน",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1533185271"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12712706791",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5137571,
+          13.7376953
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์ประวัติศาสตร์เยาวราช",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "12712706791"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-283722626",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.542939825,
+          13.719600291666668
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์เรียนรู้สุขภาวะ",
+        "nameTh": "ศูนย์เรียนรู้สุขภาวะ",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "283722626",
+        "addr:street": "Soi Ngam Duphli",
+        "addr:housenumber": "99/8",
+        "phone": "+6623431551",
+        "website": "https://www.thaihealth.or.th/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-283723388",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54331830000001,
+          13.7191806
+        ]
+      },
+      "properties": {
+        "name": "สถาบันคึกฤทธิ์",
+        "nameTh": "สถาบันคึกฤทธิ์",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "283723388",
+        "addr:street": "ซอยงามดูพลี",
+        "addr:housenumber": "99/9",
+        "phone": "+66 2 286 5385",
+        "website": "https://www.kukrit-pramoj.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-210310633",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56130966666667,
+          13.739176338095236
+        ]
+      },
+      "properties": {
+        "name": "สยามสมาคม",
+        "nameTh": "สยามสมาคม",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "210310633"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-854663911",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52732042,
+          13.74351378
+        ]
+      },
+      "properties": {
+        "name": "สวนหินอ่อน วังวินด์เซอร์",
+        "nameTh": "สวนหินอ่อน วังกลางทุ่งหรือวังใหม่",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "854663911"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3548636595",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5192753,
+          13.7558423
+        ]
+      },
+      "properties": {
+        "name": "หอเกียรติภูมินายกรัฐมนตรีไทย",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "3548636595"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4458832744",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5318633,
+          13.7370328
+        ]
+      },
+      "properties": {
+        "name": "หอประวัติจุฬาลงกรณ์มหาวิทยาลัย",
+        "nameTh": "หอประวัติจุฬาลงกรณ์มหาวิทยาลัย",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "4458832744"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3568027060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4908389,
+          13.753234
+        ]
+      },
+      "properties": {
+        "name": "หอศิลป์คณะจิตรกรรมประติมากรรมและภาพพิมพ์",
+        "nameTh": "หอศิลป์คณะจิตรกรรมประติมากรรมและภาพพิมพ์",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "3568027060"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12011861808",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4948587,
+          13.7633704
+        ]
+      },
+      "properties": {
+        "name": "หอศิลป์ ณ บ้านเจ้าพระยา",
+        "nameTh": "หอศิลป์ ณ บ้านเจ้าพระยา",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "12011861808",
+        "opening_hours": "Tu-Su 10:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1147659014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52836935555555,
+          13.748777044444445
+        ]
+      },
+      "properties": {
+        "name": "หอศิลป์บ้านจิมทอมป์สัน",
+        "nameTh": "หอศิลป์บ้านจิมทอมป์สัน",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1147659014",
+        "website": "http://www.jimthompsonartcenter.org",
+        "opening_hours": "Mo-Su 10:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-351091872",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4899589076923,
+          13.752898346153845
+        ]
+      },
+      "properties": {
+        "name": "หอศิลป์มหาวิทยาลัยศิลปากร",
+        "nameTh": "หอศิลป์มหาวิทยาลัยศิลปากร",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "351091872"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1331925686",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5752617,
+          13.766945960000003
+        ]
+      },
+      "properties": {
+        "name": "หอศิลป์แห่งชาติ",
+        "nameTh": "หอศิลป์แห่งชาติ",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1331925686",
+        "addr:street": "ถนนเทียมร่วมมิตร"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-368158915",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57428947500001,
+          13.765976649999999
+        ]
+      },
+      "properties": {
+        "name": "อาคารนิทรรศการและการศึกษา",
+        "nameTh": "อาคารนิทรรศการและการศึกษา",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "368158915"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11063201970",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5126894,
+          13.7371705
+        ]
+      },
+      "properties": {
+        "name": "โอเวอร์ ดิอินฟลูเอนซ์",
+        "nameTh": "โอเวอร์ ดิอินฟลูเอนซ์",
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "11063201970",
+        "website": "https://overtheinfluence.com",
+        "opening_hours": "We-Su 11:00-20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10693793825",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5272063,
+          13.7336619
+        ]
+      },
+      "properties": {
+        "name": "Art4C",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "10693793825",
+        "website": "http://www.faa.chula.ac.th/art4c/",
+        "opening_hours": "Mo-Sa 09:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1484770421",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57606784,
+          13.71994962
+        ]
+      },
+      "properties": {
+        "name": "Art Gallery 36",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1484770421",
+        "addr:housenumber": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4258084889",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5693774,
+          13.7661825
+        ]
+      },
+      "properties": {
+        "name": "Art in Paradise (Esplanade Mall)",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "4258084889",
+        "addr:street": "ถนนรัชดาภิเษก"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1371680505",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50711371111112,
+          13.7535251
+        ]
+      },
+      "properties": {
+        "name": "Bamiyan Museum",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1371680505"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1220596424",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54454856666666,
+          13.723623222222223
+        ]
+      },
+      "properties": {
+        "name": "Bangkok City City Gallery",
+        "nameTh": "บางกอก ซิตี้ซิตี้ แกลเลอรี่",
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1220596424",
+        "addr:street": "ซอยสาทร 1",
+        "addr:housenumber": "13/3",
+        "phone": "+6683 087 2725",
+        "website": "https://bangkokcitycity.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6317939185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5468246,
+          13.7592456
+        ]
+      },
+      "properties": {
+        "name": "Bangkok Dolls Museum",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "6317939185"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10316166096",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6037296,
+          13.6704821
+        ]
+      },
+      "properties": {
+        "name": "Bangkok Local Museum Bang Na District",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "10316166096"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10264793968",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5536333,
+          13.7422085
+        ]
+      },
+      "properties": {
+        "name": "CreativBKK Art Gallery",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "10264793968",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-8644104817",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5924339,
+          13.709621
+        ]
+      },
+      "properties": {
+        "name": "CTypeMag",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "8644104817",
+        "addr:street": "Soi Phum Chit",
+        "addr:housenumber": "77/6",
+        "website": "https://www.ctypemag.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6274386197",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4899152,
+          13.7642056
+        ]
+      },
+      "properties": {
+        "name": "Jesada Technik",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "6274386197"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-897909009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52845588,
+          13.74930824
+        ]
+      },
+      "properties": {
+        "name": "Jim Thompson House",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "897909009"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-341577340",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52817307142857,
+          13.749349842857143
+        ]
+      },
+      "properties": {
+        "name": "Jim Thompson House Museum",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "341577340",
+        "opening_hours": "Mo-Su 09:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11365882185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5249733,
+          13.7417503
+        ]
+      },
+      "properties": {
+        "name": "JWD Art Space",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "11365882185"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2397987931",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5232949,
+          13.7239301
+        ]
+      },
+      "properties": {
+        "name": "Kathmandu Photo Gallery",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "2397987931",
+        "opening_hours": "Tu-Su 11:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1135386423",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47007122,
+          13.788677400000001
+        ]
+      },
+      "properties": {
+        "name": "KingxProp",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1135386423"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6163744212",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5665627,
+          13.7378009
+        ]
+      },
+      "properties": {
+        "name": "La Lanta Fine Art (Gallery)",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "6163744212"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13149207491",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5032828,
+          13.7452169
+        ]
+      },
+      "properties": {
+        "name": "Legacy art gallery",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "13149207491"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-857824693",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53721897142859,
+          13.665779542857143
+        ]
+      },
+      "properties": {
+        "name": "Mon Cultural Museum",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "857824693"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2962447233",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5472964,
+          13.6830764
+        ]
+      },
+      "properties": {
+        "name": "Museum of Counterfeit Goods",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "2962447233",
+        "addr:street": "1011 Rama 3 Road",
+        "addr:housenumber": "Supalai Grand Tower",
+        "phone": "+66 02 653 5555",
+        "website": "https://www.tilleke.com/firm/community/museum"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5764210356",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5408363,
+          13.7387772
+        ]
+      },
+      "properties": {
+        "name": "nova contemporary art gallery",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "5764210356"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1228611155",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5185980142857,
+          13.721110400000002
+        ]
+      },
+      "properties": {
+        "name": "Number 1 Gallery",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1228611155",
+        "addr:street": "ซอยสีลม 21",
+        "addr:housenumber": "19",
+        "phone": "+6683 445 8333",
+        "website": "https://www.number1gallery.com/",
+        "opening_hours": "Mo-Sa 11:00-19:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9570047617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5791683,
+          13.7239695
+        ]
+      },
+      "properties": {
+        "name": "Palette Art Space",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "9570047617",
+        "addr:street": "ถนนสุขุมวิท",
+        "addr:housenumber": "1057",
+        "phone": "+66 64 587 6788",
+        "website": "https://www.palettebkk.com/",
+        "opening_hours": "Mo-Su 07:30-20:00",
+        "description": "An art gallery and cafe offering coffee, beer, artwork and paintings."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9739291657",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5321393,
+          13.7287797
+        ]
+      },
+      "properties": {
+        "name": "Patpong Museum",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "9739291657",
+        "website": "https://www.patpongmuseum.com/",
+        "opening_hours": "Mo-Tu 12:00-21:00; Th-Su 12:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-389358682",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54874108,
+          13.793922559999999
+        ]
+      },
+      "properties": {
+        "name": "Philatelic Museum",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "389358682"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1220700329",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52650508,
+          13.734004679999998
+        ]
+      },
+      "properties": {
+        "name": "Rawroom",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "way",
+        "osmId": "1220700329",
+        "addr:street": "ถนนพระรามที่ 4",
+        "addr:housenumber": "1517",
+        "phone": "+6685 144 9171"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12712926159",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5328647,
+          13.7331155
+        ]
+      },
+      "properties": {
+        "name": "Snake Museum",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "12712926159"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5887764787",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5150238,
+          13.7306867
+        ]
+      },
+      "properties": {
+        "name": "Speedy Grandma",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "5887764787",
+        "addr:street": "ถนนเจริญกรุง",
+        "opening_hours": "We-Su 13:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11463141290",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5148196,
+          13.7315109
+        ]
+      },
+      "properties": {
+        "name": "Supples",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "11463141290",
+        "addr:street": "ซอยเจริญกรุง 24",
+        "addr:housenumber": "11/1",
+        "phone": "+66 6 1095 1905",
+        "website": "https://www.supples.co/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-7293864885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5185898,
+          13.7891051
+        ]
+      },
+      "properties": {
+        "name": "The Museum of Floral Culture",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "7293864885",
+        "website": "http://www.floralmuseum.com",
+        "internet_access": "wlan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10316166094",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6034154,
+          13.6756864
+        ]
+      },
+      "properties": {
+        "name": "The Old Whiskey Museum",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "10316166094"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4528014490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.575384,
+          13.7320564
+        ]
+      },
+      "properties": {
+        "name": "The pikture gallery",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "4528014490"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3544881175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5761862,
+          13.726618
+        ]
+      },
+      "properties": {
+        "name": "WTF Gallery",
+        "nameTh": null,
+        "category": "museum",
+        "osmType": "node",
+        "osmId": "3544881175",
+        "addr:street": "สุขุมวิท 51",
+        "addr:housenumber": "7",
+        "phone": "026626246",
+        "opening_hours": "Tu-Su 17:00-02:00"
+      }
+    }
+  ]
+}

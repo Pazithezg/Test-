@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "source": "OpenStreetMap",
+    "snapshotDate": "2026-10-23",
+    "totalPlaces": 12207,
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL",
+    "url": "https://www.openstreetmap.org/copyright"
+  },
+  "categories": [
+    {
+      "id": "cafe",
+      "count": 1650,
+      "file": "cafe.geojson"
+    },
+    {
+      "id": "restaurant",
+      "count": 3956,
+      "file": "restaurant.geojson"
+    },
+    {
+      "id": "museum",
+      "count": 131,
+      "file": "museum.geojson"
+    },
+    {
+      "id": "shopping",
+      "count": 170,
+      "file": "shopping.geojson"
+    },
+    {
+      "id": "park",
+      "count": 308,
+      "file": "park.geojson"
+    },
+    {
+      "id": "shop",
+      "count": 1821,
+      "file": "shop.geojson"
+    },
+    {
+      "id": "entertainment",
+      "count": 67,
+      "file": "entertainment.geojson"
+    },
+    {
+      "id": "attraction",
+      "count": 181,
+      "file": "attraction.geojson"
+    },
+    {
+      "id": "market",
+      "count": 145,
+      "file": "market.geojson"
+    },
+    {
+      "id": "bar",
+      "count": 604,
+      "file": "bar.geojson"
+    },
+    {
+      "id": "hotel",
+      "count": 1276,
+      "file": "hotel.geojson"
+    },
+    {
+      "id": "fitness",
+      "count": 183,
+      "file": "fitness.geojson"
+    },
+    {
+      "id": "building",
+      "count": 1715,
+      "file": "building.geojson"
+    }
+  ]
+}

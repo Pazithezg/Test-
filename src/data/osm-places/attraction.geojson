@@ -1,0 +1,3347 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "OpenStreetMap",
+    "snapshotDate": "2026-10-23",
+    "category": "attraction",
+    "count": 181,
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL",
+    "url": "https://www.openstreetmap.org/copyright"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "osm-node-10537530628",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5701386,
+          13.6964601
+        ]
+      },
+      "properties": {
+        "name": "คลองสองวิถี",
+        "nameTh": "คลองสองวิถี",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "10537530628"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-121239921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54925736666667,
+          13.8009337
+        ]
+      },
+      "properties": {
+        "name": "จตุจักรพลาซ่า",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "121239921"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1210022607",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47090220555555,
+          13.789102500000002
+        ]
+      },
+      "properties": {
+        "name": "ช่างชุ่ย",
+        "nameTh": "ช่างชุ่ย",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "1210022607"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1220585394",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56216851428573,
+          13.73696284285714
+        ]
+      },
+      "properties": {
+        "name": "ซอยคาวบอย",
+        "nameTh": "ซอยคาวบอย",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "1220585394"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-491005386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48563156666667,
+          13.743200375
+        ]
+      },
+      "properties": {
+        "name": "ซอยอรุณอมรินทร์ 11",
+        "nameTh": "ซอยอรุณอมรินทร์ 11",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "491005386"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1418582227",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5010873,
+          13.7284771
+        ]
+      },
+      "properties": {
+        "name": "ซุ้มประตูไทยซิกข์",
+        "nameTh": "ซุ้มประตูไทยซิกข์",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "1418582227"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1238480297",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49835924,
+          13.753315600000002
+        ]
+      },
+      "properties": {
+        "name": "ซุ้มประตูแพร่งสรรพศาสตร์",
+        "nameTh": "ซุ้มประตูแพร่งสรรพศาสตร์",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "1238480297"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4605868307",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.507611,
+          13.7380887
+        ]
+      },
+      "properties": {
+        "name": "ตึกเก่าบนถนนทรงวาด",
+        "nameTh": "ตึกเก่าบนถนนทรงวาด",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "4605868307"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23610119",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49735684500001,
+          13.75887545
+        ]
+      },
+      "properties": {
+        "name": "ถนนข้าวสาร",
+        "nameTh": "ถนนข้าวสาร",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "23610119"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1516377328",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49745256609201,
+          13.758825514942524
+        ]
+      },
+      "properties": {
+        "name": "ถนนข้าวสาร",
+        "nameTh": "ถนนข้าวสาร",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "1516377328"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-123950254",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.498445528,
+          13.753423648
+        ]
+      },
+      "properties": {
+        "name": "ถนนตะนาว",
+        "nameTh": "ถนนตะนาว",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "123950254"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-627049525",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49873195,
+          13.7555879
+        ]
+      },
+      "properties": {
+        "name": "ถนนตะนาว",
+        "nameTh": "ถนนตะนาว",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "627049525"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-627049526",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49882074444443,
+          13.756369999999997
+        ]
+      },
+      "properties": {
+        "name": "ถนนตะนาว",
+        "nameTh": "ถนนตะนาว",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "627049526"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-462532630",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51223342499999,
+          13.738713375
+        ]
+      },
+      "properties": {
+        "name": "ถนนเยาวราช",
+        "nameTh": "ถนนเยาวราช",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "462532630"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-754824716",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51065906666668,
+          13.739908933333334
+        ]
+      },
+      "properties": {
+        "name": "ถนนเยาวราช",
+        "nameTh": "ถนนเยาวราช",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "754824716"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-832948770",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5083777888889,
+          13.741183722222223
+        ]
+      },
+      "properties": {
+        "name": "ถนนเยาวราช",
+        "nameTh": "ถนนเยาวราช",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "832948770"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-872380813",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5094182,
+          13.74061275
+        ]
+      },
+      "properties": {
+        "name": "ถนนเยาวราช",
+        "nameTh": "ถนนเยาวราช",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "872380813"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1305800722",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51171706,
+          13.739248499999999
+        ]
+      },
+      "properties": {
+        "name": "ถนนเยาวราช",
+        "nameTh": "ถนนเยาวราช",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "1305800722"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2649275573",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5416556,
+          13.730553
+        ]
+      },
+      "properties": {
+        "name": "นาฬิกาแดด",
+        "nameTh": "นาฬิกาแดด",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "2649275573"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13613567717",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5425961,
+          13.7289126
+        ]
+      },
+      "properties": {
+        "name": "นาฬิกาแดด",
+        "nameTh": "นาฬิกาแดด",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "13613567717"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-243936903",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50667637083336,
+          13.753851558333333
+        ]
+      },
+      "properties": {
+        "name": "บรมบรรพต",
+        "nameTh": "บรมบรรพต",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "243936903",
+        "addr:street": "ถนนบริพัตร",
+        "addr:housenumber": "344",
+        "phone": "+66 2 621 2280",
+        "opening_hours": "Mo-Su 07:00-19:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-7055785586",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6094369,
+          13.8080374
+        ]
+      },
+      "properties": {
+        "name": "บ้านกุสุมา",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "7055785586",
+        "addr:street": "ถนนนาคนิวาส",
+        "addr:housenumber": "31/11",
+        "phone": "0818071819",
+        "opening_hours": "Mo, We, Fr 17:00-20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9321020617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5121101,
+          13.7336206
+        ]
+      },
+      "properties": {
+        "name": "บ้านโซวเฮงไถ่",
+        "nameTh": "บ้านโซวเฮงไถ่",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "9321020617"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-304838059",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49482995000001,
+          13.762671800000001
+        ]
+      },
+      "properties": {
+        "name": "บ้านพระอาทิตย์",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "304838059"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11482846254",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.557031,
+          13.7271405
+        ]
+      },
+      "properties": {
+        "name": "แบบจำลองเมืองกรุงเทพมหานคร",
+        "nameTh": "แบบจำลองเมืองกรุงเทพมหานคร",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "11482846254"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2367434259",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4980403,
+          13.7406467
+        ]
+      },
+      "properties": {
+        "name": "ปฐมบรมราชานุสรณ์",
+        "nameTh": "ปฐมบรมราชานุสรณ์",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "2367434259"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-107936513",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49573006666667,
+          13.763997722222221
+        ]
+      },
+      "properties": {
+        "name": "ป้อมพระสุเมรุ",
+        "nameTh": "ป้อมพระสุเมรุ",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "107936513",
+        "addr:street": "ถนนพระอาทิตย์",
+        "opening_hours": "Mo-Su 08:00-23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12404838923",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5307695,
+          13.7462586
+        ]
+      },
+      "properties": {
+        "name": "ป้ายกรุงเทพ • Bangkok",
+        "nameTh": "ป้ายกรุงเทพ • Bangkok",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "12404838923"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-231293478",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51546212333332,
+          13.727071490000002
+        ]
+      },
+      "properties": {
+        "name": "ไปรษณีย์กลาง",
+        "nameTh": "ไปรษณีย์กลาง",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "231293478",
+        "addr:street": "ถนนเจริญกรุง",
+        "addr:housenumber": "1160"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-567014290",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.506445,
+          13.7555116
+        ]
+      },
+      "properties": {
+        "name": "ผ่านฟ้าลีลาศ",
+        "nameTh": "ผ่านฟ้าลีลาศ",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "567014290",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa-Su 08:00-19:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23482996",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49317755555555,
+          13.751278266666667
+        ]
+      },
+      "properties": {
+        "name": "พระบรมจักรวรรดิราชามหาเจดีย์",
+        "nameTh": "พระบรมจักรวรรดิราชามหาเจดีย์",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "23482996"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23482754",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49168362264153,
+          13.750127526415097
+        ]
+      },
+      "properties": {
+        "name": "พระบรมมหาราชวัง",
+        "nameTh": "พระบรมมหาราชวัง",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "23482754",
+        "website": "https://www.royalgrandpalace.th/en/home",
+        "opening_hours": "Mo-Su 08:30-15:30",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1697593671",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5367436,
+          13.7331978
+        ]
+      },
+      "properties": {
+        "name": "พระบรมราชานุสาวรีย์พระบาทสมเด็จพระเจ้าอยู่หัวอานันทมหิดล",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "1697593671",
+        "description": "https://photos.app.goo.gl/QYi2EPUFweNoNjSt5"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2129707192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4949808,
+          13.7683156
+        ]
+      },
+      "properties": {
+        "name": "พระบรมราชานุสาวรีย์พระบาทสมเด็จพระเจ้าอยู่หัวอานันทมหิดล",
+        "nameTh": "พระบรมราชานุสาวรีย์พระบาทสมเด็จพระเจ้าอยู่หัวอานันทมหิดล",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "2129707192"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-243932357",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53763101999999,
+          13.72999714
+        ]
+      },
+      "properties": {
+        "name": "พระบรมราชานุสาวรีย์พระบาทสมเด็จพระมงกุฎเกล้าเจ้าอยู่หัว",
+        "nameTh": "พระบรมราชานุสาวรีย์พระบาทสมเด็จพระมงกุฎเกล้าเจ้าอยู่หัว",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "243932357"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12311704646",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5174872,
+          13.7628641
+        ]
+      },
+      "properties": {
+        "name": "พระบรมราชานุสาวรีย์ ร.9",
+        "nameTh": "พระบรมราชานุสาวรีย์ ร.9",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "12311704646"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5933329550",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5160343,
+          13.7459641
+        ]
+      },
+      "properties": {
+        "name": "พระบรมราชานุสาวรีย์ รัชกาลที่ 8",
+        "nameTh": "พระบรมราชานุสาวรีย์ รัชกาลที่ 8",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5933329550"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1194923894",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50079465000002,
+          13.751447987499999
+        ]
+      },
+      "properties": {
+        "name": "พระบรมราชานุสาวรีย์ รัชกาลที่ 8",
+        "nameTh": "พระบรมราชานุสาวรีย์ รัชกาลที่ 8",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "1194923894"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1114352991",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4930973,
+          13.7263148
+        ]
+      },
+      "properties": {
+        "name": "พระบรมราชานุสาวรีย์ สมเด็จพระเจ้าตากสินมหาราช",
+        "nameTh": "พระบรมราชานุสาวรีย์ สมเด็จพระเจ้าตากสินมหาราช",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "1114352991"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23482995",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49315272222222,
+          13.751440177777779
+        ]
+      },
+      "properties": {
+        "name": "พระปัจเจกโพธิสัมพุทธมหาเจดีย์",
+        "nameTh": "พระปัจเจกโพธิสัมพุทธมหาเจดีย์",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "23482995"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1227050715",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47106735714286,
+          13.721240314285712
+        ]
+      },
+      "properties": {
+        "name": "พระพุทธธรรมกายเทพมงคล",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "1227050715"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3995523989",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5030209,
+          13.7672729
+        ]
+      },
+      "properties": {
+        "name": "พระพุทธศรีอริยเมตไตรย",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "3995523989"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23482997",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49320793333332,
+          13.751151511111111
+        ]
+      },
+      "properties": {
+        "name": "พระโพธิสัตว์กฤษฎามหาเจดีย์",
+        "nameTh": "พระโพธิสัตว์กฤษฎามหาเจดีย์",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "23482997"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-783589706",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49234314444445,
+          13.746418477777778
+        ]
+      },
+      "properties": {
+        "name": "พระมหาเจดีย์ดิลกธรรมกรกนิทาน",
+        "nameTh": "พระมหาเจดีย์ดิลกธรรมกรกนิทาน",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "783589706"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-783589707",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4922177,
+          13.746179640000003
+        ]
+      },
+      "properties": {
+        "name": "พระมหาเจดีย์ทรงพระศรีสุริโยทัย",
+        "nameTh": "พระมหาเจดีย์ทรงพระศรีสุริโยทัย",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "783589707"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-783589709",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49246992222223,
+          13.746064966666667
+        ]
+      },
+      "properties": {
+        "name": "พระมหาเจดีย์มุนีบัตบริขาร",
+        "nameTh": "พระมหาเจดีย์มุนีบัตบริขาร",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "783589709"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-783589708",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49240418888888,
+          13.7462424
+        ]
+      },
+      "properties": {
+        "name": "พระมหาเจดีย์ศรีสรรเพชดาญาณ",
+        "nameTh": "พระมหาเจดีย์ศรีสรรเพชดาญาณ",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "783589708"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5938466356",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5157003,
+          13.7460581
+        ]
+      },
+      "properties": {
+        "name": "พระราชานุสาวรีย์ สมเด็จพระเทพศิรินทราบรมราชินี",
+        "nameTh": "พระราชานุสาวรีย์ สมเด็จพระเทพศิรินทราบรมราชินี",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5938466356"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23482988",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49228874285713,
+          13.751611933333333
+        ]
+      },
+      "properties": {
+        "name": "พระศรีรัตนเจดีย์",
+        "nameTh": "พระศรีรัตนเจดีย์",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "23482988"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23482998",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49323405555555,
+          13.750984533333334
+        ]
+      },
+      "properties": {
+        "name": "พระศรีอริยเมตตะมหาเจดีย์",
+        "nameTh": "พระศรีอริยเมตตะมหาเจดีย์",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "23482998"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23482992",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49307907777776,
+          13.751929677777778
+        ]
+      },
+      "properties": {
+        "name": "พระสัทธรรมปริยัติวรมหาเจดีย์",
+        "nameTh": "พระสัทธรรมปริยัติวรมหาเจดีย์",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "23482992"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23482991",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49305333333334,
+          13.752105811111111
+        ]
+      },
+      "properties": {
+        "name": "พระสัมมาสัมพุทธมหาเจดีย์",
+        "nameTh": "พระสัมมาสัมพุทธมหาเจดีย์",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "23482991"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-229771456",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49292872222223,
+          13.751518766666667
+        ]
+      },
+      "properties": {
+        "name": "พระสุวรรณเจดีย์",
+        "nameTh": "พระสุวรรณเจดีย์",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "229771456"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-229771457",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49290012222222,
+          13.751814666666668
+        ]
+      },
+      "properties": {
+        "name": "พระสุวรรณเจดีย์",
+        "nameTh": "พระสุวรรณเจดีย์",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "229771457"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12468600835",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4793864,
+          13.7492703
+        ]
+      },
+      "properties": {
+        "name": "พระอนุสาวรีย์ กรมหลวงชุมพร",
+        "nameTh": "พระอนุสาวรีย์ กรมหลวงชุมพร",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "12468600835"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23482993",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49308711111111,
+          13.751766722222223
+        ]
+      },
+      "properties": {
+        "name": "พระอริยสงฆ์สาวกมหาเจดีย์",
+        "nameTh": "พระอริยสงฆ์สาวกมหาเจดีย์",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "23482993"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23482994",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49311656666666,
+          13.751593133333335
+        ]
+      },
+      "properties": {
+        "name": "พระอริยสาวิกาภิกษุสังฆมหาเจดีย์",
+        "nameTh": "พระอริยสาวิกาภิกษุสังฆมหาเจดีย์",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "23482994"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9320435618",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.512101,
+          13.7339503
+        ]
+      },
+      "properties": {
+        "name": "รถเก่า",
+        "nameTh": "รถเก่า",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "9320435618"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13626552880",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5473193,
+          13.7461224
+        ]
+      },
+      "properties": {
+        "name": "รถนายเลิศ",
+        "nameTh": "รถนายเลิศ",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "13626552880"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-539977676",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5082632904762,
+          13.734388785714284
+        ]
+      },
+      "properties": {
+        "name": "ล้ง 1919",
+        "nameTh": "ล้ง 1919",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "539977676",
+        "addr:street": "Chiang Mai Road;ถนนเชียงใหม่",
+        "addr:housenumber": "248",
+        "phone": "081 994 4597",
+        "opening_hours": "Mo-Su 11:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3327935041",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.565379,
+          13.665222
+        ]
+      },
+      "properties": {
+        "name": "ลำพู บางกระสอบ",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "3327935041"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5814463453",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5335026,
+          13.7295874
+        ]
+      },
+      "properties": {
+        "name": "ลิตเติ้ลเจแปน",
+        "nameTh": "ลิตเติ้ลเจแปน",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5814463453"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-103097698",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50416322,
+          13.75481264
+        ]
+      },
+      "properties": {
+        "name": "โลหะปราสาท",
+        "nameTh": "โลหะปราสาท",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "103097698"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-342352012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50395429999999,
+          13.753451833333331
+        ]
+      },
+      "properties": {
+        "name": "วัดเทพธิดารามวรวิหาร",
+        "nameTh": "วัดเทพธิดารามวรวิหาร",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "342352012"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-31987718",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51402603333335,
+          13.76611099047619
+        ]
+      },
+      "properties": {
+        "name": "วัดเบญจมบพิตรดุสิตวนารามราชวรวิหาร",
+        "nameTh": "วัดเบญจมบพิตรดุสิตวนารามราชวรวิหาร",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "31987718",
+        "addr:street": "ถนนพระรามที่ 5",
+        "addr:housenumber": "69",
+        "website": "https://www.facebook.com/watbencham/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-230010054",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4923687888889,
+          13.751571174074078
+        ]
+      },
+      "properties": {
+        "name": "วัดพระศรีรัตนศาสดาราม",
+        "nameTh": "วัดพระศรีรัตนศาสดาราม",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "230010054",
+        "addr:street": "Na Phra Lan Road",
+        "phone": "026235500",
+        "website": "https://www.palaces.thai.net/",
+        "opening_hours": "08:30-15:30; Mo-Su 08:30-16:30",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5362733473",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4067541,
+          13.8146853
+        ]
+      },
+      "properties": {
+        "name": "วัดแพรก",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5362733473"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-118171998",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49935968636365,
+          13.754872209090907
+        ]
+      },
+      "properties": {
+        "name": "วัดมหรรณพารามวรวิหาร",
+        "nameTh": "วัดมหรรณพารามวรวิหาร",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "118171998",
+        "addr:street": "ถนนตะนาว"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-178329987",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49079513157895,
+          13.754945689473683
+        ]
+      },
+      "properties": {
+        "name": "วัดมหาธาตุยุวราชรังสฤษฎิ์ราชวรมหาวิหาร",
+        "nameTh": "วัดมหาธาตุยุวราชรังสฤษฎิ์ราชวรมหาวิหาร",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "178329987"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-333227704",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48542838249998,
+          13.752618845000004
+        ]
+      },
+      "properties": {
+        "name": "วัดระฆังโฆสิตารามวรมหาวิหาร",
+        "nameTh": "วัดระฆังโฆสิตารามวรมหาวิหาร",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "333227704",
+        "addr:street": "ซอยอรุณอมรินทร์ 18",
+        "addr:housenumber": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-103022363",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50422346470589,
+          13.754956217647063
+        ]
+      },
+      "properties": {
+        "name": "วัดราชนัดดารามวรวิหาร",
+        "nameTh": "วัดราชนัดดารามวรวิหาร",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "103022363",
+        "addr:street": "ถนนมหาไชย",
+        "addr:housenumber": "2",
+        "phone": "+66 2 224 8807",
+        "opening_hours": "Mo-Su 08:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-138947464",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49712911333333,
+          13.749209253333333
+        ]
+      },
+      "properties": {
+        "name": "วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร",
+        "nameTh": "วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "138947464",
+        "opening_hours": "Mo-Su 06:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-342337807",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49557130833334,
+          13.749657808333334
+        ]
+      },
+      "properties": {
+        "name": "วัดราชประดิษฐสถิตมหาสีมารามราชวรวิหาร",
+        "nameTh": "วัดราชประดิษฐสถิตมหาสีมารามราชวรวิหาร",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "342337807"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-32011053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5008146483871,
+          13.750137093548387
+        ]
+      },
+      "properties": {
+        "name": "วัดสุทัศนเทพวรารามราชวรมหาวิหาร",
+        "nameTh": "วัดสุทัศนเทพวรารามราชวรมหาวิหาร",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "32011053",
+        "opening_hours": "Mo-Su 08:30-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23481741",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48892829583336,
+          13.744127216666667
+        ]
+      },
+      "properties": {
+        "name": "วัดอรุณ",
+        "nameTh": "วัดอรุณ",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "23481741",
+        "addr:street": "Thanon Wang Doem",
+        "addr:housenumber": "158",
+        "addr:city": "กรุงเทพมหานคร",
+        "website": "https://www.bangkok.com/attraction-temple/wat-arun.htm",
+        "opening_hours": "Mo-Su 08:30-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10537530637",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5693231,
+          13.6949493
+        ]
+      },
+      "properties": {
+        "name": "วิถีชีวิตชาวสวนคุ้งบางกระเจ้า",
+        "nameTh": "วิถีชีวิตชาวสวนคุ้งบางกระเจ้า",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "10537530637"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10537530636",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5678813,
+          13.6966788
+        ]
+      },
+      "properties": {
+        "name": "วิถีชีวิตริมบึง",
+        "nameTh": "วิถีชีวิตริมบึง",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "10537530636"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12522993125",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5386099,
+          13.6708359
+        ]
+      },
+      "properties": {
+        "name": "ศิลาฤกษ์",
+        "nameTh": "ศิลาฤกษ์",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "12522993125"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-198877011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53030943809524,
+          13.721863814285715
+        ]
+      },
+      "properties": {
+        "name": "สกายวอล์กช่องนนทรี",
+        "nameTh": "สกายวอล์กช่องนนทรี",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "198877011"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4294122090",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5569663,
+          13.8033784
+        ]
+      },
+      "properties": {
+        "name": "สนามมวยเวทีสถานีโทรทัศน์สีกองทัพบกช่อง 7",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "4294122090",
+        "opening_hours": "Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-686092687",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53185045,
+          13.7454082
+        ]
+      },
+      "properties": {
+        "name": "สยาม บี.",
+        "nameTh": "สยาม บี.",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "686092687",
+        "description": "Street food and street art"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1232616670",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5311901142857,
+          13.749203842857142
+        ]
+      },
+      "properties": {
+        "name": "สะพานเฉลิมหล้า 56",
+        "nameTh": "สะพานเฉลิมหล้า 56",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "1232616670"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-178354005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4963497,
+          13.749702366666668
+        ]
+      },
+      "properties": {
+        "name": "สะพานปีกุน",
+        "nameTh": "สะพานปีกุน",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "178354005"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1872413363",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4958557,
+          13.7696454
+        ]
+      },
+      "properties": {
+        "name": "สะพานพระราม 8",
+        "nameTh": "สะพานพระราม 8",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "1872413363"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6980108185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5447123,
+          13.8159041
+        ]
+      },
+      "properties": {
+        "name": "สุสานรถไฟ",
+        "nameTh": "สุสานรถไฟ",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6980108185"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-784424308",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49676388888889,
+          13.749050494444443
+        ]
+      },
+      "properties": {
+        "name": "สุสานหลวง วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร",
+        "nameTh": "สุสานหลวง วัดราชบพิธสถิตมหาสีมารามราชวรวิหาร",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "784424308"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-178353988",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50127522500001,
+          13.75181091
+        ]
+      },
+      "properties": {
+        "name": "เสาชิงช้า",
+        "nameTh": "เสาชิงช้า",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "178353988"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5983702350",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5021615,
+          13.7572573
+        ]
+      },
+      "properties": {
+        "name": "หลักกิโลเมตรที่ 0",
+        "nameTh": "หลักกิโลเมตรที่ 0",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5983702350"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1343480426",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55147617142858,
+          13.805782757142856
+        ]
+      },
+      "properties": {
+        "name": "หอชมนก",
+        "nameTh": "หอชมนก",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "1343480426"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6276438086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5526606,
+          13.8025221
+        ]
+      },
+      "properties": {
+        "name": "หอนาฬิกาไลออนส์",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6276438086"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-138948425",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4992209,
+          13.7455132
+        ]
+      },
+      "properties": {
+        "name": "ห้างไนติงเกล",
+        "nameTh": "ห้างไนติงเกล",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "138948425",
+        "addr:street": "ถนนตรีเพชร"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2337055730",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4991195,
+          13.7568137
+        ]
+      },
+      "properties": {
+        "name": "อนุสรณ์สถาน 14 ตุลา 16",
+        "nameTh": "อนุสรณ์สถาน 14 ตุลา 16",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "2337055730",
+        "addr:street": "ถนนราชดำเนินกลาง"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-7058244860",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5282139,
+          13.7396154
+        ]
+      },
+      "properties": {
+        "name": "อนุสรณ์สถานนักเรียนสารวัตรทหาร 2488",
+        "nameTh": "อนุสรณ์สถานนักเรียนสารวัตรทหาร 2488",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "7058244860"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2313566471",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5382847,
+          13.7649304
+        ]
+      },
+      "properties": {
+        "name": "อนุสาวรีย์ชัยสมรภูมิ",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "2313566471"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-158185227",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53828746857143,
+          13.76493638
+        ]
+      },
+      "properties": {
+        "name": "อนุสาวรีย์ชัยสมรภูมิ",
+        "nameTh": "อนุสาวรีย์ชัยสมรภูมิ",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "158185227"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-178329973",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50185155714284,
+          13.756688100000003
+        ]
+      },
+      "properties": {
+        "name": "อนุสาวรีย์ประชาธิปไตย",
+        "nameTh": "อนุสาวรีย์ประชาธิปไตย",
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "178329973"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4200510216",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4953406,
+          13.7484049
+        ]
+      },
+      "properties": {
+        "name": "อนุสาวรีย์สมเด็จพระนางเจ้าสุนันทากุมารีรัตน์",
+        "nameTh": "อนุสาวรีย์สมเด็จพระนางเจ้าสุนันทากุมารีรัตน์",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "4200510216",
+        "opening_hours": "Mo-Su 04:30-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12428810504",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5147997,
+          13.7495975
+        ]
+      },
+      "properties": {
+        "name": "Abandond building",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "12428810504"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-342522015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5033468142857,
+          13.705145242857142
+        ]
+      },
+      "properties": {
+        "name": "Asiatique Sky Ferris Wheel",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "342522015"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5350019821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5667233,
+          13.6964504
+        ]
+      },
+      "properties": {
+        "name": "Bang Kachao",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5350019821"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1641043367",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.576055,
+          13.6802705
+        ]
+      },
+      "properties": {
+        "name": "Bang Nam Phueng Floating Market",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "1641043367",
+        "opening_hours": "Sa-Su 08:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11378645811",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4709127,
+          13.7200692
+        ]
+      },
+      "properties": {
+        "name": "Big Buddha",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "11378645811"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6397692185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5749651,
+          13.6830238
+        ]
+      },
+      "properties": {
+        "name": "Big Tree",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6397692185"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12428813832",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5556527,
+          13.8117861
+        ]
+      },
+      "properties": {
+        "name": "Boule playground",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "12428813832"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6163747497",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5149558,
+          13.7287462
+        ]
+      },
+      "properties": {
+        "name": "Captain Bush Lane (House No. 1)",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6163747497"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5384897421",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5035308,
+          13.7110792
+        ]
+      },
+      "properties": {
+        "name": "Chaophraya Princess Cruise",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5384897421"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5899787685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5399313,
+          13.7459507
+        ]
+      },
+      "properties": {
+        "name": "Cheeze POP-Up Market",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5899787685"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1498869500",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50401406666664,
+          13.742360499999998
+        ]
+      },
+      "properties": {
+        "name": "Crocodiles pond",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "1498869500"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4536966589",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.550015,
+          13.8008958
+        ]
+      },
+      "properties": {
+        "name": "Doggies",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "4536966589"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10693106205",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5243187,
+          13.7412201
+        ]
+      },
+      "properties": {
+        "name": "Dragon town",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "10693106205"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4594858490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5110795,
+          13.7468313
+        ]
+      },
+      "properties": {
+        "name": "Flashlight Market",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "4594858490"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4959541921",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5486752,
+          13.7978091
+        ]
+      },
+      "properties": {
+        "name": "flower martket",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "4959541921"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-7299066786",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.565283,
+          13.7611252
+        ]
+      },
+      "properties": {
+        "name": "Food street",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "7299066786"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14081460401",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5032581,
+          13.7447605
+        ]
+      },
+      "properties": {
+        "name": "Gate of China town",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "14081460401"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12710231554",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4707653,
+          13.7208475
+        ]
+      },
+      "properties": {
+        "name": "Glass Pagoda",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "12710231554"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1469039648",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50142136666665,
+          13.704135169696968
+        ]
+      },
+      "properties": {
+        "name": "Hatch Dome",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "1469039648"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6748802285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5121323,
+          13.7340546
+        ]
+      },
+      "properties": {
+        "name": "Holy tree",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6748802285"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6748802385",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5120083,
+          13.7338481
+        ]
+      },
+      "properties": {
+        "name": "Holy tree",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6748802385"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10760950092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5130404,
+          13.7332679
+        ]
+      },
+      "properties": {
+        "name": "Holy tree",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "10760950092"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5102832927",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5857531,
+          13.7275655
+        ]
+      },
+      "properties": {
+        "name": "House of Lucie Center for Photography",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5102832927"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4801754122",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5731802,
+          13.7782677
+        ]
+      },
+      "properties": {
+        "name": "Huai Kwang night market",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "4801754122"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9721084217",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5959685,
+          13.7984393
+        ]
+      },
+      "properties": {
+        "name": "Indy market Chokchai4",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "9721084217"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-199925703",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50196589999999,
+          13.70425072
+        ]
+      },
+      "properties": {
+        "name": "Jurassic World: The Experience Bangkok",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "199925703"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11422724270",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5307951,
+          13.7491801
+        ]
+      },
+      "properties": {
+        "name": "Khlong Sean Saep (Walking Street)",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "11422724270"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5325181021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5351687,
+          13.7467705
+        ]
+      },
+      "properties": {
+        "name": "KidZania",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5325181021",
+        "addr:street": "Siam Paragon 5th Floor, 991 Rama1 Road, Pathumwan, Bangkok 10330"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13718179680",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5410424,
+          13.7626193
+        ]
+      },
+      "properties": {
+        "name": "Komodo Dragons",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "13718179680"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5603128339",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.576113,
+          13.754762
+        ]
+      },
+      "properties": {
+        "name": "Maxx Hotel",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5603128339"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-7121670285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5400656,
+          13.7454334
+        ]
+      },
+      "properties": {
+        "name": "Mettique",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "7121670285"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12430290801",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5227769,
+          13.7135224
+        ]
+      },
+      "properties": {
+        "name": "Mini Pagode",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "12430290801"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3529791755",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5367218,
+          13.7627848
+        ]
+      },
+      "properties": {
+        "name": "Monument",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "3529791755"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4973143821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5530342,
+          13.7414838
+        ]
+      },
+      "properties": {
+        "name": "Nana Plaza",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "4973143821",
+        "addr:street": "ถนนสุขุมวิท ซอย4",
+        "opening_hours": "24/7",
+        "description": "Go Go Bar Area"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12428813819",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5494823,
+          13.8072177
+        ]
+      },
+      "properties": {
+        "name": "Nature information pathway",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "12428813819"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4677450589",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6025008,
+          13.705143
+        ]
+      },
+      "properties": {
+        "name": "New On Nut Night Market",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "4677450589"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5248196522",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4259239,
+          13.7803335
+        ]
+      },
+      "properties": {
+        "name": "Night market",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5248196522"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14089117102",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4720596,
+          13.7214948
+        ]
+      },
+      "properties": {
+        "name": "path to Hidden cafe",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "14089117102"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12428814621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5561218,
+          13.8159621
+        ]
+      },
+      "properties": {
+        "name": "Pedal boat rental",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "12428814621"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9502088717",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4664538,
+          13.6915168
+        ]
+      },
+      "properties": {
+        "name": "Poomjai Garden",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "9502088717"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11054393005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5090495,
+          13.7573935
+        ]
+      },
+      "properties": {
+        "name": "Precious Plastic Bangkok",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "11054393005"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9029177254",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4130646,
+          13.8136038
+        ]
+      },
+      "properties": {
+        "name": "Rampoei Monument",
+        "nameTh": "อนุสาวรีย์แม่รำเพย",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "9029177254"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12710226400",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4713308,
+          13.7198267
+        ]
+      },
+      "properties": {
+        "name": "Reclining Buddha",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "12710226400"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5342566021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5631528,
+          13.7269068
+        ]
+      },
+      "properties": {
+        "name": "RMA Institute",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5342566021",
+        "addr:street": "Soi Sai Nam Thip 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12428814177",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5601187,
+          13.8146046
+        ]
+      },
+      "properties": {
+        "name": "Rotary International",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "12428814177"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6069909589",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4200165,
+          13.7790745
+        ]
+      },
+      "properties": {
+        "name": "sai tai mai center night market",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6069909589",
+        "addr:street": "ถนนบรมราชชนนี",
+        "addr:housenumber": "8",
+        "opening_hours": "Mo-Su 18:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-321722223",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51515174,
+          13.71730956
+        ]
+      },
+      "properties": {
+        "name": "Sathorn Unique Tower",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "321722223"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4130721589",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5351985,
+          13.7469747
+        ]
+      },
+      "properties": {
+        "name": "Sea Life Bangkok Ocean World",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "4130721589",
+        "addr:street": "Rama 1 Rd",
+        "addr:housenumber": "991",
+        "phone": "+6626872000",
+        "website": "https://sealifebangkok.com/",
+        "opening_hours": "Mo-Su 10:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14097989201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.495027,
+          13.759218
+        ]
+      },
+      "properties": {
+        "name": "shortcut",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "14097989201"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14097978101",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4949143,
+          13.7595102
+        ]
+      },
+      "properties": {
+        "name": "Shortcut to Khao San",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "14097978101"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-347928249",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52441339999999,
+          13.722650859999998
+        ]
+      },
+      "properties": {
+        "name": "Silom Thai Cooking school",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "347928249",
+        "addr:street": "Silom Soi 13, Silom Road Bangrak",
+        "phone": "+66847265669",
+        "website": "http://www.bangkokthaicooking.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6743329188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5804202,
+          13.8020438
+        ]
+      },
+      "properties": {
+        "name": "Sky",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6743329188"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1469039649",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50178184242425,
+          13.703821706060605
+        ]
+      },
+      "properties": {
+        "name": "SkyFlyers",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "way",
+        "osmId": "1469039649"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6163747800",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5673238,
+          13.7334842
+        ]
+      },
+      "properties": {
+        "name": "Soi Japan (soi 33)",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6163747800"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12865797301",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4350126,
+          13.7123724
+        ]
+      },
+      "properties": {
+        "name": "Space &amp; Time Cube+",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "12865797301",
+        "opening_hours": "Mo-Su 10:30-21:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-8175742024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5537999,
+          13.8057867
+        ]
+      },
+      "properties": {
+        "name": "Squirrel tree",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "8175742024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6170071285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5393078,
+          13.7542427
+        ]
+      },
+      "properties": {
+        "name": "Street Food",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6170071285"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6197723886",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5443282,
+          13.781311
+        ]
+      },
+      "properties": {
+        "name": "Street Food",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6197723886"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6197828356",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5444892,
+          13.7809581
+        ]
+      },
+      "properties": {
+        "name": "Street Food",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6197828356"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6169968286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5391442,
+          13.7504262
+        ]
+      },
+      "properties": {
+        "name": "Street Food &amp; Shopping",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6169968286"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4892016221",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5376345,
+          13.7630418
+        ]
+      },
+      "properties": {
+        "name": "Street market",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "4892016221"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5901823787",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51812,
+          13.7566613
+        ]
+      },
+      "properties": {
+        "name": "Street market",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5901823787"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6170094486",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5376513,
+          13.7570543
+        ]
+      },
+      "properties": {
+        "name": "Suan Pakkad Palace Museum",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6170094486"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5342565922",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5908092,
+          13.7173225
+        ]
+      },
+      "properties": {
+        "name": "TARS Gallery",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5342565922",
+        "addr:street": "ซอยสุขุมวิท 67"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4257127190",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4990793,
+          13.7274865
+        ]
+      },
+      "properties": {
+        "name": "Thai Bamboo Tattoo",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "4257127190",
+        "addr:street": "Soi Lat Ya 6, Khlong San, Bangkok",
+        "phone": "+66895056689"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11497369669",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3968842,
+          13.7846292
+        ]
+      },
+      "properties": {
+        "name": "Thonburi market place",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "11497369669"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4429110690",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5107158,
+          13.7196256
+        ]
+      },
+      "properties": {
+        "name": "TRC on Monday 3-10-2016",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "4429110690"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11806216522",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4902958,
+          13.7457964
+        ]
+      },
+      "properties": {
+        "name": "จุดชมวิวท่าเตียน",
+        "nameTh": "จุดชมวิวท่าเตียน",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "11806216522"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6232721188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4912433,
+          13.7444953
+        ]
+      },
+      "properties": {
+        "name": "จุดชมวิวท่าวัดโพธิ์",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6232721188",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-8797708205",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5403984,
+          13.754561
+        ]
+      },
+      "properties": {
+        "name": "ตึกใบหยก 2",
+        "nameTh": "ตึกใบหยก 2",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "8797708205"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-7737340673",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4985928,
+          13.7390974
+        ]
+      },
+      "properties": {
+        "name": "สวนลอยฟ้าเจ้าพระยา",
+        "nameTh": "สวนลอยฟ้าเจ้าพระยา",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "7737340673"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5352272122",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5683508,
+          13.6962729
+        ]
+      },
+      "properties": {
+        "name": "หอดูนก",
+        "nameTh": "หอดูนก",
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "5352272122"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14089125301",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4717011,
+          13.7220721
+        ]
+      },
+      "properties": {
+        "name": "Big buda viewpoint",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "14089125301"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2114142447",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4427392,
+          13.7675441
+        ]
+      },
+      "properties": {
+        "name": "Circle of love (photo point)",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "2114142447",
+        "description": "เป็นน้ำพุ มีลักษณะเป็นรูปดอกไม้ตั้งอยู่ตรงทางเข้าด้านข้าง ถ่ายภาพ นัดพบกัน"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13298807801",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5041505,
+          13.7915707
+        ]
+      },
+      "properties": {
+        "name": "De LAPIS",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "13298807801"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2114142446",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4419682,
+          13.7676012
+        ]
+      },
+      "properties": {
+        "name": "fun space",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "2114142446"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-8512420017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5037126,
+          13.7461622
+        ]
+      },
+      "properties": {
+        "name": "Khlong Ong Ang Canal and Walking Street",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "8512420017"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10734166805",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.446807,
+          13.7271462
+        ]
+      },
+      "properties": {
+        "name": "Lovely Walk with Swamps and Banana Trees",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "10734166805"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6259620985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5280809,
+          13.7231503
+        ]
+      },
+      "properties": {
+        "name": "MAHANAKHON SKYWALK",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "6259620985",
+        "addr:street": "Naradhiwas Radjanagarindra rd.",
+        "addr:housenumber": "114/1",
+        "phone": "026678721"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-7088196985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4976226,
+          13.7395273
+        ]
+      },
+      "properties": {
+        "name": "Sunset viewpoint",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "7088196985"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2114142448",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4424736,
+          13.7671533
+        ]
+      },
+      "properties": {
+        "name": "take a photo point",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "2114142448"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2114186625",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4425985,
+          13.7672809
+        ]
+      },
+      "properties": {
+        "name": "the circle center",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "2114186625"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13298807701",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.504216,
+          13.7916005
+        ]
+      },
+      "properties": {
+        "name": "T Junction 1",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "13298807701"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13887022202",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4716505,
+          13.7220402
+        ]
+      },
+      "properties": {
+        "name": "viewpoint of Big Buddha",
+        "nameTh": null,
+        "category": "attraction",
+        "osmType": "node",
+        "osmId": "13887022202"
+      }
+    }
+  ]
+}

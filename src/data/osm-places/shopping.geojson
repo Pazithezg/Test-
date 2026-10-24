@@ -1,0 +1,3270 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "OpenStreetMap",
+    "snapshotDate": "2026-10-23",
+    "category": "shopping",
+    "count": 170,
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL",
+    "url": "https://www.openstreetmap.org/copyright"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "osm-way-151111598",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6094065,
+          13.752918800000002
+        ]
+      },
+      "properties": {
+        "name": "1981 Soul &amp; Sold",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "151111598",
+        "addr:street": "ถนนรามคำแหง",
+        "addr:housenumber": "49"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1037863907",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57845237272728,
+          13.731527672727271
+        ]
+      },
+      "properties": {
+        "name": "9:53 Community Mall",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1037863907"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-230860266",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53912629999999,
+          13.7511696
+        ]
+      },
+      "properties": {
+        "name": "กรุงทองพลาซ่า",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "230860266",
+        "addr:street": "ถนนเพชรบุรี"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-230903171",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53827404545456,
+          13.760079745454542
+        ]
+      },
+      "properties": {
+        "name": "คิง เพาเวอร์ รางน้ำ",
+        "nameTh": "คิง เพาเวอร์ รางน้ำ",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "230903171"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-121554545",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50173656470588,
+          13.744953188235295
+        ]
+      },
+      "properties": {
+        "name": "ไชน่าเวิลด์",
+        "nameTh": "ไชน่าเวิลด์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "121554545"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-230860264",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53955472,
+          13.75109458
+        ]
+      },
+      "properties": {
+        "name": "ซิตี้ คอมเพล็กซ์ ประตูน้ำ",
+        "nameTh": "ซิตี้ คอมเพล็กซ์ ประตูน้ำ",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "230860264",
+        "addr:street": "ถนนเพชรบุรี"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-176761917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.43420962048197,
+          13.711435808433736
+        ]
+      },
+      "properties": {
+        "name": "ซีคอนบางแค",
+        "nameTh": "ซีคอนบางแค",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "176761917",
+        "addr:street": "ถนนเพชรเกษม",
+        "addr:city": "ภาษีเจริญ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-176332761",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53931351428571,
+          13.764089499999999
+        ]
+      },
+      "properties": {
+        "name": "เซ็นเตอร์วัน",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "176332761"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-229875823",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47575187692308,
+          13.77732294358974
+        ]
+      },
+      "properties": {
+        "name": "เซ็นทรัล ปิ่นเกล้า",
+        "nameTh": "เซ็นทรัล ปิ่นเกล้า",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "229875823",
+        "addr:street": "ถนนบรมราชชนนี",
+        "addr:housenumber": "7/222",
+        "addr:city": "แขวงอรุณอมรินทร์",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-154773946",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53777972142856,
+          13.697737107142858
+        ]
+      },
+      "properties": {
+        "name": "เซ็นทรัล พระราม 3",
+        "nameTh": "เซ็นทรัล พระราม 3",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "154773946",
+        "addr:street": "Sathupradit Road",
+        "addr:housenumber": "79",
+        "addr:city": "Bangkok",
+        "opening_hours": "Fr 10:30-22:00; Mo-Th 10:30-21:00; Sa-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-97555393",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.43809006969698,
+          13.663923306060607
+        ]
+      },
+      "properties": {
+        "name": "เซ็นทรัลพลาซา พระราม 2",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "97555393",
+        "addr:street": "ถนนพระรามที่ 2",
+        "addr:housenumber": "128;160",
+        "addr:city": "บางขุนเทียน",
+        "opening_hours": "Fr 11:00-22:00; Mo-Th 11:00-21:30; Sa 10:00-22:00; Su 10:00-21:30",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1214129114",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.520391825,
+          13.723876162500002
+        ]
+      },
+      "properties": {
+        "name": "เซ็นทรัล สีลม ทาวเวอร์",
+        "nameTh": "เซ็นทรัล สีลม ทาวเวอร์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1214129114",
+        "addr:street": "ซอยสีลม 30",
+        "addr:housenumber": "306"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-121554541",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.500213984375,
+          13.745874046875004
+        ]
+      },
+      "properties": {
+        "name": "ดิโอลด์สยามพลาซ่า",
+        "nameTh": "ดิโอลด์สยามพลาซ่า",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "121554541",
+        "website": "https://www.theoldsiam.co.th/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-683130396",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.44782195454545,
+          13.808939736363639
+        ]
+      },
+      "properties": {
+        "name": "เดอะ คริสตัล เอสบี ราชพฤกษ์",
+        "nameTh": "เดอะ คริสตัล เอสบี ราชพฤกษ์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "683130396",
+        "website": "http://www.thecrystal.co.th"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1565777151",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48904352105265,
+          13.753070773684211
+        ]
+      },
+      "properties": {
+        "name": "ท่าช้าง วังหลวง",
+        "nameTh": "ท่าช้าง วังหลวง",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1565777151",
+        "addr:street": "ถนนมหาราช",
+        "addr:housenumber": "166",
+        "phone": "+66 81-424-2898",
+        "website": "https://www.thaachang.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-364438978",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48870615714286,
+          13.755034828571429
+        ]
+      },
+      "properties": {
+        "name": "ท่ามหาราช",
+        "nameTh": "ท่ามหาราช",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "364438978"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1113078832",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50535614285714,
+          13.688916257142859
+        ]
+      },
+      "properties": {
+        "name": "เทอร์มินอล 21 พระราม 3",
+        "nameTh": "เทอร์มินอล 21 พระราม 3",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1113078832"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1370803919",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5493721111111,
+          13.781124633333334
+        ]
+      },
+      "properties": {
+        "name": "ธนชาญวิศิษฐ์",
+        "nameTh": "ธนชาญวิศิษฐ์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1370803919",
+        "addr:street": "ซอยสายลม 1",
+        "addr:housenumber": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-330244577",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55264714444446,
+          13.742534188888888
+        ]
+      },
+      "properties": {
+        "name": "นานาสแควร์",
+        "nameTh": "นานาสแควร์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "330244577"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4494593389",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3797624,
+          13.7862913
+        ]
+      },
+      "properties": {
+        "name": "บ. ออตโต้คิงส์กลาส จำกัด",
+        "nameTh": "บ. ออตโต้คิงส์กลาส จำกัด",
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "4494593389"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-121462566",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4985141,
+          13.758534337499999
+        ]
+      },
+      "properties": {
+        "name": "บัดดี้ช็อปปิงพลาซ่า",
+        "nameTh": "บัดดี้ช็อปปิงพลาซ่า",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "121462566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1375530839",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53415444074074,
+          13.672752437037037
+        ]
+      },
+      "properties": {
+        "name": "บางกอกสแควร์",
+        "nameTh": "บางกอกสแควร์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1375530839",
+        "addr:street": "ถนนพระรามที่ 3",
+        "addr:housenumber": "223/66"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-209558878",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54774055714286,
+          13.799116857142858
+        ]
+      },
+      "properties": {
+        "name": "บางซื่อ จังชั่น",
+        "nameTh": "บางซื่อ จังชั่น",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "209558878",
+        "addr:street": "ถนนกำแพงเพชร 2",
+        "addr:housenumber": "511",
+        "addr:city": "Bangkok",
+        "opening_hours": "Tu-Th 10:00-20:00; Fr-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-39724262",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5359009875,
+          13.729451056250001
+        ]
+      },
+      "properties": {
+        "name": "บางรัก",
+        "nameTh": "สีลม เอจ",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "39724262",
+        "addr:street": "ถนนสีลม",
+        "addr:housenumber": "2",
+        "phone": "+66 2 764 6999",
+        "website": "https://www.silomedge.com/en/;https://l.facebook.com",
+        "opening_hours": "Mo-Fr 08:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-234856668",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49838610000002,
+          13.760621157142856
+        ]
+      },
+      "properties": {
+        "name": "บางลำภูสรรพสินค้า",
+        "nameTh": "บางลำภูสรรพสินค้า",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "234856668",
+        "description": "จำหน่ายเสื้อผ้า, เปิดบริการชั้น 1 เพียงชั้นเดียว"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-546023194",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52097726666666,
+          13.723266466666665
+        ]
+      },
+      "properties": {
+        "name": "บ้านสีลม",
+        "nameTh": "บ้านสีลม",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "546023194",
+        "phone": "+66 2 630 1000",
+        "website": "https://www.baan-silom.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9553459685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5703019,
+          13.7180796
+        ]
+      },
+      "properties": {
+        "name": "บิ๊กซี พลาซ่า พระราม 4",
+        "nameTh": "บิ๊กซี พลาซ่า พระราม 4",
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "9553459685"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3399357033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3853634,
+          13.6739586
+        ]
+      },
+      "properties": {
+        "name": "บีบี3 เซ็นเตอร์พ้อยท์",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "3399357033"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1319840898",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51776842000001,
+          13.75118416
+        ]
+      },
+      "properties": {
+        "name": "โบ๊เบ๊สเตชั่น",
+        "nameTh": "โบ๊เบ๊สเตชั่น",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1319840898"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-406447104",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54053481666669,
+          13.752460354166665
+        ]
+      },
+      "properties": {
+        "name": "ใบหยก แกลลอรี",
+        "nameTh": "ใบหยก แกลลอรี",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "406447104"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1327268980",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48427097142859,
+          13.771634214285715
+        ]
+      },
+      "properties": {
+        "name": "พาต้า ปื่นเกล้า",
+        "nameTh": "พาต้า ปื่นเกล้า",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1327268980",
+        "phone": "024243333",
+        "opening_hours": "Mo-Su 10:00-20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-267939923",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49476738750002,
+          13.727108300000001
+        ]
+      },
+      "properties": {
+        "name": "แพลทฟอร์ม วงเวียนใหญ่",
+        "nameTh": "แพลทฟอร์ม วงเวียนใหญ่",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "267939923",
+        "addr:street": "ถนนลาดหญ้า",
+        "addr:housenumber": "99",
+        "addr:city": "คลองสาน",
+        "phone": "02-4370240",
+        "opening_hours": "10:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11127493338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.531636,
+          13.7303351
+        ]
+      },
+      "properties": {
+        "name": "มณเฑียรมอลล์",
+        "nameTh": "มณเฑียรมอลล์",
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "11127493338"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-389907865",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55058936666667,
+          13.801355200000001
+        ]
+      },
+      "properties": {
+        "name": "มิกซ์ จตุจักร",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "389907865"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-304092130",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4778914,
+          13.77862092
+        ]
+      },
+      "properties": {
+        "name": "เมเจอร์ ซีนีเพล็กซ์ - ปิ่นเกล้า",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "304092130"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4505593689",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4801551,
+          13.7080635
+        ]
+      },
+      "properties": {
+        "name": "ร้านซ่อมแหวนทองเพชร",
+        "nameTh": "ร้านซ่อมแหวนทองเพชร",
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "4505593689"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-342182317",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51333286875003,
+          13.730279293750002
+        ]
+      },
+      "properties": {
+        "name": "ริเวอร์ซิตี",
+        "nameTh": "ริเวอร์ซิตี",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "342182317",
+        "addr:street": "ซอยเจริญกรุง 24",
+        "addr:housenumber": "23",
+        "phone": "+66 2 237 0077",
+        "website": "https://rivercitybangkok.com",
+        "opening_hours": "Mo-Su 10:00-20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9553894582",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5741047,
+          13.7276907
+        ]
+      },
+      "properties": {
+        "name": "เรนฮิลล์",
+        "nameTh": "เรนฮิลล์",
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "9553894582"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-163729716",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51516854444444,
+          13.719735407407411
+        ]
+      },
+      "properties": {
+        "name": "โรบินสัน บางรัก",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "163729716",
+        "opening_hours": "PH,Mo-Su 10:30-21:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4560114091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4928654,
+          13.6814026
+        ]
+      },
+      "properties": {
+        "name": "โลตัสบางประกอก",
+        "nameTh": "โลตัสบางประกอก",
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "4560114091",
+        "addr:street": "สุขสวัสดิ์",
+        "internet_access": "wlan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3500010492",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.544357,
+          13.7256246
+        ]
+      },
+      "properties": {
+        "name": "ไลฟ์ เซ็นเตอร์",
+        "nameTh": "ไลฟ์ เซ็นเตอร์",
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "3500010492",
+        "opening_hours": "10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-203906311",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53944756,
+          13.76492888
+        ]
+      },
+      "properties": {
+        "name": "วิคตอรี่ ฮับ",
+        "nameTh": "วิคตอรี่ ฮับ",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "203906311"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-200890475",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5333954,
+          13.729119183333333
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์การค้าธนิยะ",
+        "nameTh": "ศูนย์การค้าธนิยะ",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "200890475",
+        "addr:street": "ถนนสีลม",
+        "addr:housenumber": "52"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1382955986",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51532509333333,
+          13.789639343333333
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์การค้าสุพรีม",
+        "nameTh": "ศูนย์การค้าสุพรีม",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1382955986",
+        "addr:street": "ถนนสามเสน",
+        "addr:housenumber": "1024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-356193680",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52432612,
+          13.74664894
+        ]
+      },
+      "properties": {
+        "name": "สเตเดียมวัน",
+        "nameTh": "สเตเดียมวัน",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "356193680"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-303502123",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54465162857143,
+          13.780803214285713
+        ]
+      },
+      "properties": {
+        "name": "สนั่นสภามาร์เก็ต",
+        "nameTh": "สนั่นสภามาร์เก็ต",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "303502123"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-365999406",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53377260937498,
+          13.744974434375
+        ]
+      },
+      "properties": {
+        "name": "สยามสแควร์วัน",
+        "nameTh": "สยามสแควร์วัน",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "365999406",
+        "website": "https://pmcu.co.th/?page_id=9435",
+        "description": "สยามสแควร์วัน “Urban Shopping Center” ที่เป็นพื้นที่ทางธุรกิจและวัฒนธรรมร่วมสมัยบนทำเลทองที่ดีที่สุดในแหล่งช้อปปิ้งใจกลางสยามสแควร์ บนพื้นที่ 8 ไร่ เป็นศูนย์รวมและจุดนัดพบที่ได้ออกแบบให้ตอบสนองความต้องการไว้อย่างครบถ้วน ทั้งนวัตกรรม ศิลปะ แฟชั่น อาหาร และ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-613461637",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.571477316,
+          13.716642444
+        ]
+      },
+      "properties": {
+        "name": "สวนเพลิน มาร์เก็ต",
+        "nameTh": "สวนเพลิน มาร์เก็ต",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "613461637"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10568083534",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5100157,
+          13.7262661
+        ]
+      },
+      "properties": {
+        "name": "สุขสยาม",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "10568083534"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-390602112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6128905,
+          13.755685483333332
+        ]
+      },
+      "properties": {
+        "name": "หัวหมากทาวน์เซ็นเตอร์",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "390602112"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4592386490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5022804,
+          13.7414079
+        ]
+      },
+      "properties": {
+        "name": "แหลมสินไทย",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "4592386490"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1211921466",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52248177999999,
+          13.726261959999999
+        ]
+      },
+      "properties": {
+        "name": "อะกิฮาบารา",
+        "nameTh": "อะกิฮาบารา",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1211921466",
+        "addr:street": "ซอยประชุม",
+        "addr:housenumber": "28;26;30;32;34;36"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1232561877",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51501304705884,
+          13.732070894117648
+        ]
+      },
+      "properties": {
+        "name": "อาคารชัยพัฒนศิลป์",
+        "nameTh": "อาคารชัยพัฒนศิลป์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1232561877"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1271219126",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4919340125,
+          13.724774400000001
+        ]
+      },
+      "properties": {
+        "name": "อาคารเอ็มเพลส",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1271219126"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-121554548",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5011712125,
+          13.7438133625
+        ]
+      },
+      "properties": {
+        "name": "อินเดีย เอ็มโพเรียม",
+        "nameTh": "อินเดีย เอ็มโพเรียม",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "121554548"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-34134556",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6126275142857,
+          13.786472960000001
+        ]
+      },
+      "properties": {
+        "name": "อิมพีเรียลเวิลด์ ลาดพร้าว",
+        "nameTh": "อิมพีเรียลเวิลด์ ลาดพร้าว",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "34134556",
+        "addr:street": "Ladprao Road",
+        "addr:housenumber": "2539"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1382955993",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51134587142857,
+          13.783840314285714
+        ]
+      },
+      "properties": {
+        "name": "เอดิสัน",
+        "nameTh": "เอดิสัน",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1382955993"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-149587223",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4248474875,
+          13.712600262499999
+        ]
+      },
+      "properties": {
+        "name": "ไอทีแกรนด์บางแค",
+        "nameTh": "ไอทีแกรนด์บางแค",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "149587223"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-390611241",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60086716666667,
+          13.743081383333333
+        ]
+      },
+      "properties": {
+        "name": "A-Link Square",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "390611241"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1216875457",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54203327999998,
+          13.6940069
+        ]
+      },
+      "properties": {
+        "name": "@Area",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1216875457"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1490293227",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53513928,
+          13.78035908
+        ]
+      },
+      "properties": {
+        "name": "Aree Garden",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1490293227"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-500230827",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56716765384616,
+          13.720017238461539
+        ]
+      },
+      "properties": {
+        "name": "A Square",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "500230827",
+        "addr:street": "Sukumvit 26 road (Soi Ari),",
+        "website": "https://asquarebangkok.com",
+        "opening_hours": "09:00-24:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-176298731",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58562663076921,
+          13.726907449999997
+        ]
+      },
+      "properties": {
+        "name": "Big C",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "176298731"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-25745689",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54162201111113,
+          13.746986744444447
+        ]
+      },
+      "properties": {
+        "name": "Big C Supercenter",
+        "nameTh": "บิ๊กซี ซูเปอร์เซ็นเตอร์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "25745689",
+        "opening_hours": "Mo-Su 09:00-23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-520945960",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57220154000001,
+          13.751364166666665
+        ]
+      },
+      "properties": {
+        "name": "Bravo BKK",
+        "nameTh": "บราโว บีเคเค",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "520945960"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-157593033",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53321435333332,
+          13.745308026666665
+        ]
+      },
+      "properties": {
+        "name": "Center Point Siam Square",
+        "nameTh": "เซ็นเตอร์พอยต์ สยามสแควร์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "157593033",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-244115004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54662958461539,
+          13.743938953846152
+        ]
+      },
+      "properties": {
+        "name": "Central Embassy",
+        "nameTh": "เซ็นทรัล เอ็มบาสซี",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "244115004",
+        "website": "https://www.centralembassy.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1423494591",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53762960833332,
+          13.728387983333334
+        ]
+      },
+      "properties": {
+        "name": "Central Park Bangkok",
+        "nameTh": "เซ็นทรัล พาร์ค",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1423494591",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2108520181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5352007,
+          13.7280144
+        ]
+      },
+      "properties": {
+        "name": "Central Silom Complex",
+        "nameTh": "เซ็นทรัล สีลม คอมเพล็กซ์",
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "2108520181"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-157482067",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53869244666672,
+          13.746461256666661
+        ]
+      },
+      "properties": {
+        "name": "centralwOrld",
+        "nameTh": "เซ็นทรัลเวิลด์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "157482067",
+        "addr:street": "ถนนราชดำริ",
+        "addr:housenumber": "999/9",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "description": "Central World",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-113135445",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60179776249998,
+          13.705609025000001
+        ]
+      },
+      "properties": {
+        "name": "Century The Movie Plaza Sukhumvit",
+        "nameTh": "เซ็นจูรี่ เดอะมูฟวี่ พลาซ่า สุขุมวิท",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "113135445",
+        "phone": "+66 2 023 2222",
+        "website": "https://www.centurythemovieplaza.com/movie-detail.php?id=678",
+        "opening_hours": "Mo-Su 10:00-21:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5325125821",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5337589,
+          13.7453742
+        ]
+      },
+      "properties": {
+        "name": "Daiso",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "5325125821"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2428973176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4966169,
+          13.7590635
+        ]
+      },
+      "properties": {
+        "name": "D&amp;D Plaza",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "2428973176"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12139002909",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4482236,
+          13.6690738
+        ]
+      },
+      "properties": {
+        "name": "Decathlon พระราม 2",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "12139002909",
+        "addr:street": "ถนนพระรามที่ 2",
+        "addr:housenumber": "80/2",
+        "opening_hours": "Mo-Su 09:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10821981905",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5299417,
+          13.745965
+        ]
+      },
+      "properties": {
+        "name": "Don Don: Donki",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "10821981905",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-325613916",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58562491999999,
+          13.73081402
+        ]
+      },
+      "properties": {
+        "name": "Donki Mall",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "325613916"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-176298723",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.581729725,
+          13.730877174999998
+        ]
+      },
+      "properties": {
+        "name": "Ei8t Thonglor",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "176298723"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-334038120",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5865777125,
+          13.729365450000001
+        ]
+      },
+      "properties": {
+        "name": "Ekkamai Shopping Mall",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "334038120"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-25505429",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56889374782611,
+          13.730394530434783
+        ]
+      },
+      "properties": {
+        "name": "Emporium",
+        "nameTh": "เอ็มโพเรียม",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "25505429",
+        "addr:street": "ถนนสุขุมวิท",
+        "addr:housenumber": "622",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-318785712",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56943274342106,
+          13.731603968421055
+        ]
+      },
+      "properties": {
+        "name": "EmQuartier",
+        "nameTh": "เอ็มควอเทียร์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "318785712",
+        "addr:street": "ถนนสุขุมวิท",
+        "addr:housenumber": "693-695",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-405853851",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5660461,
+          13.73199888
+        ]
+      },
+      "properties": {
+        "name": "EMSPHERE",
+        "nameTh": "เอ็มสเฟียร์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "405853851",
+        "addr:street": "ถนนสุขุมวิท",
+        "addr:housenumber": "628",
+        "phone": "022691000",
+        "website": "https://emsphere.co.th",
+        "opening_hours": "10.00 - 22.00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1324084977",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56657495714285,
+          13.731336385714286
+        ]
+      },
+      "properties": {
+        "name": "EM TOWER at EMSPHERE",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1324084977",
+        "addr:street": "ถนนสุขุมวิท",
+        "addr:housenumber": "628",
+        "phone": "022691000",
+        "website": "https://emsphere.co.th",
+        "opening_hours": "10.00 - 22.00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-25829679",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54051286285714,
+          13.74364458571429
+        ]
+      },
+      "properties": {
+        "name": "Erawan Bangkok",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "25829679",
+        "addr:street": "Thanon Ratchadamri",
+        "addr:housenumber": "494"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6653372286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5159837,
+          13.7204322
+        ]
+      },
+      "properties": {
+        "name": "everything store",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "6653372286"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-321882295",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58031461666667,
+          13.726096833333331
+        ]
+      },
+      "properties": {
+        "name": "Fifty Fifth",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "321882295"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-563205916",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4435905,
+          13.765316771428573
+        ]
+      },
+      "properties": {
+        "name": "Food Villa Ratchaphruek",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "563205916"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1109220984",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47122706666666,
+          13.677413020000001
+        ]
+      },
+      "properties": {
+        "name": "Forest ถ. พุทธบูชา-พระราม2",
+        "nameTh": "Forest ถ. พุทธบูชา-พระราม2",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1109220984"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-158656127",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52381571250001,
+          13.805855462499999
+        ]
+      },
+      "properties": {
+        "name": "Gateway Bangsue",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "158656127"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-176298722",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58514392173912,
+          13.718967843478259
+        ]
+      },
+      "properties": {
+        "name": "Gateway Ekkamai",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "176298722",
+        "addr:street": "Sukhumvit road",
+        "addr:housenumber": "982/22",
+        "website": "https://www.facebook.com/gatewayekamai"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-25787548",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54123572857142,
+          13.743791671428571
+        ]
+      },
+      "properties": {
+        "name": "Gaysorn Amarin",
+        "nameTh": "เกษรอัมรินทร์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "25787548",
+        "addr:street": "Phloen Chit Road",
+        "addr:housenumber": "496-502",
+        "website": "www.amarinplaza.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1274783724",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55445374444444,
+          13.741788822222224
+        ]
+      },
+      "properties": {
+        "name": "Grand5 Shopping Mall",
+        "nameTh": "แกนรด์ ไฟฟ์ ชอปปิง มอลล์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1274783724",
+        "opening_hours": "Mo-Su 10:00-02:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-241883576",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53849765999999,
+          13.750579960000001
+        ]
+      },
+      "properties": {
+        "name": "Grand Diamond Plaza",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "241883576"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1239588030",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52218906250002,
+          13.702594159999999
+        ]
+      },
+      "properties": {
+        "name": "Green Place",
+        "nameTh": "กรีนเพลส",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1239588030",
+        "addr:street": "ซอยจันทน์ 43",
+        "addr:housenumber": "88/8"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4410702935",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5382485,
+          13.745438
+        ]
+      },
+      "properties": {
+        "name": "Groove @ CentralWorld",
+        "nameTh": "Groove @ CentralWorld（Harnn)",
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "4410702935",
+        "opening_hours": "Mo-Su 11:00-01:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-438794335",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60091095000001,
+          13.712804166666666
+        ]
+      },
+      "properties": {
+        "name": "Habito",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "438794335",
+        "addr:street": "ซอยอ่อนนุช 1/1",
+        "addr:housenumber": "45/19",
+        "opening_hours": "Mo-Su 00:00-24:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-560437005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.61481733333335,
+          13.742853711111112
+        ]
+      },
+      "properties": {
+        "name": "Homepro พระราม9",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "560437005"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12713942842",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.538543,
+          13.7469256
+        ]
+      },
+      "properties": {
+        "name": "Hug Thai Zone",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "12713942842"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4411938763",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5201355,
+          13.7227881
+        ]
+      },
+      "properties": {
+        "name": "Jewelry Trade Center Thailand",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "4411938763"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10831679805",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6009433,
+          13.7060075
+        ]
+      },
+      "properties": {
+        "name": "Kerry Express",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "10831679805",
+        "opening_hours": "Mo-Sa 09:00-19:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1346389305",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5579718153846,
+          13.738067130769231
+        ]
+      },
+      "properties": {
+        "name": "Korean Town",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1346389305"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-164625405",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54508927391305,
+          13.779894500000001
+        ]
+      },
+      "properties": {
+        "name": "La Villa",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "164625405",
+        "addr:street": "ถนนพหลโยธิน",
+        "addr:housenumber": "356",
+        "opening_hours": "Mo-Su 07:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-376797216",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.528649525,
+          13.7239262875
+        ]
+      },
+      "properties": {
+        "name": "MahaNakhon CUBE",
+        "nameTh": "มหานคร คิวบ์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "376797216",
+        "website": "https://kingpowermahanakhon.co.th/cube/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-390603929",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.61418835999999,
+          13.757460380000001
+        ]
+      },
+      "properties": {
+        "name": "Major Hollywood Ramkhamhaeng",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "390603929"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4785433124",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.381832,
+          13.7061033
+        ]
+      },
+      "properties": {
+        "name": "Makro Phetkasem",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "4785433124"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-7325627885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4919054,
+          13.6821729
+        ]
+      },
+      "properties": {
+        "name": "Makro Superstore",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "7325627885",
+        "opening_hours": "Mo-Su 06:00-22:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6391901497",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5076603,
+          13.7790061
+        ]
+      },
+      "properties": {
+        "name": "Market Place Dusit",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "6391901497",
+        "addr:street": "ถนนราชวิถี",
+        "addr:housenumber": "157 6",
+        "addr:city": "แขวงวชิรพยาบาล",
+        "opening_hours": "Mo-Su 11:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1086882861",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50793896615387,
+          13.778910109230768
+        ]
+      },
+      "properties": {
+        "name": "Market Place Dusit",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1086882861",
+        "addr:street": "ถนนราชวิถี",
+        "addr:housenumber": "157 6",
+        "opening_hours": "Mo-Su 11:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-318127935",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58214441388888,
+          13.734553488888892
+        ]
+      },
+      "properties": {
+        "name": "Market Place Thonglor",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "318127935"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-230860267",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5353456,
+          13.752508285714287
+        ]
+      },
+      "properties": {
+        "name": "Metro Fashion Mall",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "230860267"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-565659976",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45139355,
+          13.709322259999999
+        ]
+      },
+      "properties": {
+        "name": "Metro West Town",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "565659976"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-332191998",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56198192000001,
+          13.7438389
+        ]
+      },
+      "properties": {
+        "name": "Midtown Asoke",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "332191998",
+        "opening_hours": "Mo-Su 07:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-25699980",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57212127142859,
+          13.729168914285713
+        ]
+      },
+      "properties": {
+        "name": "Miracle Mall",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "25699980",
+        "addr:street": "Sukhumvit 41"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-156896762",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5441523,
+          13.684586985714285
+        ]
+      },
+      "properties": {
+        "name": "Monopoly Park",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "156896762"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10690941211",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.539592,
+          13.7477393
+        ]
+      },
+      "properties": {
+        "name": "MUJI",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "10690941211"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5038747122",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5310362,
+          13.7213722
+        ]
+      },
+      "properties": {
+        "name": "muteki",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "5038747122",
+        "opening_hours": "Mo-Fr 11:00-22:00; Sa-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-319318023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57967278,
+          13.7343659
+        ]
+      },
+      "properties": {
+        "name": "Nihonmura",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "319318023"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-7676727386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5763867,
+          13.7368137
+        ]
+      },
+      "properties": {
+        "name": "Norse Rebuplics",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "7676727386"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-176298727",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57851202857144,
+          13.747638914285712
+        ]
+      },
+      "properties": {
+        "name": "Office Depot",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "176298727"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-231405192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51548884,
+          13.724407513333336
+        ]
+      },
+      "properties": {
+        "name": "O.P. Place",
+        "nameTh": "โอ.พี.เพลส",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "231405192",
+        "addr:street": "ซอยเจริญกรุง 38",
+        "addr:housenumber": "30/1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-324275303",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58424876842105,
+          13.723271921052632
+        ]
+      },
+      "properties": {
+        "name": "Park Lane",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "324275303",
+        "website": "https://parklanebangkok.com/",
+        "opening_hours": "Mo-Su 06:00-02:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-113135414",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60806658000001,
+          13.71175856
+        ]
+      },
+      "properties": {
+        "name": "People Park Community Mall",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "113135414"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-31141613",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54013230000001,
+          13.749868603846156
+        ]
+      },
+      "properties": {
+        "name": "Platinum Fashion Mall",
+        "nameTh": "เดอะ แพลทินัม แฟชั่น มอลล์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "31141613",
+        "addr:street": "ถนนเพชรบุรี",
+        "addr:housenumber": "222/1398",
+        "opening_hours": "Mo-Fr 09:00-20:00",
+        "wheelchair": "yes",
+        "internet_access": "wlan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-62216205",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55142016666667,
+          13.741723294444446
+        ]
+      },
+      "properties": {
+        "name": "Ploenchit Center",
+        "nameTh": "เพลินจิต​ เซ็นเตอร์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "62216205"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1264152505",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5469887125,
+          13.728080937500001
+        ]
+      },
+      "properties": {
+        "name": "Post 1928",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1264152505"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-332648156",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57408569285715,
+          13.72772457142857
+        ]
+      },
+      "properties": {
+        "name": "Rain Hill Plaza",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "332648156"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-176298733",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57965579999998,
+          13.74713006
+        ]
+      },
+      "properties": {
+        "name": "RCA Plaza",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "176298733"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1754044843",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.566171,
+          13.759384
+        ]
+      },
+      "properties": {
+        "name": "Robinson",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "1754044843",
+        "opening_hours": "PH,Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-25829369",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55945035,
+          13.738414464285713
+        ]
+      },
+      "properties": {
+        "name": "Robinson",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "25829369"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2093040116",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4228063,
+          13.7806362
+        ]
+      },
+      "properties": {
+        "name": "SC Plaza",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "2093040116"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-319318735",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58138584999999,
+          13.73336817857143
+        ]
+      },
+      "properties": {
+        "name": "Seenspace 13",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "319318735"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11250481188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.581395,
+          13.7333588
+        ]
+      },
+      "properties": {
+        "name": "SEENSPACE Thong Lor 13",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "11250481188",
+        "addr:street": "Khlong Tan Nuea, Watthana,",
+        "addr:housenumber": "251/1 Thong Lo 13 Alley"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-286264760",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50787120714287,
+          13.719282257142856
+        ]
+      },
+      "properties": {
+        "name": "Sena Fest",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "286264760"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-303230139",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53827430000001,
+          13.751285266666669
+        ]
+      },
+      "properties": {
+        "name": "Shibuya 19",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "303230139",
+        "addr:street": "ถนนเพชรบุรี",
+        "addr:housenumber": "919"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4809929722",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5724754,
+          13.7505129
+        ]
+      },
+      "properties": {
+        "name": "SHOW DC",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "4809929722"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-25701334",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53283677499999,
+          13.746271830000001
+        ]
+      },
+      "properties": {
+        "name": "Siam Center",
+        "nameTh": "สยามเซ็นเตอร์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "25701334",
+        "addr:street": "ถนนพระรามที่ 1",
+        "addr:housenumber": "979",
+        "phone": "+66 2 658 1000",
+        "website": "https://www.siamcenter.co.th/",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-157770877",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53150990588237,
+          13.746655723529415
+        ]
+      },
+      "properties": {
+        "name": "Siam Discovery",
+        "nameTh": "สยามดิสคัฟเวอรี่",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "157770877",
+        "addr:street": "ถนนพญาไท",
+        "addr:housenumber": "194",
+        "website": "https://www.siamdiscovery.co.th/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-781138575",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53471253333333,
+          13.746561475555554
+        ]
+      },
+      "properties": {
+        "name": "Siam Paragon",
+        "nameTh": "สยามพารากอน",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "781138575",
+        "addr:street": "ถนนพระรามที่ 1",
+        "addr:housenumber": "991"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1213667349",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52193680000002,
+          13.72483395652174
+        ]
+      },
+      "properties": {
+        "name": "Silom Village Trade Center",
+        "nameTh": "สีลมวิลเลจ เทรดเซนเตอร์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1213667349"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3280551361",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5409546,
+          13.7709713
+        ]
+      },
+      "properties": {
+        "name": "SM Tower",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "3280551361"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11323123669",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5089544,
+          13.7417461
+        ]
+      },
+      "properties": {
+        "name": "Soil 6 : Wet Market",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "11323123669"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-506906052",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59161195882353,
+          13.714644564705884
+        ]
+      },
+      "properties": {
+        "name": "Summer Hill",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "506906052"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-903652805",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.61382695517239,
+          13.663257489655173
+        ]
+      },
+      "properties": {
+        "name": "Summer Lasalle",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "903652805"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-43268017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53367796666667,
+          13.7286973
+        ]
+      },
+      "properties": {
+        "name": "Thaniya Building",
+        "nameTh": "ธนิยะพลาซา บีทีเอส วิง",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "43268017",
+        "addr:street": "ถนนสีลม",
+        "addr:housenumber": "52"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-25829186",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57602716,
+          13.73206758
+        ]
+      },
+      "properties": {
+        "name": "The 49 Terrace",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "25829186"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-325613818",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58218415714285,
+          13.735044771428571
+        ]
+      },
+      "properties": {
+        "name": "The Commons",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "325613818",
+        "addr:street": "Thong Lor Soi 17",
+        "addr:housenumber": "335",
+        "website": "https://www.thecommonsbkk.com/thonglor",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1231334530",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53857912857144,
+          13.72593317142857
+        ]
+      },
+      "properties": {
+        "name": "The Commons Saladaeng",
+        "nameTh": "เดอะคอมมอนส์ ศาลาแดง",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1231334530",
+        "addr:street": "ซอยศาลาแดง 1",
+        "addr:housenumber": "126",
+        "phone": "+66 84 091 5421",
+        "website": "https://www.thecommonsbkk.com/saladaeng",
+        "description": "theCOMMONS is a gathering ground for quality producers who take pride in what they do and do it with utmost care. Our intention is simple. We want to bring people together and build wholesome, meaningful communities in this beautiful city that we love."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12328333927",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4081626,
+          13.6939262
+        ]
+      },
+      "properties": {
+        "name": "The Explace",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "12328333927"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-96359391",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4077508275862,
+          13.713587282758619
+        ]
+      },
+      "properties": {
+        "name": "The Mall Bangkae",
+        "nameTh": "เดอะมอลล์ บางแค",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "96359391",
+        "addr:street": "ถนนเพชรเกษม",
+        "addr:housenumber": "518",
+        "addr:city": "บางแค",
+        "opening_hours": "10:30-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-30754265",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4801171625,
+          13.713609575
+        ]
+      },
+      "properties": {
+        "name": "The Mall Lifestore Tha Phra",
+        "nameTh": "เดอะมอลล์ไลฟ์สโตร์ ท่าพระ",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "30754265",
+        "addr:street": "ถนนรัชดาภิเษก",
+        "addr:housenumber": "129",
+        "addr:city": "ธนบุรี",
+        "opening_hours": "Mo-Fr 10:00-21:00, Sa,Su 09:00-21:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-340477772",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57191257142857,
+          13.734740928571428
+        ]
+      },
+      "properties": {
+        "name": "The Manor",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "340477772"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-157668564",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56064041249998,
+          13.815462637500003
+        ]
+      },
+      "properties": {
+        "name": "The One Park",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "157668564"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-229970775",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54241381764706,
+          13.750563899999998
+        ]
+      },
+      "properties": {
+        "name": "The Palladium World Shopping",
+        "nameTh": "เดอะพาลาเดียม เวิลด์ ช้อปปิ้ง",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "229970775",
+        "addr:street": "ถนนราชปรารภ",
+        "addr:housenumber": "555",
+        "phone": "+66 2 309 9000",
+        "website": "https://meechaitravel.com",
+        "opening_hours": "Mo-Su 10:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-451111259",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.40597784545456,
+          13.766599609090907
+        ]
+      },
+      "properties": {
+        "name": "The Paseo Park",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "451111259"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-450148992",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60161500476194,
+          13.702622676190478
+        ]
+      },
+      "properties": {
+        "name": "The Phyll",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "450148992"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-196113865",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54371008181816,
+          13.742139890909094
+        ]
+      },
+      "properties": {
+        "name": "The Portico Langsuan",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "196113865"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1354933660",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54571942962963,
+          13.727052455555555
+        ]
+      },
+      "properties": {
+        "name": "The Storeys",
+        "nameTh": "เดอะ สตอรี่ส์",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1354933660"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-389266254",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58177194,
+          13.732816170000001
+        ]
+      },
+      "properties": {
+        "name": "The Taste Thonglor",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "389266254"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-323032139",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58238414444445,
+          13.732514522222223
+        ]
+      },
+      "properties": {
+        "name": "The Third Place",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "323032139"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-520943039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56910122,
+          13.72569302
+        ]
+      },
+      "properties": {
+        "name": "The Twenty Six",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "520943039",
+        "addr:street": "สุขุมวิท 26"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-320617483",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54047586,
+          13.700336666666665
+        ]
+      },
+      "properties": {
+        "name": "The Up Rama 3",
+        "nameTh": "ดิอัพ พระราม 3",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "320617483"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1700049265",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5298492,
+          13.7458135
+        ]
+      },
+      "properties": {
+        "name": "Tokyu",
+        "nameTh": "โตคิว",
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "1700049265",
+        "opening_hours": "Mo-Su,PH 10:00-21:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-332655881",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5490844230769,
+          13.737699800000001
+        ]
+      },
+      "properties": {
+        "name": "Urbis",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "332655881"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5185058000",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3753496,
+          13.7071008
+        ]
+      },
+      "properties": {
+        "name": "Victoria Gardens",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "5185058000",
+        "addr:street": "ถนนเพชรเกษม",
+        "addr:city": "บางแค",
+        "website": "http://www.victoria-gardens.net",
+        "opening_hours": "24/7",
+        "description": "Community Mall"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-331967736",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54316342,
+          13.741596419999999
+        ]
+      },
+      "properties": {
+        "name": "Vivre Langsuan",
+        "nameTh": "วีฟร์ หลังสวน",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "331967736"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1193791842",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50928960000002,
+          13.72156832
+        ]
+      },
+      "properties": {
+        "name": "Vue Lifestyle",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1193791842"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-386222340",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56809864,
+          13.721775159999998
+        ]
+      },
+      "properties": {
+        "name": "Warehouse 26",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "386222340"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1562804273",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54216455714287,
+          13.751574557142858
+        ]
+      },
+      "properties": {
+        "name": "Watergate Pavillion",
+        "nameTh": "วอเตอร์เกท พาวิลเลียน​",
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1562804273",
+        "addr:street": "ถนนราชปรารภ",
+        "addr:housenumber": "567"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-27644094",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.547882975,
+          13.743862775
+        ]
+      },
+      "properties": {
+        "name": "Wave Place",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "27644094"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1234514616",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5417947,
+          13.726939742857144
+        ]
+      },
+      "properties": {
+        "name": "WOOF PACK",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "way",
+        "osmId": "1234514616"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4410702936",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5393508,
+          13.7453911
+        ]
+      },
+      "properties": {
+        "name": "Zen",
+        "nameTh": null,
+        "category": "shopping",
+        "osmType": "node",
+        "osmId": "4410702936"
+      }
+    }
+  ]
+}

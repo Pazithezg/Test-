@@ -1,0 +1,2674 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "OpenStreetMap",
+    "snapshotDate": "2026-10-23",
+    "category": "market",
+    "count": 145,
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL",
+    "url": "https://www.openstreetmap.org/copyright"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "osm-way-1374667455",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53755142,
+          13.782082920000002
+        ]
+      },
+      "properties": {
+        "name": "คลาดแม่ฟุ้ง",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1374667455",
+        "addr:street": "ซอยพิบูลวัฒนา 5",
+        "addr:housenumber": "73"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1331925616",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57082032000001,
+          13.768190780000001
+        ]
+      },
+      "properties": {
+        "name": "จ๊อดแฟร์ รัชดา",
+        "nameTh": "จ๊อดแฟร์ รัชดา",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1331925616"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14136272501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3823985,
+          13.6882108
+        ]
+      },
+      "properties": {
+        "name": "เจ้าสัว 69",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "14136272501"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1189209076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51926276363635,
+          13.729257290909091
+        ]
+      },
+      "properties": {
+        "name": "ชุมชนตลาดสดเพชรพลอย",
+        "nameTh": "ชุมชนตลาดสดเพชรพลอย",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1189209076"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1293425919",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54794876,
+          13.798219040000001
+        ]
+      },
+      "properties": {
+        "name": "เดอะแคมป์ แฟร์",
+        "nameTh": "เดอะแคมป์ แฟร์",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1293425919"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-338019625",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49963745555556,
+          13.716546099999999
+        ]
+      },
+      "properties": {
+        "name": "ตลาด",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "338019625"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2156104165",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5318283,
+          13.7286838
+        ]
+      },
+      "properties": {
+        "name": "ตลาดกลางคืนพัฒน์พงษ์",
+        "nameTh": "ตลาดกลางคืนพัฒน์พงษ์",
+        "category": "market",
+        "osmType": "node",
+        "osmId": "2156104165",
+        "opening_hours": "Mo-Su 18:00-00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1224798749",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53817494,
+          13.727130840000001
+        ]
+      },
+      "properties": {
+        "name": "ตลาดกลางซอย",
+        "nameTh": "ตลาดกลางซอย",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1224798749"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1542855061",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.44459002173912,
+          13.749875669565217
+        ]
+      },
+      "properties": {
+        "name": "ตลาดกลางดอกไม้ปากคลองตลาดใหม่",
+        "nameTh": "ตลาดกลางดอกไม้ปากคลองตลาดใหม่",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1542855061",
+        "addr:street": "พรานนก - พุทธมณฑลสาย 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1328879259",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5588885,
+          13.75888238
+        ]
+      },
+      "properties": {
+        "name": "ตลาดขวัญพัฒนา",
+        "nameTh": "ตลาดขวัญพัฒนา",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1328879259"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1330370652",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55804838333334,
+          13.756314566666667
+        ]
+      },
+      "properties": {
+        "name": "ตลาดขวัญพัฒนา 2",
+        "nameTh": "ตลาดขวัญพัฒนา 2",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1330370652"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1352051896",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54633600555556,
+          13.676204972222223
+        ]
+      },
+      "properties": {
+        "name": "ตลาดครูหวี",
+        "nameTh": "ตลาดครูหวี",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1352051896"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4527517188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3538918,
+          13.6840041
+        ]
+      },
+      "properties": {
+        "name": "ตลาดคุณตาพลอย",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "4527517188"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1219295797",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53882682,
+          13.718208099999998
+        ]
+      },
+      "properties": {
+        "name": "ตลาดคุณมาย",
+        "nameTh": "ตลาดคุณมาย",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1219295797"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-318460613",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.61015337,
+          13.679516659999999
+        ]
+      },
+      "properties": {
+        "name": "ตลาดคุณยิ้ม",
+        "nameTh": "ตลาดคุณยิ้ม",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "318460613"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1496839207",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.453921,
+          13.6754221
+        ]
+      },
+      "properties": {
+        "name": "ตลาดชัยกูล",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "1496839207"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1499360634",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47163846666666,
+          13.740636700000001
+        ]
+      },
+      "properties": {
+        "name": "ตลาดชาติชาย",
+        "nameTh": "ตลาดชาติชาย",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1499360634"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1347119077",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.43230454285712,
+          13.735726271428572
+        ]
+      },
+      "properties": {
+        "name": "ตลาดไชยฉิมพลี",
+        "nameTh": "ตลาดไชยฉิมพลี",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1347119077"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1303833085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46359527142856,
+          13.769284999999998
+        ]
+      },
+      "properties": {
+        "name": "ตลาดไชยทิศ",
+        "nameTh": "ตลาดไชยทิศ",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1303833085"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1211828725",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.522945535,
+          13.725103639999997
+        ]
+      },
+      "properties": {
+        "name": "ตลาดซอยประชุม",
+        "nameTh": "ตลาดซอยประชุม",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1211828725"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1319867501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55609669090909,
+          13.765431709090906
+        ]
+      },
+      "properties": {
+        "name": "ตลาดดินแดง",
+        "nameTh": "ตลาดดินแดง",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1319867501"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12915497488",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4992409,
+          13.7495816
+        ]
+      },
+      "properties": {
+        "name": "ตลาดตรอกหม้อ",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "12915497488",
+        "opening_hours": "Mo-Su 05:00-10:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-222131519",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51778127142859,
+          13.757264985714288
+        ]
+      },
+      "properties": {
+        "name": "ตลาดทรัพย์สินพัฒนา",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "222131519"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-527215339",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50243748,
+          13.733830219999998
+        ]
+      },
+      "properties": {
+        "name": "ตลาดท่าดินแดง",
+        "nameTh": "ตลาดท่าดินแดง",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "527215339"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1087630189",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55620774,
+          13.72274156
+        ]
+      },
+      "properties": {
+        "name": "ตลาดเทพประทาน",
+        "nameTh": "ตลาดเทพประทาน",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1087630189"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-214152293",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50344052,
+          13.770368810000003
+        ]
+      },
+      "properties": {
+        "name": "ตลาดเทวราช",
+        "nameTh": "ตลาดเทวราช",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "214152293"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-99183813",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3522118375,
+          13.7476646625
+        ]
+      },
+      "properties": {
+        "name": "ตลาดธนบุรี สนามหลวง 2",
+        "nameTh": "ตลาดธนบุรี สนามหลวง 2",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "99183813"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-562402651",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45096118,
+          13.738477399999999
+        ]
+      },
+      "properties": {
+        "name": "ตลาดธารทอง",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "562402651"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1382955988",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51242381875,
+          13.785351375000001
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนครชัยศรี",
+        "nameTh": "ตลาดนครชัยศรี",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1382955988"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-377896484",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46873618,
+          13.753138239999998
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนครหลวง",
+        "nameTh": "ตลาดนครหลวง",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "377896484"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-661623726",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49877475999999,
+          13.76226652
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนรรัตน์",
+        "nameTh": "ตลาดนรรัตน์",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "661623726"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6108554835",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4414328,
+          13.664382
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนัดกรีนเดย์ไนท์",
+        "nameTh": "ตลาดนัดกรีนเดย์ไนท์",
+        "category": "market",
+        "osmType": "node",
+        "osmId": "6108554835"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-37911198",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55031439154929,
+          13.799787971830987
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนัดจตุจักร",
+        "nameTh": "ตลาดนัดจตุจักร",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "37911198",
+        "website": "https://www.chatuchakmarket.org",
+        "opening_hours": "Sa-Su 09:00-18:00; We-Th 07:00-18:00; Fr 18:00-00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10958212086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5315082,
+          13.7359365
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนัดจุฬา",
+        "nameTh": "ตลาดนัดจุฬา",
+        "category": "market",
+        "osmType": "node",
+        "osmId": "10958212086"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-490320289",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50167954444447,
+          13.754955577777777
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนัดชุมชนหลังวัดราชนัดดา",
+        "nameTh": "ตลาดนัดชุมชนหลังวัดราชนัดดา",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "490320289"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1103682675",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52843332857141,
+          13.7276232
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนัดซอย 10",
+        "nameTh": "ตลาดนัดซอย 10",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1103682675"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-99450842",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.44022070909091,
+          13.66370817272727
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนัดพิบูลย์วิทย์ 4",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "99450842"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-368893104",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56842964,
+          13.766938826666667
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนัดรถไฟรัชดา",
+        "nameTh": "ตลาดนัดรถไฟรัชดา",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "368893104",
+        "opening_hours": "Mo-Su 17:00-01:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-664348105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56187626451612,
+          13.77262636451613
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนัดเรนโบว์",
+        "nameTh": "ตลาดนัดเรนโบว์",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "664348105"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-719108840",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51113539999999,
+          13.80041138
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนัดโรงพยาบาลยันฮี",
+        "nameTh": "ตลาดนัดโรงพยาบาลยันฮี",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "719108840"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1263618470",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.39152884999999,
+          13.814032833333334
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนัดลุงออม",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1263618470"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1239588053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52433915,
+          13.700996889999999
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนัดวัดไผ่เงิน",
+        "nameTh": "ตลาดนัดวัดไผ่เงิน",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1239588053"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1239857626",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53001931666667,
+          13.704065025
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนัดสาธุ",
+        "nameTh": "ตลาดนัดสาธุ",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1239857626"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1230259743",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50180276,
+          13.75467248
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนัดหลังศาลากลางฯ",
+        "nameTh": "ตลาดนัดหลังศาลากลางฯ",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1230259743",
+        "opening_hours": "Mo-Su 07:00-11:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1222676252",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54367051333335,
+          13.707753306666666
+        ]
+      },
+      "properties": {
+        "name": "ตลาดนางลิ้นจี่",
+        "nameTh": "ตลาดนางลิ้นจี่",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1222676252"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1270934034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46366414285716,
+          13.730562
+        ]
+      },
+      "properties": {
+        "name": "ตลาดน้ำคลองบางหลวง",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1270934034"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1625414970",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.427125,
+          13.707524
+        ]
+      },
+      "properties": {
+        "name": "ตลาดน้ำคลองภาษีเจริญ วัดนิมมานรดี",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "1625414970"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1255818005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4156999,
+          13.7610789
+        ]
+      },
+      "properties": {
+        "name": "ตลาดน้ำคลองลัดมะยม",
+        "nameTh": "floating market",
+        "category": "market",
+        "osmType": "node",
+        "osmId": "1255818005",
+        "opening_hours": "Sa-Su 08:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-596101384",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.41563605263157,
+          13.7606939
+        ]
+      },
+      "properties": {
+        "name": "ตลาดน้ำคลองลัดมะยม",
+        "nameTh": "ตลาดน้ำคลองลัดมะยม",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "596101384",
+        "addr:street": "Bang Ramat Rd",
+        "addr:housenumber": "30/1",
+        "opening_hours": "Sa-Su 08:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-256162460",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45632705882356,
+          13.776382364705883
+        ]
+      },
+      "properties": {
+        "name": "ตลาดน้ำตลิ่งชัน",
+        "nameTh": "ตลาดน้ำตลิ่งชัน",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "256162460"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12468584279",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4771577,
+          13.7639377
+        ]
+      },
+      "properties": {
+        "name": "ตลาดน้ำบางกอกน้อย",
+        "nameTh": "ตลาดน้ำบางกอกน้อย",
+        "category": "market",
+        "osmType": "node",
+        "osmId": "12468584279"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1356352387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57426099999999,
+          13.680352514285715
+        ]
+      },
+      "properties": {
+        "name": "ตลาดน้ำบางน้ำผึ้ง",
+        "nameTh": "ตลาดน้ำบางน้ำผึ้ง",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1356352387"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1511272937",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45743281111112,
+          13.689652877777778
+        ]
+      },
+      "properties": {
+        "name": "ตลาดน้ำวัดไทร",
+        "nameTh": "ตลาดน้ำวัดไทร",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1511272937"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12491825247",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4899341,
+          13.7838688
+        ]
+      },
+      "properties": {
+        "name": "ตลาดบางพัฒนา",
+        "nameTh": "ตลาดบางพัฒนา",
+        "category": "market",
+        "osmType": "node",
+        "osmId": "12491825247"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-99345139",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45577266000001,
+          13.673150139999999
+        ]
+      },
+      "properties": {
+        "name": "ตลาดบางมด",
+        "nameTh": "ตลาดบางมด",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "99345139"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-231405237",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51522978,
+          13.7205376
+        ]
+      },
+      "properties": {
+        "name": "ตลาดบางรัก",
+        "nameTh": "ตลาดบางรัก",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "231405237"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1498964901",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5960073661972,
+          13.712509439436618
+        ]
+      },
+      "properties": {
+        "name": "ตลาดพระโขนง",
+        "nameTh": "ตลาดพระโขนง",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1498964901"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-198401461",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47832128333334,
+          13.755224166666666
+        ]
+      },
+      "properties": {
+        "name": "ตลาดพรานนก",
+        "nameTh": "ตลาดพรานนก",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "198401461"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-164040643",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4770713,
+          13.721318720000003
+        ]
+      },
+      "properties": {
+        "name": "ตลาดพลู",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "164040643"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1498869503",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50075138333334,
+          13.744225900000002
+        ]
+      },
+      "properties": {
+        "name": "ตลาดพาหุรัด",
+        "nameTh": "ตลาดพาหุรัด",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1498869503"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1511272914",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.44386938571428,
+          13.686809771428571
+        ]
+      },
+      "properties": {
+        "name": "ตลาดพิบูลย์วิทย์",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1511272914"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1509458397",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.453794025,
+          13.691350812500001
+        ]
+      },
+      "properties": {
+        "name": "ตลาดพิบูลย์วิทย์ 6",
+        "nameTh": "ตลาดพิบูลย์วิทย์ 6",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1509458397"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1489509208",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48321986666667,
+          13.7405371
+        ]
+      },
+      "properties": {
+        "name": "ตลาดโพธิ์สามต้น",
+        "nameTh": "ตลาดโพธิ์สามต้น",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1489509208"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1431671105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55844586250001,
+          13.7888455125
+        ]
+      },
+      "properties": {
+        "name": "ตลาดมิ่งขวัญบ้านนา",
+        "nameTh": "ตลาดมิ่งขวัญบ้านนา",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1431671105"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1224798747",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53696063333332,
+          13.7265741
+        ]
+      },
+      "properties": {
+        "name": "ตลาดร่มเขียว",
+        "nameTh": "ตลาดร่มเขียว",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1224798747"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1569163827",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47611062,
+          13.729644819999999
+        ]
+      },
+      "properties": {
+        "name": "ตลาดรวยรุ่งเรือง",
+        "nameTh": "ตลาดรวยรุ่งเรือง",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1569163827"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1423232717",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5239376,
+          13.778176440909089
+        ]
+      },
+      "properties": {
+        "name": "ตลาดราชวัตร",
+        "nameTh": "ตลาดราชวัตร",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1423232717"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1004865014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.498131075,
+          13.754032975000001
+        ]
+      },
+      "properties": {
+        "name": "ตลาดล็อตเตอรี่ศาลเจ้าพ่อเสือ",
+        "nameTh": "ตลาดล็อตเตอรี่ศาลเจ้าพ่อเสือ",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1004865014"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1236765197",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52973105555554,
+          13.72597822222222
+        ]
+      },
+      "properties": {
+        "name": "ตลาดละลายทรัพย์",
+        "nameTh": "ตลาดละลายทรัพย์",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1236765197"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12509850647",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4809559,
+          13.7230343
+        ]
+      },
+      "properties": {
+        "name": "ตลาดวัดกลาง",
+        "nameTh": "ตลาดวัดกลาง",
+        "category": "market",
+        "osmType": "node",
+        "osmId": "12509850647",
+        "opening_hours": "Mo-Su 04:00-16:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-7141808836",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.520735,
+          13.7839247
+        ]
+      },
+      "properties": {
+        "name": "ตลาดวัดน้อยนพคุณ",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "7141808836",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-337817488",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.492696225,
+          13.7131859875
+        ]
+      },
+      "properties": {
+        "name": "ตลาดวัดสุทธาราม",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "337817488"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-301927675",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54988776666666,
+          13.760286433333333
+        ]
+      },
+      "properties": {
+        "name": "ตลาดศรีดินแดง",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "301927675"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1382955989",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51220777999998,
+          13.784583966666666
+        ]
+      },
+      "properties": {
+        "name": "ตลาดศรีย่าน",
+        "nameTh": "ตลาดศรีย่าน",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1382955989"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1429709416",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47461494999999,
+          13.7607695125
+        ]
+      },
+      "properties": {
+        "name": "ตลาดศาลาน้ำเย็น",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1429709416"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1382638055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49635765714287,
+          13.74348952857143
+        ]
+      },
+      "properties": {
+        "name": "ตลาดส่งเสริมเกษตรไทย",
+        "nameTh": "ตลาดส่งเสริมเกษตรไทย",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1382638055"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1382638064",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49684273333332,
+          13.7427523
+        ]
+      },
+      "properties": {
+        "name": "ตลาดส่งเสริมเกษตรไทย",
+        "nameTh": "ตลาดส่งเสริมเกษตรไทย",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1382638064"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-637381858",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52830438333332,
+          13.752915549999999
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสดกิ่งเพชร",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "637381858"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3724152155",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5711482,
+          13.7792638
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสดเกียรติทงชัย",
+        "nameTh": "ตลาดสดเกียรติทงชัย",
+        "category": "market",
+        "osmType": "node",
+        "osmId": "3724152155"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-455893325",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.34972340833333,
+          13.705397750000001
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสดเพชรเกษม 79",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "455893325"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-352102197",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4930159,
+          13.724476760000002
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสดวงเวียนใหญ่",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "352102197"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3103270270",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4262965,
+          13.6733735
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสดศิริชัย",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "3103270270"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-352117271",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4878939,
+          13.712618185714286
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสดสำเหร่",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "352117271"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-103670923",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51800139999997,
+          13.711009439999998
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสดแสงจันทร์",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "103670923"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-149584636",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4246329125,
+          13.710944225
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสดแสงฟ้า (5 แพะ) บางแค",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "149584636"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1592068403",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4266163,
+          13.6748853
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสดเอกชัย",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "1592068403"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-163727394",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53832616,
+          13.719060660000002
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสวนพลู",
+        "nameTh": "ตลาดสวนพลู",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "163727394",
+        "website": "https://itgroup4.wixsite.com/suanphlu/about1-c14k2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-7231919792",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4198519,
+          13.7039951
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสองคุณจ่า",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "7231919792",
+        "addr:street": "บางแค 4",
+        "addr:city": "แขวงบางแค",
+        "opening_hours": "10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-544285946",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59039139,
+          13.797212589999997
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสะพาน 2",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "544285946"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-151991140",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52388361538463,
+          13.737048230769231
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสามย่าน",
+        "nameTh": "ตลาดสามย่าน",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "151991140"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1320697040",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45790092857142,
+          13.665698914285715
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสินทวี",
+        "nameTh": "ตลาดสินทวี",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1320697040"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9465720313",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3950921,
+          13.7451498
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสี่แยกทศกัณฑ์",
+        "nameTh": "ตลาดสี่แยกทศกัณฑ์",
+        "category": "market",
+        "osmType": "node",
+        "osmId": "9465720313",
+        "description": "Morning Fresh Market, Evening Food Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-726526143",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55836644000001,
+          13.719520339999999
+        ]
+      },
+      "properties": {
+        "name": "ตลาดสุนทรโกษา",
+        "nameTh": "ตลาดสุนทรโกษา",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "726526143"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1189209078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51989824,
+          13.72931112
+        ]
+      },
+      "properties": {
+        "name": "ตลาดหมอเพชรหมอพลอย",
+        "nameTh": "ตลาดหมอเพชรหมอพลอย",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1189209078"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1396734623",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53667660476192,
+          13.782432280952383
+        ]
+      },
+      "properties": {
+        "name": "ตลาดหลังกระทรวงการคลัง",
+        "nameTh": "ตลาดหลังกระทรวงการคลัง",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1396734623"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-331795213",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56850743333332,
+          13.777753933333333
+        ]
+      },
+      "properties": {
+        "name": "ตลาดห้วยขวาง",
+        "nameTh": "ตลาดห้วยขวาง",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "331795213"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-149583882",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.42301205999999,
+          13.711351239999999
+        ]
+      },
+      "properties": {
+        "name": "ตลาดใหม่บางแค",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "149583882"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-156639205",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54767763999999,
+          13.797175019999997
+        ]
+      },
+      "properties": {
+        "name": "ตลาด อ.ต.ก.",
+        "nameTh": "ตลาด อ.ต.ก.",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "156639205",
+        "addr:street": "ถนนพหลโยธิน",
+        "addr:housenumber": "101",
+        "phone": "+66 2 790 4545",
+        "website": "http://www.ortorkor.com/",
+        "opening_hours": "Mo-Su 06:00-20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-113107209",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6005979,
+          13.71017886
+        ]
+      },
+      "properties": {
+        "name": "ตลาดอ่อนนุช",
+        "nameTh": "ตลาดอ่อนนุช",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "113107209"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1524815706",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50896701818182,
+          13.741846972727272
+        ]
+      },
+      "properties": {
+        "name": "ตลาดอาหารจีน",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1524815706"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1319566307",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48049705454545,
+          13.690654663636364
+        ]
+      },
+      "properties": {
+        "name": "ตลาดอินดี้ ดาวคะนอง",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1319566307"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1300141347",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47625375714286,
+          13.714371971428573
+        ]
+      },
+      "properties": {
+        "name": "ตลาด BTS ตลาดพลู",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1300141347"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1359344777",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55822822727274,
+          13.737785363636362
+        ]
+      },
+      "properties": {
+        "name": "ตลาด SW1",
+        "nameTh": "ตลาด SW1",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1359344777"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1231340064",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54086097272729,
+          13.726293236363638
+        ]
+      },
+      "properties": {
+        "name": "เต้นท์ชมพู",
+        "nameTh": "เต้นท์ชมพู",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1231340064"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-950315091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50308853870968,
+          13.744946177419353
+        ]
+      },
+      "properties": {
+        "name": "ถนนคนเดินคลองโอ่งอ่าง",
+        "nameTh": "ถนนคนเดินคลองโอ่งอ่าง",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "950315091",
+        "opening_hours": "Fr-Su 16:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1423814928",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.496303,
+          13.741746119999998
+        ]
+      },
+      "properties": {
+        "name": "ปากคลองตลาด",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1423814928",
+        "addr:street": "สน พระราชวัง ปาก คลองตลาด",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "description": "Pak Khlong Talad Fresh Market, Flower market Thailand"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-304092131",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47739030000001,
+          13.779191860000001
+        ]
+      },
+      "properties": {
+        "name": "ปิ่นเงิน พลาซ่า",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "304092131"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-304092132",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47743218000001,
+          13.778944720000002
+        ]
+      },
+      "properties": {
+        "name": "ปิ่นทองพลาซ่า",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "304092132"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-383397969",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3514512,
+          13.74522088
+        ]
+      },
+      "properties": {
+        "name": "รัฐประชามาร์เก็ต",
+        "nameTh": "รัฐประชามาร์เก็ต",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "383397969"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1627884610",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4096502,
+          13.7110019
+        ]
+      },
+      "properties": {
+        "name": "วิน วิน พลาซ่า",
+        "nameTh": "วิน วิน พลาซ่า",
+        "category": "market",
+        "osmType": "node",
+        "osmId": "1627884610"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-349606263",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48880945333335,
+          13.755925316666666
+        ]
+      },
+      "properties": {
+        "name": "สนามพระท่าพระจันทร์",
+        "nameTh": "สนามพระท่าพระจันทร์",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "349606263"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-383396206",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3497993681818,
+          13.745661663636362
+        ]
+      },
+      "properties": {
+        "name": "สนามหลวง 2 ส่วนขยาย",
+        "nameTh": "สนามหลวง 2",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "383396206"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-319158844",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5244488923077,
+          13.74274473076923
+        ]
+      },
+      "properties": {
+        "name": "สวนหลวงสแควร์",
+        "nameTh": "สวนหลวงสแควร์",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "319158844",
+        "website": "https://pmcu.co.th/?page_id=9880"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1196405769",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50411081249999,
+          13.7360033875
+        ]
+      },
+      "properties": {
+        "name": "สำเพ็ง ท่าดินแดง",
+        "nameTh": "สำเพ็ง ท่าดินแดง",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1196405769"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-231405195",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52867735000001,
+          13.727630166666666
+        ]
+      },
+      "properties": {
+        "name": "สีลม สแควร์",
+        "nameTh": "สีลม สแควร์",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "231405195"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-157074878",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58684602000001,
+          13.79386744
+        ]
+      },
+      "properties": {
+        "name": "Afternoon Market",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "157074878",
+        "opening_hours": "Mo-Su 16:00-21:00; Tu off; Th off; Fr 16:00-21:15; Sa off"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-7041806402",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5047921,
+          13.7544392
+        ]
+      },
+      "properties": {
+        "name": "Amulet Market",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "7041806402"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-196107455",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50240005555557,
+          13.704375519444444
+        ]
+      },
+      "properties": {
+        "name": "Asiatique The Riverfront",
+        "nameTh": "เอเชียทีค เดอะ ริเวอร์ฟร้อนท์",
+        "category": "market",
+        "osmType": "way",
+        "osmId": "196107455",
+        "addr:city": "กรุงเทพมหานคร",
+        "website": "https://web.archive.org/web/20141105061449/http://www.thaiasiatique.com/index.php/en"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4228110892",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.454519,
+          13.7559614
+        ]
+      },
+      "properties": {
+        "name": "Bang Phrom Market",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "4228110892",
+        "opening_hours": "Su, Tu, Fr"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12210708407",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5622975,
+          13.7899076
+        ]
+      },
+      "properties": {
+        "name": "BoltRing - BoltKey",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "12210708407",
+        "addr:street": "ซอยวิภาวดีรังสิต 10",
+        "website": "https://geyser.fund/project/boltring"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11189886758",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5384608,
+          13.7636533
+        ]
+      },
+      "properties": {
+        "name": "Fashion walk",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "11189886758"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14038808477",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.496444,
+          13.7420787
+        ]
+      },
+      "properties": {
+        "name": "Flower Market",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "14038808477",
+        "addr:street": "ถนนจักรเพชร",
+        "description": "Pak Khlong Talat Flower Market"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12651721701",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4992699,
+          13.7505363
+        ]
+      },
+      "properties": {
+        "name": "Food market",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "12651721701"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12655908301",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.517852,
+          13.7562446
+        ]
+      },
+      "properties": {
+        "name": "Fruit market",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "12655908301"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3096831601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5369207,
+          13.7012505
+        ]
+      },
+      "properties": {
+        "name": "Homegate Real Estate Co. Ltd.",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "3096831601",
+        "addr:street": "ถนนรัชดาภิเษก",
+        "addr:housenumber": "303/20",
+        "phone": "+66 922 5454 58",
+        "website": "http://www.homegate.co.th"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13039128401",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.484452,
+          13.7772797
+        ]
+      },
+      "properties": {
+        "name": "Indy Market Pinklao",
+        "nameTh": "ตลาดอินดี้ ปิ่นเกล้า",
+        "category": "market",
+        "osmType": "node",
+        "osmId": "13039128401"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12428810731",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5492874,
+          13.8028148
+        ]
+      },
+      "properties": {
+        "name": "Living animals",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "12428810731"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4605865763",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5172326,
+          13.7380924
+        ]
+      },
+      "properties": {
+        "name": "Market",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "4605865763"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3977890869",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5072785,
+          13.745024
+        ]
+      },
+      "properties": {
+        "name": "Market - telephone parts",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "3977890869"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1158719599",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56408006000001,
+          13.749447700000001
+        ]
+      },
+      "properties": {
+        "name": "Mix Market",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1158719599",
+        "opening_hours": "Mo-Su 16:00-24:00",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6372474518",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5102371,
+          13.6973759
+        ]
+      },
+      "properties": {
+        "name": "Morning market stall",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "6372474518",
+        "description": "This market stall sell fresh food.&#x0a;It's open in the morning; close around late morning."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4532243704",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5050172,
+          13.7678986
+        ]
+      },
+      "properties": {
+        "name": "Na Krung Thewes",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "4532243704"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-391929732",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53901862000001,
+          13.753661919999999
+        ]
+      },
+      "properties": {
+        "name": "One food market",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "391929732",
+        "opening_hours": "Mo-Su 05:30-23:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2156126350",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.578726,
+          13.7236559
+        ]
+      },
+      "properties": {
+        "name": "Soi 38 Nightmarket",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "2156126350"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14067706401",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4581577,
+          13.7777724
+        ]
+      },
+      "properties": {
+        "name": "Song Klong Floating Market",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "14067706401"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11703060914",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5105076,
+          13.745555
+        ]
+      },
+      "properties": {
+        "name": "Street food and fruits",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "11703060914"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3977891081",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5034318,
+          13.7596228
+        ]
+      },
+      "properties": {
+        "name": "Street food market",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "3977891081"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-390232213",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57443224000001,
+          13.803612759999998
+        ]
+      },
+      "properties": {
+        "name": "Suan Lum Night Bazaar",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "390232213"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1510812671",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5098348857143,
+          13.742821857142857
+        ]
+      },
+      "properties": {
+        "name": "Talat Kao",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "1510812671"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9457255019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3961351,
+          13.7201134
+        ]
+      },
+      "properties": {
+        "name": "Talat Sai 2",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "9457255019",
+        "description": "Local food market/Cafeteria"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-201389284",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5031809,
+          13.7045965
+        ]
+      },
+      "properties": {
+        "name": "The Harbour  Market",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "201389284"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10750002883",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5726439,
+          13.7700421
+        ]
+      },
+      "properties": {
+        "name": "The Street Ratchada Night Market",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "10750002883",
+        "opening_hours": "Mo-Su 17:00-23:00",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-364953206",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50237085,
+          13.771318825000002
+        ]
+      },
+      "properties": {
+        "name": "Thewet market",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "364953206"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-47062931",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53840632222222,
+          13.76390498888889
+        ]
+      },
+      "properties": {
+        "name": "Victory Point",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "way",
+        "osmId": "47062931"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2112444955",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5741254,
+          13.7279394
+        ]
+      },
+      "properties": {
+        "name": "west one",
+        "nameTh": null,
+        "category": "market",
+        "osmType": "node",
+        "osmId": "2112444955",
+        "opening_hours": "11:00-21:00"
+      }
+    }
+  ]
+}

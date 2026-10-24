@@ -1,0 +1,3470 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "OpenStreetMap",
+    "snapshotDate": "2026-10-23",
+    "category": "fitness",
+    "count": 183,
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL",
+    "url": "https://www.openstreetmap.org/copyright"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "osm-way-1482948725",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3939964125,
+          13.733001412500002
+        ]
+      },
+      "properties": {
+        "name": "แกรนด์บัลลังดอร์ ฟุตบอลคลับ",
+        "nameTh": "แกรนด์บัลลังดอร์ ฟุตบอลคลับ",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1482948725"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13016546680",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5999818,
+          13.7460584
+        ]
+      },
+      "properties": {
+        "name": "ค่ายมวยลูกคลองตัน",
+        "nameTh": "ค่ายมวยลูกคลองตัน",
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "13016546680",
+        "addr:street": "ซอยรามคำแหง 3",
+        "addr:housenumber": "51, 3",
+        "phone": "+66 89 128 6304",
+        "opening_hours": "Mo-Sa 16:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-426064928",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4160918,
+          13.810419044444446
+        ]
+      },
+      "properties": {
+        "name": "เคเอ็น คอมเพล็กซ์",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "426064928",
+        "website": "http://www.kncomplex.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-426065039",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.41649699999999,
+          13.8101202
+        ]
+      },
+      "properties": {
+        "name": "เคเอ็น แบตมินตัน",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "426065039"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-426064933",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.41586354,
+          13.81064484
+        ]
+      },
+      "properties": {
+        "name": "เคเอ็น ฟิตเนส",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "426064933",
+        "phone": "+6624088681"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-426064931",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.41568302,
+          13.81077986
+        ]
+      },
+      "properties": {
+        "name": "เคเอ็น สระว่ายน้ำ",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "426064931"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3101735499",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4308514,
+          13.674361
+        ]
+      },
+      "properties": {
+        "name": "นพรัตน์ สปอร์ตคลับ",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "3101735499"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1155177556",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55084123333332,
+          13.730186425
+        ]
+      },
+      "properties": {
+        "name": "โปโล ฟุตบอลพาร์ค",
+        "nameTh": "โปโล ฟุตบอลพาร์ค",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1155177556"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1428665140",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45698614999999,
+          13.779615533333335
+        ]
+      },
+      "properties": {
+        "name": "ฟีนิกซ์ฟุตซอล",
+        "nameTh": "ฟีนิกซ์ฟุตซอล",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1428665140"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-706364322",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50862396363637,
+          13.698257154545457
+        ]
+      },
+      "properties": {
+        "name": "ภัทราสปอร์ตคลับ",
+        "nameTh": "ภัทราสปอร์ตคลับ",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "706364322",
+        "website": "https://www.facebook.com/pattrasportsclub/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-371693506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5713444,
+          13.784436739999999
+        ]
+      },
+      "properties": {
+        "name": "มวยไทย",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "371693506",
+        "website": "www.khaosaigalaxymuaythaigym.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-157522259",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.536217145,
+          13.737927629999998
+        ]
+      },
+      "properties": {
+        "name": "ราชกรีฑาสโมสร",
+        "nameTh": "ราชกรีฑาสโมสร",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "157522259"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-31988377",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53219435999999,
+          13.74122338
+        ]
+      },
+      "properties": {
+        "name": "โรงพลศึกษา",
+        "nameTh": "โรงพลศึกษา",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "31988377"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1282381679",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5459952857143,
+          13.714506242857142
+        ]
+      },
+      "properties": {
+        "name": "โรงเรียนบางกอกดอลฟินส์สอนเด็กว่ายน้ำ",
+        "nameTh": "โรงเรียนบางกอกดอลฟินส์สอนเด็กว่ายน้ำ",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1282381679",
+        "phone": "+66 (0)83 298 0519"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12618563653",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5593052,
+          13.7755354
+        ]
+      },
+      "properties": {
+        "name": "โรงเรียนสุนีย์โยคะ",
+        "nameTh": "โรงเรียนสุนีย์โยคะ",
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "12618563653"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1324054016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55756057499998,
+          13.774175816666663
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬาคริสตจักรประชาคม",
+        "nameTh": "ลานกีฬาคริสตจักรประชาคม",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1324054016"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1342317613",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55140181666667,
+          13.710964566666668
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬาชุมชนเย็นอากาศ 2",
+        "nameTh": "ลานกีฬาชุมชนเย็นอากาศ 2",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1342317613"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1313181516",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5756422857143,
+          13.762407699999999
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬารฟม.",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1313181516"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1100619607",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55087248000001,
+          13.72767412
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬาศูนย์เยาวนบ่อนไก่",
+        "nameTh": "ลานกีฬาศูนย์เยาวนบ่อนไก่",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1100619607"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1532950519",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.34573846249998,
+          13.790736800000001
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬาหมู่บ้านสุขทวีวิลเลจ",
+        "nameTh": "ลานกีฬาหมู่บ้านสุขทวีวิลเลจ",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1532950519"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1491395798",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57516045000001,
+          13.708896900000003
+        ]
+      },
+      "properties": {
+        "name": "ลานชุมชน 70 ไร่",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1491395798"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1366623981",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5629426631579,
+          13.781064268421053
+        ]
+      },
+      "properties": {
+        "name": "ลานเด็กหอ",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1366623981"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3251639096",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5843954,
+          13.7205547
+        ]
+      },
+      "properties": {
+        "name": "วี ฟิตเนส เอกมัย",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "3251639096",
+        "addr:street": "ถนนสุขุมวิท",
+        "opening_hours": "Mo-Fr 06:00-23:00; Sa,Su 08:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1875803463",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4422463,
+          13.7136141
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์กีฬากันอริ",
+        "nameTh": "ศูนย์กีฬากันอริ",
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "1875803463",
+        "addr:street": "ถนนเพชรเกษม",
+        "addr:housenumber": "49/2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1284561808",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4902882857143,
+          13.702274128571428
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์กีฬาชุมชนบิ๊กซีรวมน้ำใจพระราม 3",
+        "nameTh": "ศูนย์กีฬาชุมชนบิ๊กซีรวมน้ำใจพระราม 3",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1284561808"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1484721076",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.36693116666667,
+          13.75941495
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์กีฬาพณิชยการราชดำเนิน",
+        "nameTh": "ศูนย์กีฬาพณิชยการราชดำเนิน",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1484721076"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1132103363",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5564365852941,
+          13.813101097058821
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์กีฬาวชิรเบญจทัศ",
+        "nameTh": "ศูนย์กีฬาวชิรเบญจทัศ",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1132103363"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-294293837",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55610414,
+          13.81194342
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์กีฬาวชิรเบญจทัศ (สวนรถไฟ)",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "294293837"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-294293838",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55623521999999,
+          13.8119608
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์กีฬาวชิรเบญจทัศ (สวนรถไฟ)",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "294293838"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-294293840",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55596766,
+          13.81197234
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์กีฬาวชิรเบญจทัศ (สวนรถไฟ)",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "294293840"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1119161497",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5541156,
+          13.73268486
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์กีฬาสวนเบญจกิติ",
+        "nameTh": "ศูนย์กีฬาสวนเบญจกิติ",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1119161497"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1217277328",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53462461249998,
+          13.71480725
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์กีฬา สำนักงานเขตสาทร",
+        "nameTh": "ศูนย์กีฬา สำนักงานเขตสาทร",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1217277328"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-172948080",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52645398,
+          13.738833799999998
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์กีฬาแห่งจุฬาลงกรณ์มหาวิทยาลัย",
+        "nameTh": "ศูนย์กีฬาแห่งจุฬาลงกรณ์มหาวิทยาลัย",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "172948080"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1222688012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54355882727272,
+          13.709341009090911
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์ฝึกแบดมินตันและวิทยาศาสตร์การกีฬา",
+        "nameTh": "ศูนย์ฝึกแบดมินตันและวิทยาศาสตร์การกีฬา",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1222688012"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1309023338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60930865277776,
+          13.665700377777778
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์พัฒนากีฬาราชนาวีบางนา",
+        "nameTh": "ศูนย์พัฒนากีฬาราชนาวีบางนา",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1309023338"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-616954098",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55185148124998,
+          13.767252525000002
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์เยาวชนกรุงเทพมหานคร (ไทย-ญี่ปุ่น)",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "616954098",
+        "addr:street": "ถนนมิตรไมตรี",
+        "addr:housenumber": "2",
+        "addr:city": "ดินแดง"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1324046961",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56891006666666,
+          13.776427233333335
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์ลานกีฬาชุมชนห้วยขวาง",
+        "nameTh": "ศูนย์ลานกีฬาชุมชนห้วยขวาง",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1324046961"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-896384144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60013404285714,
+          13.734555214285715
+        ]
+      },
+      "properties": {
+        "name": "สกลพรรณสปอร์ตคลับ",
+        "nameTh": "สกลพรรณสปอร์ตคลับ",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "896384144"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-37871876",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5257072375,
+          13.738836849999997
+        ]
+      },
+      "properties": {
+        "name": "สนามกีฬาในร่ม",
+        "nameTh": "สนามกีฬาในร่ม",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "37871876"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-200670992",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52653748,
+          13.739355940000001
+        ]
+      },
+      "properties": {
+        "name": "สนามกีฬาในร่ม 2",
+        "nameTh": "สนามกีฬาในร่ม 2",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "200670992"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1418599436",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58935686875,
+          13.669131731250001
+        ]
+      },
+      "properties": {
+        "name": "สนามกีฬาภูติอนันต์",
+        "nameTh": "สนามกีฬาภูติอนันต์",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1418599436"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1316291120",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45544980000001,
+          13.669218400000002
+        ]
+      },
+      "properties": {
+        "name": "สนามไดร์ฟกอล์ฟธนบุรี",
+        "nameTh": "สนามไดร์ฟกอล์ฟธนบุรี",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1316291120"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1218574440",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54021341666667,
+          13.728671816666667
+        ]
+      },
+      "properties": {
+        "name": "สนามเทนนิสเฉลิมพระเกียรติ กรุงเทพ 1",
+        "nameTh": "สนามเทนนิสเฉลิมพระเกียรติ กรุงเทพ 1",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1218574440"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1323904714",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55016651250001,
+          13.715847287499999
+        ]
+      },
+      "properties": {
+        "name": "สนามแบดมินตันประสาทสุข",
+        "nameTh": "สนามแบดมินตันประสาทสุข",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1323904714"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1696069459",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5932986,
+          13.7840592
+        ]
+      },
+      "properties": {
+        "name": "สนามแบตมินตันวังนาคา",
+        "nameTh": "สนามแบตมินตันวังนาคา",
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "1696069459"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1290624840",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53427783999999,
+          13.68358954
+        ]
+      },
+      "properties": {
+        "name": "สนามแบตสาธุ 49",
+        "nameTh": "สนามแบตสาธุ 49",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1290624840"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-710619871",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60823103333334,
+          13.740586986666669
+        ]
+      },
+      "properties": {
+        "name": "สนามฟุตบอล Hybrid GreenyGrass",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "710619871",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1180366866",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52277108000001,
+          13.73818234
+        ]
+      },
+      "properties": {
+        "name": "สนามอีโกคาร์ท โมโนวีล",
+        "nameTh": "สนามอีโกคาร์ท โมโนวีล",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1180366866"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-180005434",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54885089999999,
+          13.731138314285712
+        ]
+      },
+      "properties": {
+        "name": "สมาคมราชกรีฑาสโมสรโปโลคลับ",
+        "nameTh": "สมาคมราชกรีฑาสโมสรโปโลคลับ",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "180005434"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1375504705",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55968560714288,
+          13.715830778571428
+        ]
+      },
+      "properties": {
+        "name": "สโมสรการท่าเรือแห่งประเทศไทย",
+        "nameTh": "สโมสรการท่าเรือแห่งประเทศไทย",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1375504705"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-124849773",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55705418157895,
+          13.78332068947369
+        ]
+      },
+      "properties": {
+        "name": "สโมสรทหารบกวิภาวดี",
+        "nameTh": "สโมสรทหารบกวิภาวดี",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "124849773",
+        "addr:street": "ถนนวิภาวดีรังสิต",
+        "addr:housenumber": "195"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13059162032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5188997,
+          13.8132726
+        ]
+      },
+      "properties": {
+        "name": "สระว่ายนํ้าโรงเรียนโยธินบูรณะ",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "13059162032"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-333223553",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5514134,
+          13.765639122222224
+        ]
+      },
+      "properties": {
+        "name": "สระว่ายน้ำ",
+        "nameTh": "สระว่ายน้ำ",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "333223553"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-201215712",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52614614000001,
+          13.7393797
+        ]
+      },
+      "properties": {
+        "name": "สระว่ายน้ำ 25 เมตร",
+        "nameTh": "สระว่ายน้ำ 25 เมตร",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "201215712"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-168663769",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52675073999998,
+          13.73886334
+        ]
+      },
+      "properties": {
+        "name": "สระว่ายน้ำ 50 เมตร",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "168663769"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1528039245",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4886541,
+          13.7328162
+        ]
+      },
+      "properties": {
+        "name": "สระว่ายน้ำบ้านสมเด็จ",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "1528039245"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1363875476",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55737505714285,
+          13.776685757142857
+        ]
+      },
+      "properties": {
+        "name": "สะอาดสระว่ายน้ำ",
+        "nameTh": "สะอาดสระว่ายน้ำ",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1363875476"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1487913474",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.35420189999999,
+          13.77639958
+        ]
+      },
+      "properties": {
+        "name": "อยู่เย็นสเตเดียม",
+        "nameTh": "อยู่เย็นสเตเดียม",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1487913474"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1219961459",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.61565242,
+          13.766540339999997
+        ]
+      },
+      "properties": {
+        "name": "อาคารศุนย์กีฬา",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1219961459"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1418582214",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49747448181819,
+          13.728456
+        ]
+      },
+      "properties": {
+        "name": "อิสระภาพ สปอร์ตคลับ",
+        "nameTh": "อิสระภาพ สปอร์ตคลับ",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1418582214"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11152911608",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5425816,
+          13.7102687
+        ]
+      },
+      "properties": {
+        "name": "Absolute Studio",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "11152911608"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3836982938",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5414909,
+          13.743384
+        ]
+      },
+      "properties": {
+        "name": "Absolute Studio | Gaysorn Amarin",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "3836982938",
+        "addr:housenumber": "11th Floor Amarin Plaza ถนน เพลินจิต เขตปทุมวัน กรุงเทพมหานคร",
+        "addr:city": "แขวงลุมพินี"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11155194495",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.566482,
+          13.7330541
+        ]
+      },
+      "properties": {
+        "name": "Absolute Studio | RSU Tower Sukhumvit",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "11155194495",
+        "addr:street": "ถนนสุขุมวิท",
+        "addr:housenumber": "RSU Tower 5th Floor,  เขตวัฒนา กรุงเทพมหานคร",
+        "addr:city": "แขวงคลองตันเหนือ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11155187887",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4421782,
+          13.7680131
+        ]
+      },
+      "properties": {
+        "name": "Absolute Studio | The Circle Ratchapruk",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "11155187887",
+        "addr:street": "ถนนราชพฤกษ์",
+        "addr:housenumber": "2nd Fl The Circle Ratchapruk   เขตตลิ่งชัน กรุงเทพมหานคร",
+        "addr:city": "บางระมาด"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4587209989",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5413779,
+          13.7435383
+        ]
+      },
+      "properties": {
+        "name": "Absolute you",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4587209989",
+        "website": "http://www.absoluteyou.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14065967432",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4229014,
+          13.6933304
+        ]
+      },
+      "properties": {
+        "name": "Any1",
+        "nameTh": "Any1",
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "14065967432"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6145393675",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.545534,
+          13.7343646
+        ]
+      },
+      "properties": {
+        "name": "Anytime fitness",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6145393675"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3923480026",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5615697,
+          13.7356931
+        ]
+      },
+      "properties": {
+        "name": "Anytime Fitness",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "3923480026",
+        "addr:street": "ถนนสุขุมวิท",
+        "addr:housenumber": "388",
+        "website": "https://www.anytimefitness.co.th/gyms/th-0014/khlong-toei-bangkok/",
+        "internet_access": "wlan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14211262895",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5367362,
+          13.7615713
+        ]
+      },
+      "properties": {
+        "name": "Anytime Fitness",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "14211262895",
+        "addr:street": "ซอยเลิศปัญญา",
+        "addr:housenumber": "1",
+        "phone": "064 539 6327",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-113500995",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59325732500001,
+          13.724794650000002
+        ]
+      },
+      "properties": {
+        "name": "Arsenal Phrakhanong",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "113500995"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10684441834",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5773354,
+          13.7244175
+        ]
+      },
+      "properties": {
+        "name": "Atha Lifestyle",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "10684441834"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4440020490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53567,
+          13.787227
+        ]
+      },
+      "properties": {
+        "name": "Atrium Athletic Club",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4440020490"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4665569195",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5356213,
+          13.7285456
+        ]
+      },
+      "properties": {
+        "name": "Bag &amp; Shoes Spa",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4665569195"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13718179679",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.532171,
+          13.7164809
+        ]
+      },
+      "properties": {
+        "name": "Balance Prime",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "13718179679"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-966439079",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57250378,
+          13.736644899999998
+        ]
+      },
+      "properties": {
+        "name": "Bangkok Dolphins Sukhumvit 39",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "966439079",
+        "addr:street": "ซอยพร้อมศรี 1",
+        "phone": "081 622 2799",
+        "website": "https://bangkokdolphins.com",
+        "opening_hours": "Tu-Su 09:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5551786563",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5974969,
+          13.7051092
+        ]
+      },
+      "properties": {
+        "name": "Bangkok Fight Lab",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "5551786563",
+        "addr:street": "ซอยอารีย์รักษ์",
+        "addr:housenumber": "137"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1388736283",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56280082,
+          13.76428912
+        ]
+      },
+      "properties": {
+        "name": "B.B. Garden",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1388736283"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13988478934",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5299149,
+          13.7331156
+        ]
+      },
+      "properties": {
+        "name": "Bloc City Climbing Gym",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "13988478934",
+        "addr:street": "ถนนพญาไท",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1431137763",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48576084285715,
+          13.771785071428571
+        ]
+      },
+      "properties": {
+        "name": "B Pro Basketball Pata Pinklao",
+        "nameTh": "บี โปร บาสเกตบอล พาต้า ปิ่นเกล้า",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1431137763"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1700165422",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.535442,
+          13.7458732
+        ]
+      },
+      "properties": {
+        "name": "California Wow Experience",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "1700165422"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3346270054",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5281579,
+          13.7205447
+        ]
+      },
+      "properties": {
+        "name": "Cascade Sport Club",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "3346270054"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11323335078",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5281224,
+          13.7336886
+        ]
+      },
+      "properties": {
+        "name": "Celebrity Fitness",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "11323335078",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4439987191",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.546434,
+          13.7835647
+        ]
+      },
+      "properties": {
+        "name": "Chill Out Zone Gym",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4439987191"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5961329885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5081727,
+          13.7463912
+        ]
+      },
+      "properties": {
+        "name": "chuwattana muaythai gym",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "5961329885",
+        "website": "https://www.facebook.com/pages/Chuwattana-Muay-Thai-Gym/152488104818774"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-565659975",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.42074204000001,
+          13.68624454
+        ]
+      },
+      "properties": {
+        "name": "Climb Central Bangkok",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "565659975",
+        "addr:street": "ถนนกัลปพฤกษ์",
+        "addr:housenumber": "10/4",
+        "phone": "+66 92 250 0790",
+        "website": "https://climbcentral.co.th/",
+        "opening_hours": "Mo-Fr 12:00-22:00; Sa-Su 10:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12176456294",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5784039,
+          13.7359464
+        ]
+      },
+      "properties": {
+        "name": "CrossFit Naga",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "12176456294",
+        "addr:street": "Torsak 1 Alley",
+        "addr:housenumber": "19",
+        "phone": "+66809827029",
+        "website": "https://naga.pushpress.com/landing/calendar",
+        "opening_hours": "Mo-Fr 06:30-21:00; Sa-Su 08:30-15:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13293628601",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5783502,
+          13.7360626
+        ]
+      },
+      "properties": {
+        "name": "CrossFit Naga",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "13293628601",
+        "addr:street": "ซอยต่อศักดิ์ 1",
+        "addr:housenumber": "19",
+        "opening_hours": "Mo-Fr 06:30-21:00; Sa-Su 08:30-15:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4460800311",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5619728,
+          13.7366258
+        ]
+      },
+      "properties": {
+        "name": "Dirty B Fitness",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4460800311"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4440020390",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54833,
+          13.788525
+        ]
+      },
+      "properties": {
+        "name": "DYB Gym",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4440020390"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12428810703",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4710683,
+          13.7283192
+        ]
+      },
+      "properties": {
+        "name": "Eagle eye climbing gym",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "12428810703",
+        "phone": "0650376473",
+        "website": "https://eagleeyeclimb.com/",
+        "opening_hours": "Mo-Fr 11:00-22:00; Sa 10:00-22:00; Su 10:00-21:00",
+        "internet_access": "wlan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1216875453",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54242632,
+          13.69385762
+        ]
+      },
+      "properties": {
+        "name": "Era Soccer",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1216875453"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11255369876",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5287269,
+          13.723913
+        ]
+      },
+      "properties": {
+        "name": "F45 Training",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "11255369876"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10770302392",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4907674,
+          13.7050884
+        ]
+      },
+      "properties": {
+        "name": "Famous Fitness",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "10770302392"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6660285286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5338291,
+          13.7565271
+        ]
+      },
+      "properties": {
+        "name": "Fit",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6660285286"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4548928390",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5657305,
+          13.7334544
+        ]
+      },
+      "properties": {
+        "name": "Fit For Fin",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4548928390",
+        "phone": "+66 86 6239999",
+        "opening_hours": "We-Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6247158785",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5309466,
+          13.7213985
+        ]
+      },
+      "properties": {
+        "name": "Fitness 24 Seven",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6247158785"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-413132462",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57135783999999,
+          13.75588332
+        ]
+      },
+      "properties": {
+        "name": "Fitness24Seven",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "413132462",
+        "addr:street": "ถนนพระราม 9",
+        "addr:housenumber": "129",
+        "addr:city": "แขวงห้วยขวาง"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1292444784",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5524345,
+          13.742068499999998
+        ]
+      },
+      "properties": {
+        "name": "Fitness24Seven",
+        "nameTh": "ฟิตเนส24เซเว่น",
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1292444784"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3718445435",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5702337,
+          13.7743292
+        ]
+      },
+      "properties": {
+        "name": "Fitness 7",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "3718445435"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3860265982",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5604886,
+          13.7375756
+        ]
+      },
+      "properties": {
+        "name": "Fitness First",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "3860265982",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa,Su 08:00-21:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4473686679",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5713008,
+          13.7371786
+        ]
+      },
+      "properties": {
+        "name": "Fitness First",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4473686679"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6246803685",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5292989,
+          13.7226142
+        ]
+      },
+      "properties": {
+        "name": "Fitness First",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6246803685"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6246803785",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5353494,
+          13.7465395
+        ]
+      },
+      "properties": {
+        "name": "Fitness First",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6246803785"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6251045987",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5684527,
+          13.7647558
+        ]
+      },
+      "properties": {
+        "name": "Fitness First",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6251045987"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6251053085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5662942,
+          13.75876
+        ]
+      },
+      "properties": {
+        "name": "Fitness First",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6251053085"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6251054987",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4079789,
+          13.7126165
+        ]
+      },
+      "properties": {
+        "name": "Fitness First",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6251054987"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6251054988",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48019,
+          13.7136632
+        ]
+      },
+      "properties": {
+        "name": "Fitness First",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6251054988"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11275228441",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5367175,
+          13.6971572
+        ]
+      },
+      "properties": {
+        "name": "Fitness First",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "11275228441"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5213639422",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5444155,
+          13.7253965
+        ]
+      },
+      "properties": {
+        "name": "Fitness First Platinum",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "5213639422",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "internet_access": "wlan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12842608849",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5640468,
+          13.7290717
+        ]
+      },
+      "properties": {
+        "name": "Flex Your Abilities",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "12842608849"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5383650084",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5672888,
+          13.7204142
+        ]
+      },
+      "properties": {
+        "name": "Flow House Bangkok 2.0",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "5383650084",
+        "addr:street": "Sukhumvit 26",
+        "addr:housenumber": "120/1",
+        "phone": "+66 2 1085210;+66 99 0838787",
+        "website": "http://flowhousebangkok.com/",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "description": "Flow surf pool w/restaurant",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12408714387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4433782,
+          13.7717365
+        ]
+      },
+      "properties": {
+        "name": "Gamesmith",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "12408714387",
+        "addr:street": "ถนนราชพฤกษ์"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-544289464",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59606521999999,
+          13.8052758
+        ]
+      },
+      "properties": {
+        "name": "GETFiT Fitness",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "544289464"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-544289465",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59605698,
+          13.805245339999999
+        ]
+      },
+      "properties": {
+        "name": "GETFiT Swimming Pool",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "544289465"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2112473390",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5742136,
+          13.7279592
+        ]
+      },
+      "properties": {
+        "name": "golf simulator",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "2112473390"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9446215117",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4694473,
+          13.7861814
+        ]
+      },
+      "properties": {
+        "name": "Gravity Lab indoor rock climbing bouldering gym",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "9446215117",
+        "addr:street": "ถนนบรมราชชนนี",
+        "addr:housenumber": "149",
+        "phone": "+66 2 434 3999",
+        "opening_hours": "Mo-Tu, Th-Fr 09:00-22:00; We, Sa-Su 09:00-20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5999761740",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5369935,
+          13.7018011
+        ]
+      },
+      "properties": {
+        "name": "Gymboree",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "5999761740"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5813196753",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.547538,
+          13.7372671
+        ]
+      },
+      "properties": {
+        "name": "Herbalife International (Thailand) Ltd.",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "5813196753",
+        "addr:street": "GPF Witthayu Tower B, Unit 114/1, 212 Wireless Road Lumpini, Pathumwan",
+        "addr:housenumber": "93/1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1346644893",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54970798750001,
+          13.6888293875
+        ]
+      },
+      "properties": {
+        "name": "Horizon Edge Pool",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1346644893"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13062855249",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3964313,
+          13.7861438
+        ]
+      },
+      "properties": {
+        "name": "Inspire Fitness BKK",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "13062855249",
+        "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su 08:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12114145015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5879704,
+          13.7162777
+        ]
+      },
+      "properties": {
+        "name": "Iron Hive",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "12114145015",
+        "addr:street": "Sukhumvit Rd",
+        "addr:housenumber": "1022",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa-Sun 08:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13293628501",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5878821,
+          13.7162643
+        ]
+      },
+      "properties": {
+        "name": "Iron Hive",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "13293628501",
+        "addr:street": "Sukhumvit",
+        "addr:housenumber": "1022",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 08:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9729668018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5114075,
+          13.7416664
+        ]
+      },
+      "properties": {
+        "name": "Jetts",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "9729668018"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6249253785",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5293693,
+          13.7244699
+        ]
+      },
+      "properties": {
+        "name": "Jetts Fitness",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6249253785",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4563386392",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5739095,
+          13.7988464
+        ]
+      },
+      "properties": {
+        "name": "Jitti Gym (Muay Thai)",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4563386392"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1661938571",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6004338,
+          13.7364823
+        ]
+      },
+      "properties": {
+        "name": "K.S. Sports Club",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "1661938571"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1448577115",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57679092000001,
+          13.718891059999999
+        ]
+      },
+      "properties": {
+        "name": "Little Fins Swim School Pool",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1448577115"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13926398471",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5145006,
+          13.7442093
+        ]
+      },
+      "properties": {
+        "name": "Live Fitness",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "13926398471"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1372639201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53404762857143,
+          13.791180957142856
+        ]
+      },
+      "properties": {
+        "name": "Longton Club",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1372639201"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-197596251",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54002632,
+          13.728838920000001
+        ]
+      },
+      "properties": {
+        "name": "Lumphini Park Outdoor Swimming Pool",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "197596251"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4672091389",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5632938,
+          13.7493031
+        ]
+      },
+      "properties": {
+        "name": "Massage",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4672091389"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9029177252",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4132541,
+          13.8134547
+        ]
+      },
+      "properties": {
+        "name": "Molayanusorn Complex",
+        "nameTh": "ลานกีฬาโมลยานุสรณ์",
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "9029177252"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12181429828",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5252224,
+          13.7751576
+        ]
+      },
+      "properties": {
+        "name": "Moony Gym",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "12181429828",
+        "addr:street": "ถนนสุคันธาราม",
+        "addr:housenumber": "100",
+        "phone": "+66 62 451 9626",
+        "opening_hours": "Mo-Su 07:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5261602965",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5950711,
+          13.7974884
+        ]
+      },
+      "properties": {
+        "name": "MUSCLE BEAT GYM",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "5261602965"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4349285791",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5419823,
+          13.7440848
+        ]
+      },
+      "properties": {
+        "name": "New moves",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4349285791"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-8027011437",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5084588,
+          13.7167647
+        ]
+      },
+      "properties": {
+        "name": "No Drama Padel",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "8027011437"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13236796508",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5711902,
+          13.7291941
+        ]
+      },
+      "properties": {
+        "name": "One Yoga Bangkok",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "13236796508",
+        "addr:street": "ถนนสุขุมวิท",
+        "addr:housenumber": "712/1",
+        "phone": "+66902697692",
+        "website": "https://oneyogabangkok.com/",
+        "opening_hours": "24/7",
+        "description": "Yoga &amp; meditation school in Bangkok, Koh Phangan, and online.&#x0a;Daily yoga, meditation, and sound healing classes.&#x0a;Sincere practice, focused on self-growth."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13240049799",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5985093,
+          13.7292425
+        ]
+      },
+      "properties": {
+        "name": "OPUS Swimming School",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "13240049799",
+        "addr:street": "Sukhumvit 71",
+        "addr:housenumber": "850/70",
+        "phone": "021706901",
+        "opening_hours": "Mo,Tu,Th,Fr 10:00-21:00; Sa,Su,PH 10:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3836982952",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5440011,
+          13.7433252
+        ]
+      },
+      "properties": {
+        "name": "P60 Urban Bootcamp",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "3836982952"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1483518126",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4083118923077,
+          13.762470415384616
+        ]
+      },
+      "properties": {
+        "name": "Park Arena",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1483518126"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11071636506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5228822,
+          13.736731
+        ]
+      },
+      "properties": {
+        "name": "Peachlates",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "11071636506",
+        "phone": "+66 62 345 9750",
+        "opening_hours": "Mo-Su 07:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4178906812",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5628294,
+          13.7356043
+        ]
+      },
+      "properties": {
+        "name": "Pilates Station Bangkok",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4178906812",
+        "addr:street": "ถนนสุขุมวิท ซอย23",
+        "phone": "+6626617468",
+        "website": "https://www.pilatesstation.co.th/",
+        "internet_access": "wlan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4665597489",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5152882,
+          13.7208202
+        ]
+      },
+      "properties": {
+        "name": "Pornpimon",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4665597489"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4506043795",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5073021,
+          13.7195359
+        ]
+      },
+      "properties": {
+        "name": "PowerHouse Gym",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4506043795"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6220718386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.468043,
+          13.7395174
+        ]
+      },
+      "properties": {
+        "name": "Proclimber gym",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6220718386",
+        "opening_hours": "Mo-Su 16:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1109170962",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5791834,
+          13.739508659999998
+        ]
+      },
+      "properties": {
+        "name": "Prompak Gardens Pool",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1109170962"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12428813614",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4750274,
+          13.7293182
+        ]
+      },
+      "properties": {
+        "name": "Public free sport",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "12428813614"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-329428592",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5761803,
+          13.736569000000003
+        ]
+      },
+      "properties": {
+        "name": "Racquet @ 49",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "329428592"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12435630701",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5737165,
+          13.7979921
+        ]
+      },
+      "properties": {
+        "name": "Rithiritgym",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "12435630701"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10978718405",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5296012,
+          13.6969112
+        ]
+      },
+      "properties": {
+        "name": "RJ Badminton Court",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "10978718405"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5450951233",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5359867,
+          13.6967989
+        ]
+      },
+      "properties": {
+        "name": "Rockin' Jump Trampoline Park",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "5450951233",
+        "addr:street": "Ratchadaphisek Rd.",
+        "addr:housenumber": "428",
+        "phone": "+66 2 2120222",
+        "website": "https://bangkok.rockinjump.com/",
+        "opening_hours": "Mo-Fr 14:00-20:00, 09:00-18:00; Sa, Su 10:00-20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13920230452",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5314732,
+          13.7494941
+        ]
+      },
+      "properties": {
+        "name": "Rocky Gym",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "13920230452"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11363584689",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5627568,
+          13.7356474
+        ]
+      },
+      "properties": {
+        "name": "RSM Rajadamnern Singha Muay Thai Academy",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "11363584689",
+        "phone": "+66 2 661 6292",
+        "website": "https://www.facebook.com/RsmAcademy/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1484678275",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.42685751428571,
+          13.794833542857143
+        ]
+      },
+      "properties": {
+        "name": "S1",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1484678275"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-324280443",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57799924000001,
+          13.72835004
+        ]
+      },
+      "properties": {
+        "name": "Sachayan Mansion swimming pool",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "324280443"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1446787831",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5996369,
+          13.6991532
+        ]
+      },
+      "properties": {
+        "name": "Saithip Swimming Pool",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "1446787831"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11655462269",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5656728,
+          13.7646288
+        ]
+      },
+      "properties": {
+        "name": "Sandee Yoga",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "11655462269",
+        "addr:street": "ซอยอยู่เจริญ",
+        "phone": "+66959639294"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6095706786",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5100633,
+          13.7556301
+        ]
+      },
+      "properties": {
+        "name": "Sangmorakat Muay",
+        "nameTh": "Sangmorakat Muaythai Academy",
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6095706786"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-812632582",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59725114,
+          13.70564248
+        ]
+      },
+      "properties": {
+        "name": "Serio Condo",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "812632582"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4665599091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5325291,
+          13.7284527
+        ]
+      },
+      "properties": {
+        "name": "Silom Tattoo Shop",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4665599091"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-7147882285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5654576,
+          13.7219491
+        ]
+      },
+      "properties": {
+        "name": "Sky Yoga",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "7147882285",
+        "addr:housenumber": "Oak Tower 43B"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13165000662",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5520133,
+          13.7422136
+        ]
+      },
+      "properties": {
+        "name": "Spa by JW",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "13165000662",
+        "addr:street": "ซอยสุขุมวิท 2",
+        "addr:housenumber": "4",
+        "phone": "+6626567700",
+        "website": "https://www.marriott.com/en-us/hotels/bkkdt-jw-marriott-hotel-bangkok/overview/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13230426201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5844087,
+          13.7206784
+        ]
+      },
+      "properties": {
+        "name": "Sub-Zero Co-operative Sukhumvit-Ekkamai",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "13230426201",
+        "addr:street": "ถนนสุขุมวิท",
+        "addr:housenumber": "1239",
+        "phone": "0844393719",
+        "website": "https://www.subzeroiceskate.com/",
+        "opening_hours": "Mo-Fr 10:30-19:30; Sa-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1239043272",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52223146249999,
+          13.6841008875
+        ]
+      },
+      "properties": {
+        "name": "TCFC Rama 3",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1239043272"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4652936789",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5536353,
+          13.7416493
+        ]
+      },
+      "properties": {
+        "name": "Thai Massage",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4652936789"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4132492372",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6147192,
+          13.7711011
+        ]
+      },
+      "properties": {
+        "name": "The Fitness",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4132492372"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9918315437",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5801528,
+          13.7261207
+        ]
+      },
+      "properties": {
+        "name": "The Little Gym",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "9918315437"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11275228454",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5380157,
+          13.6983455
+        ]
+      },
+      "properties": {
+        "name": "The Little Gym",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "11275228454"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1037864046",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57729164,
+          13.730515400000002
+        ]
+      },
+      "properties": {
+        "name": "Thonglor Crossfit",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1037864046",
+        "addr:street": "Soi Skhumvit 51",
+        "opening_hours": "Mo-Fri 06:00-21:00; Sa-Su 08:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1533424277",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54363045714285,
+          13.75004502857143
+        ]
+      },
+      "properties": {
+        "name": "Topkart Bangkok",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1533424277"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6874931985",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5260683,
+          13.7200237
+        ]
+      },
+      "properties": {
+        "name": "Trika Yog",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6874931985",
+        "addr:street": "สาทร 11",
+        "addr:housenumber": "5th floor",
+        "phone": "+66 2 307 8698",
+        "website": "https://www.trikayog.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11414406910",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.538765,
+          13.7254119
+        ]
+      },
+      "properties": {
+        "name": "Urban Fit",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "11414406910"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4506370350",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5760047,
+          13.7365191
+        ]
+      },
+      "properties": {
+        "name": "Urban Playground",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "4506370350"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11112955887",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5763602,
+          13.7362979
+        ]
+      },
+      "properties": {
+        "name": "Urban Playground Climbing",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "11112955887",
+        "phone": "+6621197200",
+        "website": "http://www.urbanplaygroundclimbing.com/",
+        "opening_hours": "Mon-Fri 12:00-22:00, Sat-Sun 09:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1364065309",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56000814444445,
+          13.778226222222223
+        ]
+      },
+      "properties": {
+        "name": "UTCC Fitness Center",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "way",
+        "osmId": "1364065309",
+        "addr:street": "ซอยวิภาวดีรังสิต 2 แยก 1-2",
+        "addr:housenumber": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6247148185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.529925,
+          13.7212408
+        ]
+      },
+      "properties": {
+        "name": "Virgin Active",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6247148185",
+        "phone": "+66 2 017 9777",
+        "website": "https://www.virginactive.co.th",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa-Su 08:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13957906221",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5316255,
+          13.7468608
+        ]
+      },
+      "properties": {
+        "name": "Virgin Active",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "13957906221",
+        "addr:street": "ถนนพญาไท",
+        "addr:housenumber": "194",
+        "website": "https://www.virginactive.co.th/locations/siam-discovery"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3736305143",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5698258,
+          13.766965
+        ]
+      },
+      "properties": {
+        "name": "We Fitness Society",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "3736305143",
+        "phone": "026403939",
+        "website": "https://www.wefitnesssociety.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14157155641",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3454385,
+          13.6770797
+        ]
+      },
+      "properties": {
+        "name": "Yellow Gym หนองแขม",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "14157155641",
+        "addr:street": "มาเจริญ",
+        "addr:housenumber": "150/1",
+        "phone": "0615417114",
+        "opening_hours": "เปิด 24 hrs"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10783470733",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5704944,
+          13.7866749
+        ]
+      },
+      "properties": {
+        "name": "Yoga o'clock",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "10783470733",
+        "addr:street": "รัชดาภิเษก 17",
+        "addr:housenumber": "105"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6780586819",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5654513,
+          13.7387297
+        ]
+      },
+      "properties": {
+        "name": "Yogatique",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "6780586819"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5541551621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5604998,
+          13.7286351
+        ]
+      },
+      "properties": {
+        "name": "YOKKAO training center",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "5541551621",
+        "addr:street": "Sukhumvit Soi 16"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11147906783",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5281915,
+          13.7314298
+        ]
+      },
+      "properties": {
+        "name": "YRC Yoga",
+        "nameTh": null,
+        "category": "fitness",
+        "osmType": "node",
+        "osmId": "11147906783",
+        "addr:street": "ซอยหลังวัดหัวลำโพง",
+        "addr:housenumber": "153"
+      }
+    }
+  ]
+}

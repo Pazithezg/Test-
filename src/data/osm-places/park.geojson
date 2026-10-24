@@ -1,0 +1,5638 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "OpenStreetMap",
+    "snapshotDate": "2026-10-23",
+    "category": "park",
+    "count": 308,
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL",
+    "url": "https://www.openstreetmap.org/copyright"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "osm-way-1268299068",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57309514,
+          13.745774699999998
+        ]
+      },
+      "properties": {
+        "name": "39 Vadhana Pocket Park",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1268299068"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1415327221",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51595760526315,
+          13.7700516
+        ]
+      },
+      "properties": {
+        "name": "เขากบ",
+        "nameTh": "เขากบ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1415327221"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1415327222",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51627572777778,
+          13.771556744444446
+        ]
+      },
+      "properties": {
+        "name": "เขาดิน",
+        "nameTh": "เขาดิน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1415327222"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-783479569",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49357077692308,
+          13.74722223846154
+        ]
+      },
+      "properties": {
+        "name": "เขามอ",
+        "nameTh": "เขามอ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "783479569"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1553932651",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60861865,
+          13.683396683333333
+        ]
+      },
+      "properties": {
+        "name": "คลาวด์ 11 พาร์ค",
+        "nameTh": "คลาวด์ 11 พาร์ค",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1553932651"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1204947646",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52582174285713,
+          13.699727642857141
+        ]
+      },
+      "properties": {
+        "name": "ซุ้มการเวก",
+        "nameTh": "ซุ้มการเวก",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1204947646"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-97964930",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4360361,
+          13.664851147058824
+        ]
+      },
+      "properties": {
+        "name": "เซ็นทรัลปาร์คพระราม 2",
+        "nameTh": "เซ็นทรัลปาร์คพระราม 2",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "97964930"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1251724240",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57964997142858,
+          13.724067585714286
+        ]
+      },
+      "properties": {
+        "name": "เดอะ สแตรนด์ ปาร์ค",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1251724240"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3568027505",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4898172,
+          13.7527033
+        ]
+      },
+      "properties": {
+        "name": "็ต้นไม้รูปหัวใจ",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "node",
+        "osmId": "3568027505"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11360542624",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5339954,
+          13.7265401
+        ]
+      },
+      "properties": {
+        "name": "ถ้ำแม่พระ",
+        "nameTh": "ถ้ำแม่พระ",
+        "category": "park",
+        "osmType": "node",
+        "osmId": "11360542624"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-332851140",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53159303999999,
+          13.72394916
+        ]
+      },
+      "properties": {
+        "name": "ทำเนียบเอกอัครราชทูตเบลเยียม",
+        "nameTh": "ทำเนียบเอกอัครราชทูตเบลเยียม",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "332851140"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-176820826",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51733025,
+          13.7593799625
+        ]
+      },
+      "properties": {
+        "name": "บ้านพิษณุโลก",
+        "nameTh": "บ้านพิษณุโลก",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "176820826"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-241865727",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53368631666666,
+          13.719978558333333
+        ]
+      },
+      "properties": {
+        "name": "บ้าน ม.ร.ว.คึกฤทธิ์ ปราโมช",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "241865727",
+        "phone": "+6622868185"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-538798649",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54712738000002,
+          13.74628534
+        ]
+      },
+      "properties": {
+        "name": "ปาร์คนายเลิศ",
+        "nameTh": "ปาร์คนายเลิศ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "538798649"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13124461334",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5550669,
+          13.7265107
+        ]
+      },
+      "properties": {
+        "name": "แปลงนาขั้นบันได",
+        "nameTh": "แปลงนาขั้นบันได",
+        "category": "park",
+        "osmType": "node",
+        "osmId": "13124461334"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1305579334",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54841019,
+          13.663502069999998
+        ]
+      },
+      "properties": {
+        "name": "แปลงเพาะชำกล้าไม้ชุมชน",
+        "nameTh": "แปลงเพาะชำกล้าไม้ชุมชน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1305579334"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10555770576",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.555117,
+          13.7336592
+        ]
+      },
+      "properties": {
+        "name": "พรรณไม้บำบัดน้ำเสีย",
+        "nameTh": "พรรณไม้บำบัดน้ำเสีย",
+        "category": "park",
+        "osmType": "node",
+        "osmId": "10555770576"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10555770572",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5537214,
+          13.7307261
+        ]
+      },
+      "properties": {
+        "name": "พรรณไม้บึงน้ำจืด",
+        "nameTh": "พรรณไม้บึงน้ำจืด",
+        "category": "park",
+        "osmType": "node",
+        "osmId": "10555770572"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10555770571",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5529506,
+          13.7324282
+        ]
+      },
+      "properties": {
+        "name": "พรรณไม้ป่าชายเลน",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "node",
+        "osmId": "10555770571"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10555770573",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55502,
+          13.7285818
+        ]
+      },
+      "properties": {
+        "name": "พรรณไม้ป่าดิบลุ่มต่ำ",
+        "nameTh": "พรรณไม้ป่าดิบลุ่มต่ำ",
+        "category": "park",
+        "osmType": "node",
+        "osmId": "10555770573"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10555770575",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5542249,
+          13.726441
+        ]
+      },
+      "properties": {
+        "name": "พรรณไม้วนเกษตรและสวนบ้าน",
+        "nameTh": "พรรณไม้วนเกษตรและสวนบ้าน",
+        "category": "park",
+        "osmType": "node",
+        "osmId": "10555770575"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-25714940",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49828040909091,
+          13.741310557575755
+        ]
+      },
+      "properties": {
+        "name": "พระปฐมบรมราชานุสรณ์เฉลิมพระเกียรติ",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "25714940"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-341577338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52817478571428,
+          13.749214685714284
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์บ้านจิม ทอมป์สัน",
+        "nameTh": "พิพิธภัณฑ์บ้านจิม ทอมป์สัน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "341577338",
+        "addr:street": "Soi Kasemsan 2, Rama 1 Road",
+        "addr:housenumber": "6",
+        "website": "https://www.jimthompsonhouse.com/",
+        "opening_hours": "Mo-Su 09:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11301593402",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.530524,
+          13.7355387
+        ]
+      },
+      "properties": {
+        "name": "พิพิธภัณฑ์พืชมีชีวิต",
+        "nameTh": "พิพิธภัณฑ์พืชมีชีวิต",
+        "category": "park",
+        "osmType": "node",
+        "osmId": "11301593402",
+        "website": "https://www.chula.ac.th/clipping/134394/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1353945579",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53572262222222,
+          13.672521933333334
+        ]
+      },
+      "properties": {
+        "name": "พื้นที่เกษตร",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1353945579"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1157088820",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48978271666668,
+          13.75810035
+        ]
+      },
+      "properties": {
+        "name": "ลาน 60 ปี ธรรมศาสตร์",
+        "nameTh": "ลาน 60 ปี ธรรมศาสตร์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1157088820"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-37871875",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53172693846153,
+          13.736791515384613
+        ]
+      },
+      "properties": {
+        "name": "ลานจักรพงษ์",
+        "nameTh": "ลานจักรพงษ์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "37871875"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1273249675",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.35637391666667,
+          13.773887450000002
+        ]
+      },
+      "properties": {
+        "name": "ลานธรรมฯ",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1273249675"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-871637406",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52003492222224,
+          13.797193644444445
+        ]
+      },
+      "properties": {
+        "name": "ลานประชาชน",
+        "nameTh": "ลานประชาชน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "871637406"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-871637407",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51839394000001,
+          13.797901099999999
+        ]
+      },
+      "properties": {
+        "name": "ลานประชาธิปไตย",
+        "nameTh": "ลานประชาธิปไตย",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "871637407"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1416337916",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49193907692307,
+          13.75716749230769
+        ]
+      },
+      "properties": {
+        "name": "ลานประติมากรรม",
+        "nameTh": "ลานประติมากรรม",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1416337916"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-560594892",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50473175365856,
+          13.755647224390248
+        ]
+      },
+      "properties": {
+        "name": "ลานพลับพลามหาเจษฎาบดินทร์",
+        "nameTh": "ลานพลับพลามหาเจษฎาบดินทร์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "560594892",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11140627876",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5389179,
+          13.748716
+        ]
+      },
+      "properties": {
+        "name": "ลานพื้นที่จัดแสดง",
+        "nameTh": "ลานพื้นที่จัดแสดง",
+        "category": "park",
+        "osmType": "node",
+        "osmId": "11140627876"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1191874034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49760472,
+          13.75193274
+        ]
+      },
+      "properties": {
+        "name": "ลานภุเรศ",
+        "nameTh": "ลานภุเรศ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1191874034"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1188059621",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5396080611111,
+          13.730957999999998
+        ]
+      },
+      "properties": {
+        "name": "ลานลีลาวดี",
+        "nameTh": "ลานลีลาวดี",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1188059621"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1223156993",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49072484999999,
+          13.753097412499999
+        ]
+      },
+      "properties": {
+        "name": "ลานศิลป์ พีระศรี",
+        "nameTh": "ลานศิลป์ พีระศรี",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1223156993"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1415092929",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56537519999999,
+          13.714178130769234
+        ]
+      },
+      "properties": {
+        "name": "ลานเสาธง",
+        "nameTh": "ลานเสาธง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1415092929"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11063202003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5130929,
+          13.7371805
+        ]
+      },
+      "properties": {
+        "name": "วงเวียนโอเดี้ยน",
+        "nameTh": "วงเวียนโอเดี้ยน",
+        "category": "park",
+        "osmType": "node",
+        "osmId": "11063202003"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-347980908",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5001262277778,
+          13.770932061111111
+        ]
+      },
+      "properties": {
+        "name": "วังเทเวศร์",
+        "nameTh": "วังเทเวศร์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "347980908"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-37910308",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53372081818183,
+          13.748611272727272
+        ]
+      },
+      "properties": {
+        "name": "วังสระปทุม",
+        "nameTh": "วังสระปทุม",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "37910308"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-332658487",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54581066666667,
+          13.729480822222222
+        ]
+      },
+      "properties": {
+        "name": "สถานเอกอัครราชทูตญี่ปุ่น",
+        "nameTh": "สถานเอกอัครราชทูตญี่ปุ่น",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "332658487",
+        "phone": "02-207-8500",
+        "website": "https://www.th.emb-japan.go.jp/th/index.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23630232",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49309141599996,
+          13.75523391
+        ]
+      },
+      "properties": {
+        "name": "สนามหลวง",
+        "nameTh": "สนามหลวง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "23630232"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1201627790",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53875171999998,
+          13.748992420000002
+        ]
+      },
+      "properties": {
+        "name": "สนามหลัง",
+        "nameTh": "สนามหลัง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1201627790"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-369561959",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57554405714286,
+          13.786174942857143
+        ]
+      },
+      "properties": {
+        "name": "สระเต่าตึกเมืองไทย-ภัทร",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "369561959"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1366616012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56162071111112,
+          13.788061522222222
+        ]
+      },
+      "properties": {
+        "name": "สวน 15 นาที @ ดินแดง",
+        "nameTh": "สวน 15 นาที @ ดินแดง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1366616012"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1333677836",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45980537142857,
+          13.753930192857142
+        ]
+      },
+      "properties": {
+        "name": "สวน 15 นาทียูเทิร์นเดินใจ",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1333677836"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1099375245",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53088897647058,
+          13.737114964705887
+        ]
+      },
+      "properties": {
+        "name": "สวนกระรอก",
+        "nameTh": "สวนกระรอก",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1099375245"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1550119252",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48327698333334,
+          13.752262666666667
+        ]
+      },
+      "properties": {
+        "name": "สวนกรุงธนบุรี",
+        "nameTh": "สวนกรุงธนบุรี",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1550119252"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1474394475",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.539765375,
+          13.760288337499999
+        ]
+      },
+      "properties": {
+        "name": "สวนกล้วยไม้",
+        "nameTh": "สวนกล้วยไม้",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1474394475"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1270657191",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46117418846153,
+          13.713645742307692
+        ]
+      },
+      "properties": {
+        "name": "สวนกัลปพฤกษ์",
+        "nameTh": "สวนกัลปพฤกษ์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1270657191"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1362542988",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5561411,
+          13.77442405
+        ]
+      },
+      "properties": {
+        "name": "สวนเกษตร",
+        "nameTh": "สวนเกษตร",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1362542988"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1322088664",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55149816,
+          13.76249546
+        ]
+      },
+      "properties": {
+        "name": "สวนเกษตรในเมือง",
+        "nameTh": "สวนเกษตรในเมือง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1322088664"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1223156988",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49015750000001,
+          13.752955780000002
+        ]
+      },
+      "properties": {
+        "name": "สวนแก้ว",
+        "nameTh": "สวนแก้ว",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1223156988"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1429512180",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54429888333333,
+          13.697280933333333
+        ]
+      },
+      "properties": {
+        "name": "สวนเขตขวัญ",
+        "nameTh": "สวนเขตขวัญ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1429512180"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1319867483",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55454974,
+          13.765096080000001
+        ]
+      },
+      "properties": {
+        "name": "สวนเคหะดินแดง 2",
+        "nameTh": "สวนเคหะดินแดง 2",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1319867483"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23486417",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55618544102566,
+          13.808807474358977
+        ]
+      },
+      "properties": {
+        "name": "สวนจตุจักร",
+        "nameTh": "สวนจตุจักร",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "23486417",
+        "addr:street": "ถนนกำแพงเพชร 3",
+        "website": "https://greener.bangkok.go.th/en/park/suan-chatuchak/",
+        "opening_hours": "Mo-Su 04:30-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1082966305",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52485875333333,
+          13.74404020666667
+        ]
+      },
+      "properties": {
+        "name": "สวนจตุจิรวัฒน์",
+        "nameTh": "สวนจตุจิรวัฒน์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1082966305"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1550073292",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48538385,
+          13.75239355
+        ]
+      },
+      "properties": {
+        "name": "สวนจันทน์",
+        "nameTh": "สวนจันทน์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1550073292"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1182846804",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55258590000001,
+          13.806134106666669
+        ]
+      },
+      "properties": {
+        "name": "สวนจากภูผาสู่มหานที",
+        "nameTh": "สวนจากภูผาสู่มหานที",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1182846804"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-443492152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52909503076923,
+          13.73885761538462
+        ]
+      },
+      "properties": {
+        "name": "สวนจามจุรี",
+        "nameTh": "สวนจามจุรี",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "443492152"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1202537831",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5290589769231,
+          13.742493469230768
+        ]
+      },
+      "properties": {
+        "name": "สวนจามจุรี 10",
+        "nameTh": "สวนจามจุรี 10",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1202537831"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-448914883",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52842057999999,
+          13.740023179999998
+        ]
+      },
+      "properties": {
+        "name": "สวนจุฬานฤมิตร",
+        "nameTh": "สวนจุฬานฤมิตร",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "448914883"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1533001962",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49502018333334,
+          13.74589675
+        ]
+      },
+      "properties": {
+        "name": "สวนเจ้าเชตุ",
+        "nameTh": "สวนเจ้าเชตุ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1533001962"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1388259069",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54382538333333,
+          13.663126016666666
+        ]
+      },
+      "properties": {
+        "name": "สวนเจ้าพ่อกลางทุ่ง",
+        "nameTh": "สวนเจ้าพ่อกลางทุ่ง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1388259069"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1487708687",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.487138434375,
+          13.759813612499997
+        ]
+      },
+      "properties": {
+        "name": "สวนเฉลิมพระเกียรติ 72 พรรษา",
+        "nameTh": "สวนเฉลิมพระเกียรติ 72 พรรษา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1487708687"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-283724937",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54234482222222,
+          13.71858736111111
+        ]
+      },
+      "properties": {
+        "name": "สวนเฉลิมพระเกียรติ 80 พรรษา",
+        "nameTh": "สวนเฉลิมพระเกียรติ 80 พรรษา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "283724937",
+        "website": "https://greener.bangkok.go.th/park/suan-chaloem-phra-kian-80-phansa-phra-bat-somdet-phra-jao-yu-hua-sathorn/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1247208993",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55014717358486,
+          13.661138677358489
+        ]
+      },
+      "properties": {
+        "name": "สวนเฉลิมพระเกียรติฯ 80 พรรษา",
+        "nameTh": "สวนเฉลิมพระเกียรติฯ 80 พรรษา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1247208993"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1244631352",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55508907931035,
+          13.71589207241379
+        ]
+      },
+      "properties": {
+        "name": "สวนเฉลิมพระเกียรติสมเด็จย่า",
+        "nameTh": "สวนเฉลิมพระเกียรติสมเด็จย่า",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1244631352"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1346649814",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54755514,
+          13.690005339999999
+        ]
+      },
+      "properties": {
+        "name": "สวนช้าง",
+        "nameTh": "สวนช้าง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1346649814"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4561266328",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.536748,
+          13.662723
+        ]
+      },
+      "properties": {
+        "name": "สวนชีวิต",
+        "nameTh": "สวนชีวิต",
+        "category": "park",
+        "osmType": "node",
+        "osmId": "4561266328"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1232563398",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51562282857142,
+          13.733888699999998
+        ]
+      },
+      "properties": {
+        "name": "สวนชุมชนโชฎึก",
+        "nameTh": "สวนชุมชนโชฎึก",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1232563398",
+        "website": "https://wepark.co/parks/choduk-community",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1356929176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5155817625,
+          13.7366570375
+        ]
+      },
+      "properties": {
+        "name": "สวนชุมชนโปลิศสภา",
+        "nameTh": "สวนชุมชนโปลิศสภา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1356929176"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1223261200",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49037122000001,
+          13.74972382
+        ]
+      },
+      "properties": {
+        "name": "สวนซ้าย",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1223261200"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1331925725",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57440243636364,
+          13.7671822
+        ]
+      },
+      "properties": {
+        "name": "สวนญี่ปุ่น",
+        "nameTh": "สวนญี่ปุ่น",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1331925725"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1319847528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55295873999998,
+          13.758457179999999
+        ]
+      },
+      "properties": {
+        "name": "สวนดินแดง 3",
+        "nameTh": "สวนดินแดง 3",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1319847528"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1427083286",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53728798333334,
+          13.728716116666668
+        ]
+      },
+      "properties": {
+        "name": "สวนดุสิตอรุณ",
+        "nameTh": "สวนดุสิตอรุณ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1427083286",
+        "opening_hours": "Mo-Su 06:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1225006725",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54178434210526,
+          13.701701815789473
+        ]
+      },
+      "properties": {
+        "name": "สวนตระการเกษม",
+        "nameTh": "สวนตระการเกษม",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1225006725"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1499254158",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51822998888889,
+          13.704761211111112
+        ]
+      },
+      "properties": {
+        "name": "สวนใต้ด่วนซอยอยู่ดี",
+        "nameTh": "สวนใต้ด่วนซอยอยู่ดี",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1499254158"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1286727961",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54283968,
+          13.66364318
+        ]
+      },
+      "properties": {
+        "name": "สวนทรงคนองหมู่ 7",
+        "nameTh": "สวนทรงคนองหมู่ 7",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1286727961"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1532006933",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.35940144,
+          13.776943800000002
+        ]
+      },
+      "properties": {
+        "name": "สวนทวีรักษ์",
+        "nameTh": "สวนทวีรักษ์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1532006933"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1568172506",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53352681428571,
+          13.769533800000001
+        ]
+      },
+      "properties": {
+        "name": "สวนท้าวหิรัญพนาสูร",
+        "nameTh": "สวนท้าวหิรัญพนาสูร",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1568172506"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1374636398",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5348717125,
+          13.7820567375
+        ]
+      },
+      "properties": {
+        "name": "สวนธง",
+        "nameTh": "สวนธง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1374636398"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1200042679",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53006361875,
+          13.73137381875
+        ]
+      },
+      "properties": {
+        "name": "สวนนครเขตบริรักษ์",
+        "nameTh": "สวนนครเขตบริรักษ์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1200042679"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1552957093",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48996089230769,
+          13.746719923076922
+        ]
+      },
+      "properties": {
+        "name": "สวนนาคราภิรมย์",
+        "nameTh": "สวนนาคราภิรมย์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1552957093"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1333681587",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.42647761111111,
+          13.754951211111113
+        ]
+      },
+      "properties": {
+        "name": "สวนน้ำตลิ่งชัน",
+        "nameTh": "สวนน้ำตลิ่งชัน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1333681587"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-545151742",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50457643076923,
+          13.813800223076926
+        ]
+      },
+      "properties": {
+        "name": "สวนน้ำพระทัย",
+        "nameTh": "สวนน้ำพระทัย",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "545151742"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1483332822",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.39395465833336,
+          13.785427879166663
+        ]
+      },
+      "properties": {
+        "name": "สวนบัวแดง",
+        "nameTh": "สวนบัวแดง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1483332822"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1204504023",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47841878749999,
+          13.731556925
+        ]
+      },
+      "properties": {
+        "name": "สวนบางกอกใหญ่",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1204504023"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-545388135",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46934592916666,
+          13.773128741666666
+        ]
+      },
+      "properties": {
+        "name": "สวนบางขุนนนท์",
+        "nameTh": "สวนบางขุนนนท์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "545388135"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1551281169",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47267852,
+          13.76329814
+        ]
+      },
+      "properties": {
+        "name": "สวนบางขุนนนท์",
+        "nameTh": "สวนบางขุนนนท์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1551281169"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1370279246",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.38632035833335,
+          13.6861241
+        ]
+      },
+      "properties": {
+        "name": "สวนบางแคภิรมย์",
+        "nameTh": "สวนบางแคภิรมย์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1370279246"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1174244967",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54115915555555,
+          13.731734011111111
+        ]
+      },
+      "properties": {
+        "name": "สวนบึง",
+        "nameTh": "สวนบึง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1174244967"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1458423155",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.61214282999998,
+          13.81887945
+        ]
+      },
+      "properties": {
+        "name": "สวนบึงน้ำลาดพร้าว 71",
+        "nameTh": "สวนบึงน้ำลาดพร้าว 71",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1458423155"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1306732424",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5585997225,
+          13.728924037500002
+        ]
+      },
+      "properties": {
+        "name": "สวนเบญจกิติ",
+        "nameTh": "สวนเบญจกิติ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1306732424",
+        "addr:street": "ถนนรัชดาภิเษก",
+        "website": "http://office.bangkok.go.th/publicpark/park25.asp",
+        "opening_hours": "Mo-Su 04:30-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-536866176",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53859880869565,
+          13.748634295652176
+        ]
+      },
+      "properties": {
+        "name": "สวนปทุมวนานุรักษ์",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "536866176",
+        "addr:street": "ถนนราชดำริ",
+        "addr:housenumber": "5/1-5/40",
+        "addr:city": "แขวงปทุมวัน"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1100620924",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5268595,
+          13.73992022857143
+        ]
+      },
+      "properties": {
+        "name": "สวนปรีดีขวัญ",
+        "nameTh": "สวนปรีดีขวัญ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1100620924"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-448914886",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5276550125,
+          13.739498350000002
+        ]
+      },
+      "properties": {
+        "name": "สวนปัญญาทวี",
+        "nameTh": "สวนปัญญาทวี",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "448914886"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-243742812",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50923369,
+          13.71996327
+        ]
+      },
+      "properties": {
+        "name": "สวนป่าเฉลิมพระเกียรติ",
+        "nameTh": "สวนป่าเฉลิมพระเกียรติ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "243742812"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-543822670",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3922346413793,
+          13.783376372413795
+        ]
+      },
+      "properties": {
+        "name": "สวนป่าทางต่างระดับ พุทธมณฑลสาย 2",
+        "nameTh": "สวนป่าทางต่างระดับ พุทธมณฑลสาย 2",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "543822670"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-864170465",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55581867142857,
+          13.731481067857143
+        ]
+      },
+      "properties": {
+        "name": "สวนป่าเบญจกิติ",
+        "nameTh": "สวนป่าเบญจกิติ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "864170465",
+        "addr:street": "ถนนรัชดาภิเษก"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1348272590",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55819643333332,
+          13.7184398
+        ]
+      },
+      "properties": {
+        "name": "สวนป๋าเปรม",
+        "nameTh": "สวนป๋าเปรม",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1348272590"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13114321727",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5527365,
+          13.8021817
+        ]
+      },
+      "properties": {
+        "name": "สวนปาล์ม",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "node",
+        "osmId": "13114321727"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-643246598",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55295395882352,
+          13.771536382352942
+        ]
+      },
+      "properties": {
+        "name": "สวนป่าวิภาวดีรังสิต",
+        "nameTh": "สวนป่าวิภาวดีรังสิต",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "643246598"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1429512181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59050945714286,
+          13.741718207142856
+        ]
+      },
+      "properties": {
+        "name": "สวนป่าเอกมัย",
+        "nameTh": "สวนป่าเอกมัย",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1429512181"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1346649822",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54590978181818,
+          13.700160827272727
+        ]
+      },
+      "properties": {
+        "name": "สวนเปรมพัฒน์",
+        "nameTh": "สวนเปรมพัฒน์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1346649822"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-230891857",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53715835000001,
+          13.756685983333332
+        ]
+      },
+      "properties": {
+        "name": "สวนผักกาด",
+        "nameTh": "สวนผักกาด",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "230891857",
+        "website": "http://www.suanpakkad.com/",
+        "opening_hours": "Mo-Su 09:00-16:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-167534432",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53224459444442,
+          13.772067077777777
+        ]
+      },
+      "properties": {
+        "name": "สวนพญาไทภิรมย์",
+        "nameTh": "สวนพญาไทภิรมย์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "167534432"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1091752339",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.528867525,
+          13.73251475
+        ]
+      },
+      "properties": {
+        "name": "สวนพบรัก",
+        "nameTh": "สวนพบรัก",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1091752339"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-207659121",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59173937407407,
+          13.751492344444443
+        ]
+      },
+      "properties": {
+        "name": "สวนพรรณภิรมย์",
+        "nameTh": "สวนพรรณภิรมย์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "207659121",
+        "website": "http://203.155.220.217/office/ppdd/publicpark/thai/2011/park23.asp",
+        "opening_hours": "05:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-448914882",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53420613750001,
+          13.737658100000003
+        ]
+      },
+      "properties": {
+        "name": "สวนพระเกี้ยวแก้ว",
+        "nameTh": "สวนพระเกี้ยวแก้ว",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "448914882"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-561406228",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49008630909093,
+          13.76316280909091
+        ]
+      },
+      "properties": {
+        "name": "สวนพระปิ่นเกล้า",
+        "nameTh": "สวนพระปิ่นเกล้า",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "561406228"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1351990826",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4894658,
+          13.7630376
+        ]
+      },
+      "properties": {
+        "name": "สวนพระปิ่นเกล้า",
+        "nameTh": "สวนพระปิ่นเกล้า",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1351990826"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1396729723",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.548637,
+          13.788446819999999
+        ]
+      },
+      "properties": {
+        "name": "สวนพระพุทธภควา",
+        "nameTh": "สวนพระพุทธภควา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1396729723"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-556001590",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5250150625,
+          13.765632137499999
+        ]
+      },
+      "properties": {
+        "name": "สวนพฤกษศาสตร์",
+        "nameTh": "สวนพฤกษศาสตร์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "556001590"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1198221031",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5270565,
+          13.73788294
+        ]
+      },
+      "properties": {
+        "name": "สวนพฤกษศาสตร์",
+        "nameTh": "สวนพฤกษศาสตร์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1198221031"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1322088671",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54969584444444,
+          13.763734388888887
+        ]
+      },
+      "properties": {
+        "name": "สวนพฤกษศาสตร์",
+        "nameTh": "สวนพฤกษศาสตร์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1322088671"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1382312394",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51392906250001,
+          13.7890226125
+        ]
+      },
+      "properties": {
+        "name": "สวนพฤกษศาสตร์",
+        "nameTh": "สวนพฤกษศาสตร์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1382312394"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1565596840",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59469397142857,
+          13.720747228571428
+        ]
+      },
+      "properties": {
+        "name": "สวนพิบูลย์เวศม์",
+        "nameTh": "สวนพิบูลย์เวศม์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1565596840"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-428712702",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3610118,
+          13.7056162
+        ]
+      },
+      "properties": {
+        "name": "สวนพุทธรักษ์",
+        "nameTh": "สวนพุทธรักษ์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "428712702"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1154797570",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55212581250001,
+          13.7303941
+        ]
+      },
+      "properties": {
+        "name": "สวนเพลินจิต",
+        "nameTh": "สวนเพลินจิต",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1154797570",
+        "opening_hours": "Mo-Su 05:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-448914891",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52900272,
+          13.73992534
+        ]
+      },
+      "properties": {
+        "name": "สวนภะรตราชา",
+        "nameTh": "สวนภะรตราชา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "448914891"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-157053144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58829814,
+          13.79092104
+        ]
+      },
+      "properties": {
+        "name": "สวนภายในหมู่บ้านอารียาแมนดารินา",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "157053144"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1418599437",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59040726666666,
+          13.668780541666663
+        ]
+      },
+      "properties": {
+        "name": "สวนภูติอนันต์",
+        "nameTh": "สวนภูติอนันต์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1418599437"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-556417677",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.43010242,
+          13.813709193333333
+        ]
+      },
+      "properties": {
+        "name": "สวนมัณฑนา",
+        "nameTh": "สวนมัณฑนา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "556417677"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-783589715",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49180397999999,
+          13.746333240000002
+        ]
+      },
+      "properties": {
+        "name": "สวนมิสกวัน",
+        "nameTh": "สวนมิสกวัน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "783589715"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1149939545",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55465647142856,
+          13.724466542857142
+        ]
+      },
+      "properties": {
+        "name": "สวนมุมพักใจ",
+        "nameTh": "สวนมุมพักใจ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1149939545"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1374625204",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53446291666667,
+          13.781677150000002
+        ]
+      },
+      "properties": {
+        "name": "สวน ร.5",
+        "nameTh": "สวน ร.5",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1374625204"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-558032617",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59297482857143,
+          13.763463185714285
+        ]
+      },
+      "properties": {
+        "name": "สวน รฟม.",
+        "nameTh": "สวน รฟม.",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "558032617"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1333668162",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.41087626666669,
+          13.784141595238095
+        ]
+      },
+      "properties": {
+        "name": "สวนร่มเกล้าชาวทาง",
+        "nameTh": "สวนร่มเกล้าชาวทาง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1333668162"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1429512178",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54237320000001,
+          13.70127477142857
+        ]
+      },
+      "properties": {
+        "name": "สวนร่มแมกไม้",
+        "nameTh": "สวนร่มแมกไม้",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1429512178"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-641160571",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54438410625002,
+          13.758595150000001
+        ]
+      },
+      "properties": {
+        "name": "สวนรมย์ราชเทวี",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "641160571"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-555330135",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53243145714285,
+          13.736987942857143
+        ]
+      },
+      "properties": {
+        "name": "สวนรวมใจ",
+        "nameTh": "สวนรวมใจ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "555330135"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1326472083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55424452,
+          13.763743980000001
+        ]
+      },
+      "properties": {
+        "name": "สวนร่วมใจ",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1326472083"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1082488140",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52837674137933,
+          13.732675586206897
+        ]
+      },
+      "properties": {
+        "name": "สวนรักแรกพบ",
+        "nameTh": "สวนรักแรกพบ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1082488140"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-641160572",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54954978,
+          13.757088240000002
+        ]
+      },
+      "properties": {
+        "name": "สวนราชเทวีภิรมย์",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "641160572"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1080181408",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4594518375,
+          13.66553005
+        ]
+      },
+      "properties": {
+        "name": "สวนริมสะพาน",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1080181408"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-348428780",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51250954999999,
+          13.779740392857141
+        ]
+      },
+      "properties": {
+        "name": "สวนรื่นฤดี",
+        "nameTh": "สวนรื่นฤดี",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "348428780"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1568172475",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53303582999999,
+          13.768804170000001
+        ]
+      },
+      "properties": {
+        "name": "สวนโรมัน",
+        "nameTh": "สวนโรมัน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1568172475"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1429512179",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5410783,
+          13.699141039999997
+        ]
+      },
+      "properties": {
+        "name": "สวนฤทัยสมาน",
+        "nameTh": "สวนฤทัยสมาน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1429512179"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1202023478",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52839102142856,
+          13.733597957142859
+        ]
+      },
+      "properties": {
+        "name": "สวนลอยฟ้า",
+        "nameTh": "สวนลอยฟ้า",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1202023478"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1414099224",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51075036,
+          13.776819659999997
+        ]
+      },
+      "properties": {
+        "name": "สวนลอยฟ้า",
+        "nameTh": "สวนลอยฟ้า",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1414099224"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-820534940",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4986053142857,
+          13.739123085714287
+        ]
+      },
+      "properties": {
+        "name": "สวนลอยฟ้าเจ้าพระยา",
+        "nameTh": "สวนลอยฟ้าเจ้าพระยา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "820534940"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1227092303",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4663705,
+          13.737830250000002
+        ]
+      },
+      "properties": {
+        "name": "สวนลุงสรณ์",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1227092303",
+        "description": "พื้นที่สีเขียวประเภทสวน ลุงศรณ์ เป็นชาวสวนคนเดียวในบางกอกใหญ่ที่ลงทะเบียนเป็นเกษตรกรในเขตบางกอกใหญ่ ในพื้นที่สวนมีศาลาที่สามารถสัมนาอบรมเล็กๆเพื่อให้ความรู้เกี่ยวกับสวนและวิถีเกษตรในเมืองด้วย"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23483299",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54171388333329,
+          13.731114429629631
+        ]
+      },
+      "properties": {
+        "name": "สวนลุมพินี",
+        "nameTh": "สวนลุมพินี",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "23483299",
+        "addr:street": "ถนนวิทยุ",
+        "addr:housenumber": "192",
+        "addr:city": "แขวงลุมพินี",
+        "opening_hours": "04:30-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-555894528",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45930491428571,
+          13.662918185714288
+        ]
+      },
+      "properties": {
+        "name": "สวนและลานกีฬาอเนกประสงค์สินทวี",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "555894528"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-544298846",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51643346,
+          13.66298213
+        ]
+      },
+      "properties": {
+        "name": "สวนวงแหวนสุขสวัสดิ์",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "544298846"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23487550",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55435898611113,
+          13.813532169444443
+        ]
+      },
+      "properties": {
+        "name": "สวนวชิรเบญจทัศ",
+        "nameTh": "สวนวชิรเบญจทัศ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "23487550",
+        "addr:street": "ถนนกำแพงเพชร 3",
+        "website": "https://greener.bangkok.go.th/park/suan-wachirabenjathat-suan-rotfai/",
+        "opening_hours": "04:30-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-539591695",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53061667272728,
+          13.730935363636364
+        ]
+      },
+      "properties": {
+        "name": "สวนวัดหัวลำโพงรุกขนิเวศน์",
+        "nameTh": "สวนวัดหัวลำโพงรุกขนิเวศน์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "539591695",
+        "website": "https://wepark.co/parks/wat-hua-lamphong-rukkha-niwet"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1486155044",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5065583625,
+          13.78943235
+        ]
+      },
+      "properties": {
+        "name": "สวนวัดอาวุธฯ",
+        "nameTh": "สวนวัดอาวุธฯ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1486155044"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-543866367",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46118836000001,
+          13.666916359999998
+        ]
+      },
+      "properties": {
+        "name": "สวนวิชิตรนคร",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "543866367",
+        "description": "under construction"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1056673011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56192741999999,
+          13.801030460000002
+        ]
+      },
+      "properties": {
+        "name": "สวนวิภาภิรมณ์",
+        "nameTh": "สวนวิภาภิรมณ์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1056673011",
+        "addr:street": "Soi Vibhavadi Rangsit 18",
+        "addr:housenumber": "97",
+        "opening_hours": "Mo-Su 05:30-19:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-448914884",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53429373333333,
+          13.738289611111108
+        ]
+      },
+      "properties": {
+        "name": "สวนแวววชิระ",
+        "nameTh": "สวนแวววชิระ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "448914884"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-40348145",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56842290370369,
+          13.696826959259258
+        ]
+      },
+      "properties": {
+        "name": "สวนศรีนครเขื่อนขันธ์",
+        "nameTh": "สวนศรีนครเขื่อนขันธ์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "40348145",
+        "website": "https://www.suansri-bangkachao.com/",
+        "opening_hours": "Mo-Su 05:00-19:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-448914888",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52854455999999,
+          13.74376532
+        ]
+      },
+      "properties": {
+        "name": "สวนศรีศตพรรษ",
+        "nameTh": "สวนศรีศตพรรษ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "448914888"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1353397346",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53873089999999,
+          13.671658333333333
+        ]
+      },
+      "properties": {
+        "name": "สวนศิลาฤกษ์",
+        "nameTh": "สวนศิลาฤกษ์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1353397346"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1223261190",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49310846,
+          13.74981954
+        ]
+      },
+      "properties": {
+        "name": "สวนศิวาลัย",
+        "nameTh": "สวนศิวาลัย",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1223261190"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-158143316",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53287534,
+          13.73504134
+        ]
+      },
+      "properties": {
+        "name": "สวนสถิรไมตรี",
+        "nameTh": "สวนสถิรไมตรี",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "158143316"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1485366490",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5030421625,
+          13.7401695875
+        ]
+      },
+      "properties": {
+        "name": "สวนสมเด็จพระธีรญาณมุนี",
+        "nameTh": "สวนสมเด็จพระธีรญาณมุนี",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1485366490"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23487332",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55149917777774,
+          13.807178366666669
+        ]
+      },
+      "properties": {
+        "name": "สวนสมเด็จพระนางเจ้าสิริกิติ์ฯ",
+        "nameTh": "สวนสมเด็จพระนางเจ้าสิริกิติ์ฯ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "23487332",
+        "addr:street": "ถนนกำแพงเพชร 2",
+        "website": "https://greener.bangkok.go.th/en/park/suan-somdet-phranangchao-sirikit/",
+        "opening_hours": "05:00-19:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-168687083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5601050576923,
+          13.814711588461536
+        ]
+      },
+      "properties": {
+        "name": "สวนสมเด็จย่า ๘๔",
+        "nameTh": "สวนสมเด็จย่า ๘๔",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "168687083"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1324046959",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56798104,
+          13.775295080000001
+        ]
+      },
+      "properties": {
+        "name": "สวนสมเด็จย่า 90",
+        "nameTh": "สวนสมเด็จย่า 90",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1324046959"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-210643846",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59031023,
+          13.742899880000001
+        ]
+      },
+      "properties": {
+        "name": "สวนสมเด็จสราญราษฎร์มณีรมย์",
+        "nameTh": "สวนสมเด็จสราญราษฎร์มณีรมย์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "210643846"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1322088667",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55065733333333,
+          13.763057611111112
+        ]
+      },
+      "properties": {
+        "name": "สวนสมาคม",
+        "nameTh": "สวนสมาคม",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1322088667"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11115825364",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.526647,
+          13.7376585
+        ]
+      },
+      "properties": {
+        "name": "สวนสมุนไพร",
+        "nameTh": "สวนสมุนไพร",
+        "category": "park",
+        "osmType": "node",
+        "osmId": "11115825364"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23486019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49540219333332,
+          13.74828815333333
+        ]
+      },
+      "properties": {
+        "name": "สวนสราญรมย์",
+        "nameTh": "สวนสราญรมย์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "23486019",
+        "addr:street": "ถนนสนามไชย",
+        "website": "http://203.155.220.217/office/ppdd/publicpark/thai/2011/park03.asp",
+        "opening_hours": "Mo-Su 04:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-198399091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49558658666668,
+          13.763893199999996
+        ]
+      },
+      "properties": {
+        "name": "สวนสันติชัยปราการ",
+        "nameTh": "สวนสันติชัยปราการ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "198399091",
+        "addr:street": "ถนนพระอาทิตย์",
+        "website": "http://203.155.220.217/office/ppdd/publicpark/thai/2011/park21.asp",
+        "opening_hours": "05:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-947297055",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49538309333334,
+          13.75849290666667
+        ]
+      },
+      "properties": {
+        "name": "สวนสันติพร",
+        "nameTh": "สวนสันติพร",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "947297055"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-99029135",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54112818888888,
+          13.762500166666666
+        ]
+      },
+      "properties": {
+        "name": "สวนสันติภาพ",
+        "nameTh": "สวนสันติภาพ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "99029135",
+        "addr:street": "ถนนราชวิถี",
+        "phone": "+66-2-2452461",
+        "website": "https://greener.bangkok.go.th/park/suan-santipap/",
+        "opening_hours": "05:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1374667399",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53988862777777,
+          13.781992944444445
+        ]
+      },
+      "properties": {
+        "name": "สวนสาธารณะกรมประชาสัมพันธ์",
+        "nameTh": "สวนสาธารณะกรมประชาสัมพันธ์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1374667399"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-142576745",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.40815215714285,
+          13.683265291428569
+        ]
+      },
+      "properties": {
+        "name": "สวนสาธารณะกัลปพฤกษ์",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "142576745"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1003522890",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53105916999998,
+          13.72031404
+        ]
+      },
+      "properties": {
+        "name": "สวนสาธารณะคลองช่องนนทรี",
+        "nameTh": "สวนสาธารณะคลองช่องนนทรี",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1003522890"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1185525874",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52748368333334,
+          13.72745405
+        ]
+      },
+      "properties": {
+        "name": "สวนสาธารณะคลองช่องนนทรี (เฟส 2)",
+        "nameTh": "สวนสาธารณะคลองช่องนนทรี (เฟส 2)",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1185525874"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-198802034",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51784027222223,
+          13.685455025000001
+        ]
+      },
+      "properties": {
+        "name": "สวนสาธารณะเฉลิมพระเกียรติ 6 รอบ พระชนมพรรษา",
+        "nameTh": "สวนสาธารณะเฉลิมพระเกียรติ 6 รอบ พระชนมพรรษา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "198802034",
+        "website": "http://203.155.220.217/office/ppdd/publicpark/thai/2011/park15.asp",
+        "opening_hours": "05:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-543859013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45927452,
+          13.670138320000001
+        ]
+      },
+      "properties": {
+        "name": "สวนสาธารณะ ซอยสินทวี",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "543859013"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-560595626",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50554051538461,
+          13.755384092307692
+        ]
+      },
+      "properties": {
+        "name": "สวนสาธารณะป้อมมหากาฬ",
+        "nameTh": "สวนสาธารณะป้อมมหากาฬ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "560595626",
+        "opening_hours": "sunrise-sunset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-336784958",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.40598496060605,
+          13.712693506060607
+        ]
+      },
+      "properties": {
+        "name": "สวนสาธารณะเพชรกาญจนารมย์",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "336784958"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-557975106",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60859708000001,
+          13.78979688
+        ]
+      },
+      "properties": {
+        "name": "สวนสาธารณะวังทอง 1",
+        "nameTh": "สวนสาธารณะวังทอง 1",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "557975106"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1377349132",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60889588,
+          13.7916954
+        ]
+      },
+      "properties": {
+        "name": "สวนสาธารณะวังทอง 2",
+        "nameTh": "สวนสาธารณะวังทอง 2",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1377349132"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-167534416",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52969725999999,
+          13.770644760000001
+        ]
+      },
+      "properties": {
+        "name": "สวนสาธารณะสวนเงิน",
+        "nameTh": "สวนสาธารณะสวนเงิน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "167534416"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-363719861",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51388885,
+          13.718549750000001
+        ]
+      },
+      "properties": {
+        "name": "สวนสาธารณะสะพานตากสิน",
+        "nameTh": "สวนสาธารณะสะพานตากสิน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "363719861",
+        "description": "สวนสาธารณะสะพานตากสิน Saphan Taksin Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1196400138",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50183375,
+          13.736849050000002
+        ]
+      },
+      "properties": {
+        "name": "สวนสานสาธารณะ",
+        "nameTh": "สวนสานสาธารณะ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1196400138",
+        "website": "https://wepark.co/parks/sansatarana"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1091752337",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52902773333334,
+          13.732974433333332
+        ]
+      },
+      "properties": {
+        "name": "สวนสามย่าน A",
+        "nameTh": "สวนสามย่าน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1091752337"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1091752338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52855465,
+          13.733138525000001
+        ]
+      },
+      "properties": {
+        "name": "สวนสามย่าน B",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1091752338"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1100620923",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52622633000001,
+          13.73988171
+        ]
+      },
+      "properties": {
+        "name": "สวนสุขภาพ",
+        "nameTh": "สวนสุขภาพ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1100620923"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-543808085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60983073333334,
+          13.663771850000002
+        ]
+      },
+      "properties": {
+        "name": "สวนสุขภาพภูติอนันต์",
+        "nameTh": "สวนสุขภาพภูติอนันต์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "543808085"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1189689545",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57715712608696,
+          13.758907673913042
+        ]
+      },
+      "properties": {
+        "name": "สวนสุขภาพ รฟม.",
+        "nameTh": "สวนสุขภาพ รฟม.",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1189689545"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1414218667",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50843244444445,
+          13.773662327777778
+        ]
+      },
+      "properties": {
+        "name": "สวนสุนันทา",
+        "nameTh": "สวนสุนันทา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1414218667"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1562002064",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.34652509,
+          13.71629934
+        ]
+      },
+      "properties": {
+        "name": "สวนเสาธง",
+        "nameTh": "สวนเสาธง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1562002064"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-342335338",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49452007419353,
+          13.758287477419355
+        ]
+      },
+      "properties": {
+        "name": "สวนหยดน้ำ",
+        "nameTh": "สวนหยดน้ำ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "342335338"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-561180440",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.44066662727273,
+          13.813096127272727
+        ]
+      },
+      "properties": {
+        "name": "สวนหย่อม",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "561180440"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1255671359",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49517098333332,
+          13.743830016666665
+        ]
+      },
+      "properties": {
+        "name": "สวนหย่อม",
+        "nameTh": "สวนหย่อม",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1255671359"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1312398252",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52153808000001,
+          13.798177013333333
+        ]
+      },
+      "properties": {
+        "name": "สวนหย่อมคลองบางซื่อ",
+        "nameTh": "สวนหย่อมคลองบางซื่อ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1312398252"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1184268295",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53863414285715,
+          13.729676542857145
+        ]
+      },
+      "properties": {
+        "name": "สวนหย่อมนาวานุเคราะห์",
+        "nameTh": "สวนหย่อมนาวานุเคราะห์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1184268295"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-823811329",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57732623999999,
+          13.724825020000003
+        ]
+      },
+      "properties": {
+        "name": "สวนหย่อม โนเบิล รีมิกซ์",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "823811329"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1420928166",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51983956000001,
+          13.814088420000001
+        ]
+      },
+      "properties": {
+        "name": "สวนหย่อมโรงเรียนโยธินบูรณะ",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1420928166"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-563077860",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.44408046,
+          13.766918109999997
+        ]
+      },
+      "properties": {
+        "name": "สวนหย่อม The circle",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "563077860"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-203011799",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49465218656714,
+          13.768821447761189
+        ]
+      },
+      "properties": {
+        "name": "สวนหลวงพระราม 8",
+        "nameTh": "สวนหลวงพระราม 8",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "203011799",
+        "website": "http://203.155.220.217/office/ppdd/publicpark/thai/2011/park24.asp",
+        "opening_hours": "05:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4561266327",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5370641,
+          13.6627872
+        ]
+      },
+      "properties": {
+        "name": "สวนหลังหอพระ",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "node",
+        "osmId": "4561266327"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13159220552",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5520344,
+          13.8073462
+        ]
+      },
+      "properties": {
+        "name": "สวนหิน",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "node",
+        "osmId": "13159220552"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1198221017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52701314000001,
+          13.737255260000001
+        ]
+      },
+      "properties": {
+        "name": "สวนหิน",
+        "nameTh": "สวนหิน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1198221017"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-158138508",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53187902857144,
+          13.740100128571429
+        ]
+      },
+      "properties": {
+        "name": "สวนหินปิ่นหทัย",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "158138508"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1431671086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55767014285713,
+          13.789009300000002
+        ]
+      },
+      "properties": {
+        "name": "สวนอินทมระ",
+        "nameTh": "สวนอินทมระ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1431671086"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14134372585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5093627,
+          13.6902728
+        ]
+      },
+      "properties": {
+        "name": "สวนอิ่มรักษ์",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "node",
+        "osmId": "14134372585"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1223411940",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58250038,
+          13.73645794
+        ]
+      },
+      "properties": {
+        "name": "สวน Park Thonglor Tower",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1223411940",
+        "addr:street": "ซอยทองหล่อ 19",
+        "addr:housenumber": "555",
+        "addr:city": "คลองตันเหนือ",
+        "opening_hours": "sunrise-sunset"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-755664765",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52851433999999,
+          13.73759718
+        ]
+      },
+      "properties": {
+        "name": "สวน QR-code",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "755664765"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1190815017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49619144285714,
+          13.734342449999998
+        ]
+      },
+      "properties": {
+        "name": "อนุสรณ์สถานงานสมโภช 100 ปี",
+        "nameTh": "อนุสรณ์สถานงานสมโภช 100 ปี",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1190815017"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1320229510",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45362518,
+          13.721664839999999
+        ]
+      },
+      "properties": {
+        "name": "อาคาร 21 สวนสันติภาพ",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1320229510"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1161155519",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49480238749999,
+          13.756375737499997
+        ]
+      },
+      "properties": {
+        "name": "อุทกทาน",
+        "nameTh": "อุทกทาน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1161155519"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-443471833",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52398629999999,
+          13.739428515789475
+        ]
+      },
+      "properties": {
+        "name": "อุทยาน 100 ปี จุฬาลงกรณ์มหาวิทยาลัย",
+        "nameTh": "อุทยาน 100 ปี จุฬาลงกรณ์มหาวิทยาลัย",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "443471833",
+        "description": "ก่อสร้างเสร็จสิ้นและเปิดใช้เมื่อเดือน ส.ค. 2560"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1562005641",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.37040465789475,
+          13.734980600000002
+        ]
+      },
+      "properties": {
+        "name": "อุทยานกาญจนาภิเษก",
+        "nameTh": "อุทยานกาญจนาภิเษก",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1562005641"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-37906413",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51757553571429,
+          13.762211164285715
+        ]
+      },
+      "properties": {
+        "name": "อุทยานเฉลิมพระเกียรติ รัชกาลที่ ๙",
+        "nameTh": "อุทยานเฉลิมพระเกียรติ รัชกาลที่ ๙",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "37906413",
+        "addr:street": "ถนนศรีอยุธยา",
+        "addr:city": "แขวงสวนจิตรลดา"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-23487144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56737036,
+          13.73050668
+        ]
+      },
+      "properties": {
+        "name": "อุทยานเบญจสิริ",
+        "nameTh": "อุทยานเบญจสิริ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "23487144",
+        "addr:street": "ถนนสุขุมวิท",
+        "website": "http://203.155.220.217/office/ppdd/publicpark/thai/2011/park12.asp",
+        "opening_hours": "04:30-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1161645070",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48671353333333,
+          13.757497033333335
+        ]
+      },
+      "properties": {
+        "name": "อุทยานสถานพิมุข",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1161645070"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1251727948",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5516158242424,
+          13.796842409090909
+        ]
+      },
+      "properties": {
+        "name": "เอ็ม จตุจักร",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1251727948"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1251790989",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55011952,
+          13.795646479999998
+        ]
+      },
+      "properties": {
+        "name": "ไอดีโอ พหลโยธิน-จตุจักร",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1251790989"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5614482723",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.580341,
+          13.7272998
+        ]
+      },
+      "properties": {
+        "name": "Angoon's Garden",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "node",
+        "osmId": "5614482723"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-625274748",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56859099,
+          13.783770529999998
+        ]
+      },
+      "properties": {
+        "name": "Apartment Garden",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "625274748"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-555980838",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52659108333334,
+          13.7648657
+        ]
+      },
+      "properties": {
+        "name": "Bio-Geo park",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "555980838"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-680334548",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51626560000001,
+          13.717140990909092
+        ]
+      },
+      "properties": {
+        "name": "Circular Lawn",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "680334548"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-977572335",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54112866,
+          13.77968076
+        ]
+      },
+      "properties": {
+        "name": "dryft bar",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "977572335"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1194057184",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46467415714287,
+          13.715415328571426
+        ]
+      },
+      "properties": {
+        "name": "Elio ground park",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1194057184"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-199925833",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5031127142857,
+          13.704694600000002
+        ]
+      },
+      "properties": {
+        "name": "factory square",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "199925833"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-555945060",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52612587777779,
+          13.764395611111112
+        ]
+      },
+      "properties": {
+        "name": "homo erectus and mammoth park",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "555945060"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-555980284",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52558758750001,
+          13.764821912499999
+        ]
+      },
+      "properties": {
+        "name": "Hornbill park",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "555980284"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-545388828",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.46471156,
+          13.778678539999998
+        ]
+      },
+      "properties": {
+        "name": "LED Park",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "545388828"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10776013381",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4607965,
+          13.7848861
+        ]
+      },
+      "properties": {
+        "name": "Lumpini Place",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "node",
+        "osmId": "10776013381"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-555981580",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52447512222223,
+          13.764807600000001
+        ]
+      },
+      "properties": {
+        "name": "M Bld Garden",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "555981580"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-556003535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52734339999999,
+          13.76957256
+        ]
+      },
+      "properties": {
+        "name": "Neoroscience's Park",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "556003535"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-558850262",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50716390909092,
+          13.811148890909088
+        ]
+      },
+      "properties": {
+        "name": "Old Power Plant Railroad Memorial Garden",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "558850262"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1328095238",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54737367777778,
+          13.727298211111112
+        ]
+      },
+      "properties": {
+        "name": "One Bangkok Park",
+        "nameTh": "วัน แบงค็อก พาร์ค",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1328095238"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-555913269",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50433552222222,
+          13.67125538888889
+        ]
+      },
+      "properties": {
+        "name": "Orchid Park",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "555913269"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1346644879",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54872497142856,
+          13.68859297857143
+        ]
+      },
+      "properties": {
+        "name": "Parco Isola",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1346644879"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-159378469",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53241554285714,
+          13.74368002857143
+        ]
+      },
+      "properties": {
+        "name": "Park @ Siam",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "159378469"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1369185765",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5664131875,
+          13.7307515375
+        ]
+      },
+      "properties": {
+        "name": "PAWYARD at EMSPHERE",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1369185765"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-9751175387",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6099249,
+          13.6637841
+        ]
+      },
+      "properties": {
+        "name": "Phuti Anun Park",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "node",
+        "osmId": "9751175387"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14078411401",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5521448,
+          13.7327855
+        ]
+      },
+      "properties": {
+        "name": "Ploen Chit park",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "node",
+        "osmId": "14078411401"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-544461233",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.41412719166665,
+          13.736177083333331
+        ]
+      },
+      "properties": {
+        "name": "Prak 2",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "544461233"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-556004748",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5267381,
+          13.7689568
+        ]
+      },
+      "properties": {
+        "name": "Prapassaro's Garden",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "556004748"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1346644888",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55037682857142,
+          13.68874197142857
+        ]
+      },
+      "properties": {
+        "name": "Prima Esplanade",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1346644888"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1190810492",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51561086,
+          13.72690206
+        ]
+      },
+      "properties": {
+        "name": "Public Rooftop Garden",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1190810492"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1186828144",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55826575555557,
+          13.721512377777778
+        ]
+      },
+      "properties": {
+        "name": "Q Garden",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1186828144"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-558032110",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59250188000001,
+          13.7621756
+        ]
+      },
+      "properties": {
+        "name": "Rain Tree Park",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "558032110"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-556002466",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52637884444445,
+          13.767224922222223
+        ]
+      },
+      "properties": {
+        "name": "Ramathibodhi's Public Park",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "556002466"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1328879201",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5647843,
+          13.76329298
+        ]
+      },
+      "properties": {
+        "name": "Reflexology Garden",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1328879201"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-680384538",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5167856888889,
+          13.717544044444445
+        ]
+      },
+      "properties": {
+        "name": "Rhythm Sathorn Garden",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "680384538"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1346644892",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54999343,
+          13.688751300000002
+        ]
+      },
+      "properties": {
+        "name": "Riva Isola",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1346644892"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1102645515",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4972573,
+          13.766978083333333
+        ]
+      },
+      "properties": {
+        "name": "Sam Phraya Park",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1102645515"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1414845841",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53092568000001,
+          13.7446053
+        ]
+      },
+      "properties": {
+        "name": "Skyscape",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1414845841"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1498369684",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.60271916,
+          13.716561859999999
+        ]
+      },
+      "properties": {
+        "name": "T77 Sansiri Backyard",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1498369684"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-461373032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54010202857144,
+          13.703549357142858
+        ]
+      },
+      "properties": {
+        "name": "The Complete Naratiwas Green Area",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "461373032"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1251724262",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57776484000001,
+          13.72449264
+        ]
+      },
+      "properties": {
+        "name": "The Esse Sukhumvit 36",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1251724262"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1185933422",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5981137,
+          13.713504714285715
+        ]
+      },
+      "properties": {
+        "name": "The Nest Sukhumvit 71 Garden",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1185933422"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-199925834",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50258406,
+          13.70417812
+        ]
+      },
+      "properties": {
+        "name": "Town Square Park",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "199925834"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1322088665",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55125788333334,
+          13.762728883333333
+        ]
+      },
+      "properties": {
+        "name": "จุดผักผ่อน",
+        "nameTh": "จุดผักผ่อน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1322088665"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1550119345",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47997648888888,
+          13.751710255555556
+        ]
+      },
+      "properties": {
+        "name": "นันทอุทยานสโมสร",
+        "nameTh": "นันทอุทยานสโมสร",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1550119345"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1120352514",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54160706666664,
+          13.731351054761907
+        ]
+      },
+      "properties": {
+        "name": "เนินปาล์ม",
+        "nameTh": "เนินปาล์ม",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1120352514"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1294703709",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49630057777779,
+          13.763724499999999
+        ]
+      },
+      "properties": {
+        "name": "พิพิธบางลำพู",
+        "nameTh": "พิพิธบางลำพู",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1294703709",
+        "phone": "+662281-9828",
+        "website": "http://banglamphumuseum.treasury.go.th",
+        "description": "พิพิธบางลำพูเป็นแหล่งท่องเที่ยวบริเวณเกาะรัตนโกสินทร์ และศูนย์การเรียนรู้เชิงการศึกษาวัฒนธรรมชุมชน เป็นพิพิธภัณฑ์สมัยใหม่ซึ่งประยุกต์การ แสดงวัตถุและการเล่าเรื่องเชิงประวัติศาสตร์เข้ากับการแสดงวิถีชุมชนบางลำพูเดิมอย่างน่าสนใจ"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1230259736",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5024300875,
+          13.749638456249997
+        ]
+      },
+      "properties": {
+        "name": "ฟิตเนสกลางแจ้ง",
+        "nameTh": "ฟิตเนสกลางแจ้ง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1230259736"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-349599584",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48869632727273,
+          13.751746309090908
+        ]
+      },
+      "properties": {
+        "name": "ราชนาวีสโมสร",
+        "nameTh": "ราชนาวีสโมสร",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "349599584"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-576823935",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55112046956522,
+          13.8074090173913
+        ]
+      },
+      "properties": {
+        "name": "ล้อ",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "576823935"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1387755616",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52897275,
+          13.759749416666667
+        ]
+      },
+      "properties": {
+        "name": "ลานกิจกรรม",
+        "nameTh": "ลานกิจกรรม",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1387755616"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1155681728",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55771654827585,
+          13.72667215862069
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬา",
+        "nameTh": "ลานกีฬา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1155681728"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1300141346",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47425664333333,
+          13.71310877
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬาเฉลิมพระเกียรติฯ",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1300141346"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1234564290",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53257378333332,
+          13.725849833333335
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬาต้านยาเสพติด",
+        "nameTh": "ลานกีฬาต้านยาเสพติด",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1234564290"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1157416152",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52288123846155,
+          13.753156776923076
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬาพัฒน์ 2",
+        "nameTh": "ลานกีฬาพัฒน์ 2",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1157416152",
+        "website": "https://www.arsomsilp.ac.th/keelapatn2/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1330666284",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55434199999999,
+          13.759799940000002
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬาแฟลต 9",
+        "nameTh": "ลานกีฬาแฟลต 9",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1330666284"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1320015002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55755654,
+          13.771530899999998
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬาสน.ดินแดง",
+        "nameTh": "ลานกีฬาสน.ดินแดง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1320015002"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1561340819",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.37179624000001,
+          13.694822839999997
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬาหมู่บ้านนิสา",
+        "nameTh": "ลานกีฬาหมู่บ้านนิสา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1561340819"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1484502222",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.41260421666665,
+          13.7952771
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬาหมู่บ้านพัฒนา",
+        "nameTh": "ลานกีฬาหมู่บ้านพัฒนา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1484502222"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1101281520",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52896,
+          13.74623794
+        ]
+      },
+      "properties": {
+        "name": "ลานกีฬาอเนกประสงค์",
+        "nameTh": "ลานกีฬาอเนกประสงค์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1101281520"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1390424934",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55002209999999,
+          13.670643736363637
+        ]
+      },
+      "properties": {
+        "name": "ลานซันไรซ์",
+        "nameTh": "ลานซันไรซ์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1390424934"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1560991107",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49161216249999,
+          13.761048812499999
+        ]
+      },
+      "properties": {
+        "name": "ลานใต้สะพานปิ่นเกล้า",
+        "nameTh": "ลานใต้สะพานปิ่นเกล้า",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1560991107"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-930031083",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5324879,
+          13.737880518750002
+        ]
+      },
+      "properties": {
+        "name": "ลานประชุมกร",
+        "nameTh": "ลานประชุมกร",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "930031083"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-551584150",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.48953184,
+          13.7574939
+        ]
+      },
+      "properties": {
+        "name": "ลานปรีดี พนมยงค์",
+        "nameTh": "ลานปรีดี พนมยงค์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "551584150"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1382631423",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4949873,
+          13.744290581818179
+        ]
+      },
+      "properties": {
+        "name": "ลานพระวิหารน้อย",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1382631423"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1080242292",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52411724166666,
+          13.738928016666668
+        ]
+      },
+      "properties": {
+        "name": "ลานรกฟ้า",
+        "nameTh": "ลานรกฟ้า",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1080242292"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1186500377",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51684208235292,
+          13.73791897647059
+        ]
+      },
+      "properties": {
+        "name": "ลานสถานีหัวลำโพง",
+        "nameTh": "ลานสถานีหัวลำโพง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1186500377"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1080242290",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5247862909091,
+          13.738799654545454
+        ]
+      },
+      "properties": {
+        "name": "ลานเสม็ดแดง",
+        "nameTh": "ลานเสม็ดแดง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1080242290"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1225036695",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.56553338,
+          13.743937220000001
+        ]
+      },
+      "properties": {
+        "name": "ลานอิฐแดง",
+        "nameTh": "ลานอิฐแดง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1225036695"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1273249664",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.35552424,
+          13.77325304
+        ]
+      },
+      "properties": {
+        "name": "ลานเอนกประสงค์",
+        "nameTh": "ลานเอนกประสงค์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1273249664"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1353945606",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53470870833331,
+          13.67151046666667
+        ]
+      },
+      "properties": {
+        "name": "ลานเอนกประสงค์",
+        "nameTh": "ลานเอนกประสงค์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1353945606"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1387755625",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52890124000001,
+          13.75917182
+        ]
+      },
+      "properties": {
+        "name": "ลานเอนกประสงค์",
+        "nameTh": "ลานเอนกประสงค์",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1387755625"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1387755623",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52928569999999,
+          13.759315460000002
+        ]
+      },
+      "properties": {
+        "name": "ลานเอนกประสงค์ 2",
+        "nameTh": "ลานเอนกประสงค์ 2",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1387755623"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1387755629",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52844588,
+          13.759422
+        ]
+      },
+      "properties": {
+        "name": "ลานเอนกประสงค์ 4",
+        "nameTh": "ลานเอนกประสงค์ 4",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1387755629"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1387755631",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52839956666668,
+          13.759633916666667
+        ]
+      },
+      "properties": {
+        "name": "ลานเอนกประสงค์ 5",
+        "nameTh": "ลานเอนกประสงค์ 5",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1387755631"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1390424964",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54627468333332,
+          13.669516983333333
+        ]
+      },
+      "properties": {
+        "name": "ลานเอนกประสงค์วัดบางขมิ้น",
+        "nameTh": "ลานเอนกประสงค์วัดบางขมิ้น",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1390424964"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1561340836",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.37456618,
+          13.6972328
+        ]
+      },
+      "properties": {
+        "name": "ลานแอโรบิก",
+        "nameTh": "ลานแอโรบิก",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1561340836"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1200737348",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52774375999999,
+          13.735885759999999
+        ]
+      },
+      "properties": {
+        "name": "เวทีสวนศึกษา",
+        "nameTh": "เวทีสวนศึกษา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1200737348"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1320936453",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.45475869999999,
+          13.67474898
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์นันทนาการจอมทอง",
+        "nameTh": "ศูนย์นันทนาการจอมทอง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1320936453"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-261080043",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5268833,
+          13.73662988
+        ]
+      },
+      "properties": {
+        "name": "สนาม 3",
+        "nameTh": "สนาม 3",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "261080043"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1201627785",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54010492692305,
+          13.748997653846155
+        ]
+      },
+      "properties": {
+        "name": "สนามกลาง",
+        "nameTh": "สนามกลาง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1201627785"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1364243498",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.523941,
+          13.763508833333333
+        ]
+      },
+      "properties": {
+        "name": "สนามกีฬากระทรวงการต่างประเทศ",
+        "nameTh": "สนามกีฬากระทรวงการต่างประเทศ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1364243498"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1319848707",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5540175,
+          13.76620392
+        ]
+      },
+      "properties": {
+        "name": "สนามกีฬากองการกีฬา",
+        "nameTh": "สนามกีฬากองการกีฬา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1319848707"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1568172573",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53218294000001,
+          13.768415719999998
+        ]
+      },
+      "properties": {
+        "name": "สนามกีฬา วพบ.",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1568172573"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1173065784",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52078056,
+          13.74681622
+        ]
+      },
+      "properties": {
+        "name": "สนามเด็กเล่นทองพูน",
+        "nameTh": "สนามเด็กเล่นทองพูน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1173065784"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-159378476",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52619878333333,
+          13.740518883333332
+        ]
+      },
+      "properties": {
+        "name": "สนามเทนนิส จุฬาฯ",
+        "nameTh": "สนามเทนนิส จุฬาฯ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "159378476"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1204948514",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52828996,
+          13.69695283
+        ]
+      },
+      "properties": {
+        "name": "สนามฟุตบอลแซงสปอร์ต",
+        "nameTh": "สนามฟุตบอลแซงสปอร์ต",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1204948514"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1320414572",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51183793999999,
+          13.712624
+        ]
+      },
+      "properties": {
+        "name": "สนามโรงเรียน",
+        "nameTh": "สนามโรงเรียน",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1320414572"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-39723285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52356704761905,
+          13.726709366666663
+        ]
+      },
+      "properties": {
+        "name": "สโมสรอังกฤษ",
+        "nameTh": "สโมสรอังกฤษ",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "39723285",
+        "addr:street": "ซอยสีลม 18"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-84415768",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55247071666668,
+          13.807253216666666
+        ]
+      },
+      "properties": {
+        "name": "สวนกล้วย",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "84415768"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1294736662",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5426148,
+          13.72002808
+        ]
+      },
+      "properties": {
+        "name": "ส่วนกลาง",
+        "nameTh": "ส่วนกลาง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1294736662"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-83515689",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.551633425,
+          13.803992812500002
+        ]
+      },
+      "properties": {
+        "name": "สวนไผ่",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "83515689"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1184268296",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53884247777778,
+          13.729989955555556
+        ]
+      },
+      "properties": {
+        "name": "สวนหรรษา",
+        "nameTh": "สวนหรรษา",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1184268296"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1204954241",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5293950625,
+          13.696812824999999
+        ]
+      },
+      "properties": {
+        "name": "อะควาฟิตเนส",
+        "nameTh": "อะควาฟิตเนส",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1204954241"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1087817584",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.55374598125002,
+          13.72852615
+        ]
+      },
+      "properties": {
+        "name": "อัฒจันทร์กลาง",
+        "nameTh": "อัฒจันทร์กลาง",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1087817584"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1353058372",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58507638181818,
+          13.680442609090909
+        ]
+      },
+      "properties": {
+        "name": "Bangkok Tree House",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1353058372",
+        "website": "https://www.bangkoktreehouse.com/",
+        "internet_access": "wlan"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1204952872",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52974642857143,
+          13.699709285714286
+        ]
+      },
+      "properties": {
+        "name": "Home Sport",
+        "nameTh": "โฮม สปอร์ต",
+        "category": "park",
+        "osmType": "way",
+        "osmId": "1204952872"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-464650674",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.59495074,
+          13.70638826
+        ]
+      },
+      "properties": {
+        "name": "Soi 50 Pump Track",
+        "nameTh": null,
+        "category": "park",
+        "osmType": "way",
+        "osmId": "464650674"
+      }
+    }
+  ]
+}

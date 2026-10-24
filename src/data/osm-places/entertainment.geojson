@@ -1,0 +1,1278 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "OpenStreetMap",
+    "snapshotDate": "2026-10-23",
+    "category": "entertainment",
+    "count": 67,
+    "attribution": "© OpenStreetMap contributors",
+    "license": "ODbL",
+    "url": "https://www.openstreetmap.org/copyright"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "osm-node-3937642167",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.6104274,
+          13.7539558
+        ]
+      },
+      "properties": {
+        "name": "7-Eleven",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "3937642167"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1135380270",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47024115,
+          13.7889129625
+        ]
+      },
+      "properties": {
+        "name": "ช่างเชื่อม",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "1135380270"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1313224332",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.54626351666667,
+          13.723996133333335
+        ]
+      },
+      "properties": {
+        "name": "บ้านปลูกรัก",
+        "nameTh": "บ้านปลูกรัก",
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "1313224332",
+        "addr:street": "ซอยเกอเธ่",
+        "addr:housenumber": "16/1",
+        "phone": "+66 95 920 1940"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-562209094",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52969833333333,
+          13.7490419
+        ]
+      },
+      "properties": {
+        "name": "บ้านแสนแสบ",
+        "nameTh": "บ้านแสนแสบ",
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "562209094",
+        "addr:street": "ซอยเกษมสันต์ 1",
+        "addr:housenumber": "20/2",
+        "website": "https://www.yelohouse.com",
+        "opening_hours": "We-Mo 11:00-20:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1729933444",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3809739,
+          13.7076302
+        ]
+      },
+      "properties": {
+        "name": "เมเจอร์ซินีเพล็กซ์ สาขาเพชรเกษม",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "1729933444"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-368909127",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.38100164999999,
+          13.707867866666666
+        ]
+      },
+      "properties": {
+        "name": "เมเจอร์ซีนีเพล็กซ์ สาขาเพชรเกษม",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "368909127",
+        "addr:street": "ถนนเพชรเกษม",
+        "addr:housenumber": "611/2",
+        "addr:city": "บางแค",
+        "opening_hours": "จันทร์-ศุกร์ 11.00 - 23.00, เสาร์-อาทิตย์ 10.30 - 24.00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-318619028",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.58329390000002,
+          13.721381171428572
+        ]
+      },
+      "properties": {
+        "name": "เมเจอร์ ซีนีเพล็กซ์ สุขุมวิท",
+        "nameTh": "เมเจอร์ ซีนีเพล็กซ์ สุขุมวิท",
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "318619028",
+        "website": "https://www.majorcineplex.com/cinema/major-sukhumvit"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12092067233",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5338003,
+          13.745034
+        ]
+      },
+      "properties": {
+        "name": "โรงละครเคแบงก์สยามพิฆเนศ",
+        "nameTh": "โรงละครเคแบงก์สยามพิฆเนศ",
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "12092067233"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-134106789",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.49166228,
+          13.76009602
+        ]
+      },
+      "properties": {
+        "name": "โรงละครวังหน้า",
+        "nameTh": "โรงละครวังหน้า",
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "134106789"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6421035285",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.537579,
+          13.7596377
+        ]
+      },
+      "properties": {
+        "name": "โรงละครอักษรา คิง เพาเวอร์",
+        "nameTh": "โรงละครอักษรา คิง เพาเวอร์",
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "6421035285"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1292979514",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53384287272728,
+          13.744530436363636
+        ]
+      },
+      "properties": {
+        "name": "ลานอัฒจันทร์",
+        "nameTh": "ลานอัฒจันทร์",
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "1292979514"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-491885323",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.51471858000001,
+          13.728048580000001
+        ]
+      },
+      "properties": {
+        "name": "แวร์เฮาส์ 30",
+        "nameTh": "แวร์เฮาส์ 30",
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "491885323"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1265994092",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50001430588236,
+          13.746829552941175
+        ]
+      },
+      "properties": {
+        "name": "ศาลาเฉลิมกรุง",
+        "nameTh": "ศาลาเฉลิมกรุง",
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "1265994092",
+        "addr:street": "ถนนเจริญกรุง",
+        "addr:housenumber": "66",
+        "phone": "+66 2 224 4499;+66 2 225 8757;+66 2 225 8758;+66 2 623 8148;+66 2 623 8149",
+        "website": "http://www.salachalermkrung.com/",
+        "opening_hours": "Mo-Su 09:00-18:00; PH open"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4840964126",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5151833,
+          13.727054
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์สร้างสรรค์งานออกแบบ",
+        "nameTh": "ศูนย์สร้างสรรค์งานออกแบบ",
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "4840964126",
+        "phone": "+66 2 105 7400 p 213; +66 2 105 7400 p 214; +66 2 105 7441",
+        "website": "https://web.tcdc.or.th/",
+        "opening_hours": "Tu-Su,PH 10:30-21:00; Mo closed",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13359507464",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4986861,
+          13.7525554
+        ]
+      },
+      "properties": {
+        "name": "ศูนย์สังคีตศิลป์",
+        "nameTh": "ศูนย์สังคีตศิลป์",
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "13359507464",
+        "addr:street": "ถนนตะนาว",
+        "addr:housenumber": "391",
+        "website": "https://www.bangkokbank.com/th-TH/About-Us/Corporate-Social-Responsibility/Musical-Art-Center"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3915727336",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5483638,
+          13.7295481
+        ]
+      },
+      "properties": {
+        "name": "หอประชุมพันธมิตรฝรั่งเศส",
+        "nameTh": "หอประชุมพันธมิตรฝรั่งเศส",
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "3915727336"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-331281086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57390421666666,
+          13.767188500000001
+        ]
+      },
+      "properties": {
+        "name": "หอประชุมเล็ก",
+        "nameTh": "หอประชุมเล็ก",
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "331281086"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-331281095",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57375219999999,
+          13.76662937368421
+        ]
+      },
+      "properties": {
+        "name": "หอประชุมใหญ่",
+        "nameTh": "หอประชุมใหญ่",
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "331281095"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-333233964",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50518811999999,
+          13.773212879999999
+        ]
+      },
+      "properties": {
+        "name": "หอวชิราวุธานุสรณ์",
+        "nameTh": "หอวชิราวุธานุสรณ์",
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "333233964"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-158060535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.52961842,
+          13.741617479999999
+        ]
+      },
+      "properties": {
+        "name": "หอศิลป์จามจุรี",
+        "nameTh": "หอศิลป์จามจุรี",
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "158060535"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1434802192",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50277238918916,
+          13.756092162162158
+        ]
+      },
+      "properties": {
+        "name": "หอศิลป์ร่วมสมัยราชดำเนิน",
+        "nameTh": "หอศิลป์ร่วมสมัยราชดำเนิน",
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "1434802192",
+        "addr:street": "ถนนราชดำเนินกลาง",
+        "addr:housenumber": "84",
+        "website": "https://www.rcac84.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-48966995",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.53024526666668,
+          13.746746306666662
+        ]
+      },
+      "properties": {
+        "name": "หอศิลปวัฒนธรรมแห่งกรุงเทพมหานคร",
+        "nameTh": "หอศิลปวัฒนธรรมแห่งกรุงเทพมหานคร",
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "48966995",
+        "addr:street": "ถนนพระราม 1",
+        "addr:housenumber": "939",
+        "phone": "+66 2 214 6630;+66 2 214 6631;+66 2 214 6632;+66 2 214 6633;+66 2 214 6634;+66 2 214 6635;+66 2 214 6636;+66 2 214 6637;+66 2 214 6638",
+        "website": "https://www.bacc.or.th/",
+        "opening_hours": "Tu-Su 10:00-20:00",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2106360383",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5275236,
+          13.738882
+        ]
+      },
+      "properties": {
+        "name": "หอศิลปวิทยนิทรรศน์",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "2106360383"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11031843585",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5317382,
+          13.7398738
+        ]
+      },
+      "properties": {
+        "name": "หอสมุดดนตรี",
+        "nameTh": "หอสมุดดนตรี",
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "11031843585"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-13866552103",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.537695,
+          13.7286287
+        ]
+      },
+      "properties": {
+        "name": "อัฒจันทร์ดุสิตพินี",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "13866552103"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1135380268",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.47004752222225,
+          13.78906677777778
+        ]
+      },
+      "properties": {
+        "name": "อาเหนก ป้าสง",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "1135380268"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3251663438",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5460799,
+          13.744055
+        ]
+      },
+      "properties": {
+        "name": "เอมบาสซี่ ซินิเพล็กซ์",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "3251663438",
+        "opening_hours": "10:00 - 00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10960662789",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5281089,
+          13.7340119
+        ]
+      },
+      "properties": {
+        "name": "เฮ้าส์ สามย่าน",
+        "nameTh": "เฮ้าส์ สามย่าน",
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "10960662789",
+        "addr:street": "ถนนพระรามที่ 4",
+        "addr:housenumber": "944/1",
+        "addr:city": "แขวงวังใหม่",
+        "phone": "+66988690997",
+        "website": "https://www.housesamyan.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-10693793813",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5263199,
+          13.7340024
+        ]
+      },
+      "properties": {
+        "name": "A Katanyu Comedy Club",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "10693793813",
+        "website": "https://www.facebook.com/akatanyu/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1220569021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5148504888889,
+          13.729211566666667
+        ]
+      },
+      "properties": {
+        "name": "ATT 19",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "1220569021",
+        "addr:street": "ซอยเจริญกรุง 30",
+        "addr:housenumber": "19",
+        "phone": "0835555739",
+        "opening_hours": "Mo-Sa 10:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6570646185",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4941654,
+          13.753007
+        ]
+      },
+      "properties": {
+        "name": "Bangkok City Pillar Shrine Theater",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "6570646185",
+        "opening_hours": "Mo-Sa 09:00-15:30; Su 09:00-16:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2156863362",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5033962,
+          13.7041393
+        ]
+      },
+      "properties": {
+        "name": "Calypso Cabaret",
+        "nameTh": "Calypso Cabaret",
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "2156863362",
+        "website": "https://www.calypsocabaret.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6339281873",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5372124,
+          13.761657
+        ]
+      },
+      "properties": {
+        "name": "Century Movie plaza",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "6339281873"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-14100934302",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5117131,
+          13.7588765
+        ]
+      },
+      "properties": {
+        "name": "Chaloem Thani - old theatre",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "14100934302"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4619031091",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4762292,
+          13.7133576
+        ]
+      },
+      "properties": {
+        "name": "Cinema",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "4619031091"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4427559391",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5956421,
+          13.719441
+        ]
+      },
+      "properties": {
+        "name": "GameCafe",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "4427559391"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4431870599",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5953227,
+          13.7159579
+        ]
+      },
+      "properties": {
+        "name": "GameCafe",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "4431870599"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4805058721",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5774609,
+          13.7853949
+        ]
+      },
+      "properties": {
+        "name": "Golden Dome",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "4805058721"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3301457999",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5847581,
+          13.7237612
+        ]
+      },
+      "properties": {
+        "name": "Good Rich Gallery",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "3301457999"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3354527923",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5935033,
+          13.7148357
+        ]
+      },
+      "properties": {
+        "name": "Hof Art Space",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "3354527923"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6437392673",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5791593,
+          13.7471227
+        ]
+      },
+      "properties": {
+        "name": "house RCA",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "6437392673",
+        "description": "the first boutique cinema in town"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12650363497",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5100827,
+          13.7264349
+        ]
+      },
+      "properties": {
+        "name": "icon cineconic",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "12650363497"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6141225188",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4979376,
+          13.7583281
+        ]
+      },
+      "properties": {
+        "name": "Khaosan Comedy Club",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "6141225188",
+        "opening_hours": "Mo-Su 19:00-00:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1700165053",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5354125,
+          13.7459121
+        ]
+      },
+      "properties": {
+        "name": "Krungsri IMAX",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "1700165053"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-5840613086",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5152717,
+          13.7898247
+        ]
+      },
+      "properties": {
+        "name": "Major Cineplex",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "5840613086"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11275228452",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5370125,
+          13.6974178
+        ]
+      },
+      "properties": {
+        "name": "Major Cineplex",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "11275228452"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-6312215885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4760967,
+          13.7777739
+        ]
+      },
+      "properties": {
+        "name": "major cineplexes (5th floor)",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "6312215885"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3731340548",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.569211,
+          13.7660589
+        ]
+      },
+      "properties": {
+        "name": "Major Cineplex Ratchadapisek",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "3731340548",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3752946886",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5168348,
+          13.6619782
+        ]
+      },
+      "properties": {
+        "name": "Major Holiwood",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "3752946886"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3488544730",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5868667,
+          13.7435505
+        ]
+      },
+      "properties": {
+        "name": "M Theatre",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "3488544730"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-7141437085",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4944302,
+          13.7634171
+        ]
+      },
+      "properties": {
+        "name": "Muay Thai Fighting - for FREE",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "7141437085",
+        "opening_hours": "Sa-Su 18:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12648108178",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5477039,
+          13.7261806
+        ]
+      },
+      "properties": {
+        "name": "ONE",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "12648108178"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4802880025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5725411,
+          13.750482
+        ]
+      },
+      "properties": {
+        "name": "Ong Bak Live",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "4802880025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1696984958",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5350396,
+          13.746019
+        ]
+      },
+      "properties": {
+        "name": "Paragon Cineplex",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "1696984958"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4802880024",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5744811,
+          13.8032721
+        ]
+      },
+      "properties": {
+        "name": "Playhouse Magical Cabaret Bangkok",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "4802880024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-11366503569",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5166165,
+          13.7206511
+        ]
+      },
+      "properties": {
+        "name": "Prince theatre",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "11366503569"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-4238888695",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5695591,
+          13.7316433
+        ]
+      },
+      "properties": {
+        "name": "Quartier CineArt",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "4238888695"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-1697106267",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5296611,
+          13.7444266
+        ]
+      },
+      "properties": {
+        "name": "SF Cinema City",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "1697106267",
+        "opening_hours": "Mo-Su,PH 10:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2084098997",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5604047,
+          13.7376219
+        ]
+      },
+      "properties": {
+        "name": "SF Cinema City",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "2084098997"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-2084098996",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5690392,
+          13.7298439
+        ]
+      },
+      "properties": {
+        "name": "SFX Cinema",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "2084098996",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-199925704",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.503546,
+          13.704370419999998
+        ]
+      },
+      "properties": {
+        "name": "Siam Fantasy",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "199925704",
+        "website": "https://siamfantasy.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1373007654",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5326590625,
+          13.732901537499998
+        ]
+      },
+      "properties": {
+        "name": "Snake Handling Show",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "1373007654"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1219293346",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5388637125,
+          13.7180125875
+        ]
+      },
+      "properties": {
+        "name": "SOI SA:M",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "1219293346",
+        "addr:street": "ซอยสวนพลู 3",
+        "addr:housenumber": "588"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-3928970138",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5930929,
+          13.7142008
+        ]
+      },
+      "properties": {
+        "name": "SOL",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "3928970138"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1135410435",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.4710193,
+          13.7895239
+        ]
+      },
+      "properties": {
+        "name": "Spectrum Hall",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "1135410435"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-way-1234946845",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5149666,
+          13.731724116666667
+        ]
+      },
+      "properties": {
+        "name": "Speedy Grandma",
+        "nameTh": "สปีดี้แกรนด์มา",
+        "category": "entertainment",
+        "osmType": "way",
+        "osmId": "1234946845",
+        "addr:street": "ถนนเจริญกรุง",
+        "addr:housenumber": "1038/3",
+        "website": "http://speedygrandma.run"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm-node-12712926160",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5328838,
+          13.7331927
+        ]
+      },
+      "properties": {
+        "name": "Venom Extraction Show",
+        "nameTh": null,
+        "category": "entertainment",
+        "osmType": "node",
+        "osmId": "12712926160"
+      }
+    }
+  ]
+}
