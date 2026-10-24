@@ -298,6 +298,14 @@ button:focus-visible, input:focus, select:focus { outline: 3px solid rgba(142,21
 .search-panel input[type='text'] { width: 100%; min-height: 58px; padding: 14px 18px !important; font-size: 16px; border-radius: 14px !important; }
 .search-panel button[type='submit'] { width: 100%; }
 .travel-shell > :not(.hero-section):not(.search-panel):not(.map-section):not(section) { order: 4; }
+.travel-shell > section:not(.map-section):not(.value-strip) { order: 4; }
+article [style*="background"], article [style*="border"] {
+  background: var(--ocean-accent-soft) !important;
+  color: var(--ocean-primary) !important;
+  border-color: #b8e7f7 !important;
+}
+article [style*="background"] * { color: var(--ocean-primary) !important; }
+article a[style*="background"] { background: var(--ocean-primary) !important; color: #fff !important; }
 
 @media (max-width: 640px) {
   .hero-section { margin: 0 !important; }
