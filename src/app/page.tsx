@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 import dynamic from 'next/dynamic';
 import { RecommendationResponse, RecommendationResultItem } from '@/domain/models';
+import BrandNav from '@/components/BrandNav';
 
 const BangkokMap = dynamic(() => import('@/components/BangkokMap'), { ssr: false });
 
@@ -120,14 +121,7 @@ export default function DiscoveryPage() {
     <main className="travel-shell" style={{ maxWidth: '1120px', margin: '0 auto', padding: '2rem 1rem 4rem' }}>
       {/* Header */}
       <header className="hero-section" style={{ textAlign: 'center', marginBottom: '2.5rem' }}>
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '1rem', marginBottom: '3rem', textAlign: 'left' }}>
-          <div className="brand-mark">Near<span>Trip</span></div>
-          <div style={{ display: 'flex', gap: '0.6rem', flexWrap: 'wrap', justifyContent: 'flex-end' }}>
-            <span className="nav-pill active">ค้นพบใกล้ตัว</span>
-            <Link href="/map" className="nav-pill">แผนที่</Link>
-            <Link href="/places" className="nav-pill">สถานที่ทั้งหมด</Link>
-          </div>
-        </div>
+        <BrandNav />
         <div className="eyebrow">REAL-TIME EXPERIENCE FINDER · BANGKOK</div>
         <h1 style={{ fontSize: 'clamp(2.2rem, 6vw, 4.4rem)', lineHeight: 1.05, fontWeight: 800, color: '#f8fafc', marginBottom: '0.8rem', letterSpacing: '-0.04em' }}>
           ใช้เวลาว่างให้คุ้ม<br /><span style={{ color: '#fb7185' }}>เริ่มจากใกล้ตัว</span>

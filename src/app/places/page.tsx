@@ -3,6 +3,7 @@
 import React from 'react';
 import dynamic from 'next/dynamic';
 import Link from 'next/link';
+import BrandNav from '@/components/BrandNav';
 
 // Dynamically import the map component to avoid SSR issues
 const OSMPlacesMap = dynamic(() => import('@/components/OSMPlacesMap'), {
@@ -30,6 +31,7 @@ const OSMPlacesMap = dynamic(() => import('@/components/OSMPlacesMap'), {
 export default function PlacesPage() {
   return (
     <main className="secondary-page" style={{ maxWidth: '1400px', margin: '0 auto', padding: '2rem 1rem' }}>
+      <BrandNav active="places" />
       {/* Header */}
       <header style={{ marginBottom: '2rem' }}>
         <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', marginBottom: '1rem', flexWrap: 'wrap' }}>
