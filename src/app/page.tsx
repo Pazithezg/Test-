@@ -122,18 +122,18 @@ export default function DiscoveryPage() {
       {/* Header */}
       <header className="hero-section" style={{ textAlign: 'center', marginBottom: '2.5rem' }}>
         <BrandNav />
-        <div className="eyebrow">REAL-TIME EXPERIENCE FINDER · BANGKOK</div>
+        <div className="eyebrow">NEARBY DISCOVERY · THAILAND</div>
         <h1 style={{ fontSize: 'clamp(2.2rem, 6vw, 4.4rem)', lineHeight: 1.05, fontWeight: 800, color: '#f8fafc', marginBottom: '0.8rem', letterSpacing: '-0.04em' }}>
-          ใช้เวลาว่างให้คุ้ม<br /><span style={{ color: '#fb7185' }}>เริ่มจากใกล้ตัว</span>
+          ใกล้ไหน ไปที่นั่น
         </h1>
         <p style={{ color: '#94a3b8', fontSize: '1.05rem', marginBottom: '1rem' }}>
-          พิมพ์ความรู้สึกหรือสิ่งที่อยากทำ แล้วดูประสบการณ์ที่เกิดขึ้นได้จริงตอนนี้
+          ค้นพบสถานที่ใกล้คุณ ประหยัดเวลาวางแผน
         </p>
-        <div style={{ background: '#1e293b', padding: '0.5rem 1rem', borderRadius: '8px', marginBottom: '1rem', display: 'inline-block', border: '1px solid #334155' }}>
+        <div className="hero-data-note" style={{ background: '#1e293b', padding: '0.5rem 1rem', borderRadius: '8px', marginBottom: '1rem', display: 'inline-block', border: '1px solid #334155' }}>
           <span style={{ color: '#fbbf24', fontWeight: 600 }}>✦ 12,207 จุดในกรุงเทพฯ</span>
           <span style={{ color: '#94a3b8', marginLeft: '0.5rem' }}>สถานที่ · กิจกรรม · อีเวนต์</span>
         </div>
-        <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
+        <div className="hero-actions" style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
           <a
             href="#discover"
             style={{

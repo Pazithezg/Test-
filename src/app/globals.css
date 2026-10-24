@@ -267,3 +267,40 @@ body { background: var(--ocean-page); color: var(--ocean-text); }
 .value-strip span { color: var(--ocean-muted); }
 .secondary-page a { background: var(--ocean-accent-soft) !important; color: var(--ocean-primary) !important; border-color: #b8e7f7 !important; }
 button:focus-visible, input:focus, select:focus { outline: 3px solid rgba(142,216,248,.65); outline-offset: 2px; }
+
+/* Nearby-first home layout, matching the compact reference direction. */
+.travel-shell { display: flex; flex-direction: column; padding-top: 8px !important; }
+.hero-section {
+  order: 1; min-height: 0; padding: 16px 16px 18px; border-radius: 18px;
+  background: #f5f8fc !important; box-shadow: 0 8px 24px rgba(24,59,86,.12) !important;
+}
+.hero-section::before, .hero-section::after { display: none; }
+.hero-section h1 { color: var(--ocean-primary) !important; font-size: clamp(2rem, 5vw, 3rem) !important; text-align: left !important; margin: 10px 0 2px !important; }
+.hero-section > p { text-align: left !important; color: var(--ocean-muted) !important; font-size: .95rem !important; margin-bottom: 0 !important; }
+.hero-section .eyebrow, .hero-data-note, .hero-actions, .value-strip { display: none !important; }
+.hero-section .brand-nav { background: transparent; border: 0; box-shadow: none; padding: 0; }
+.hero-section .brand-nav::before { content: '⌖'; display: grid; place-items: center; width: 48px; height: 48px; margin-right: 10px; border-radius: 14px; background: var(--ocean-primary); color: white; font-size: 28px; }
+.hero-section .brand-mark { display: none; }
+.hero-section .brand-nav-links { display: none; }
+.hero-section .brand-nav-cta { margin-left: auto; width: 42px; height: 42px; padding: 0; border: 2px solid var(--ocean-secondary); background: transparent; color: var(--ocean-secondary); font-size: 0; }
+.hero-section .brand-nav-cta::after { content: '⌖'; font-size: 23px; }
+.map-section { order: 3; margin-top: 0 !important; padding: 0 0 18px; }
+.map-section > h2 { font-size: 1.55rem; margin: 10px 0 4px; padding-left: 0; }
+.map-section > p { display: none; }
+.map-section > div { background: var(--ocean-accent-soft) !important; border: 1px solid #b8e7f7 !important; border-radius: 16px !important; box-shadow: none !important; }
+.search-panel { order: 2; margin: 0 0 20px !important; padding: 16px !important; border-radius: 16px !important; }
+.search-panel > div { display: block !important; }
+.search-panel > div > div { margin-bottom: 14px; }
+.search-panel > div > div:first-child { display: none; }
+.search-panel > div > div:nth-child(2), .search-panel > div > div:nth-child(4) { display: none !important; }
+.search-panel label { font-size: 0 !important; }
+.search-panel label::after { content: 'อยากไปไหน หรืออยากทำอะไร?'; font-size: 16px; color: var(--ocean-muted); }
+.search-panel input[type='text'] { width: 100%; min-height: 58px; padding: 14px 18px !important; font-size: 16px; border-radius: 14px !important; }
+.search-panel button[type='submit'] { width: 100%; }
+.travel-shell > :not(.hero-section):not(.search-panel):not(.map-section):not(section) { order: 4; }
+
+@media (max-width: 640px) {
+  .hero-section { margin: 0 !important; }
+  .hero-section h1 { font-size: 2rem !important; }
+  .search-panel { padding: 14px !important; }
+}
