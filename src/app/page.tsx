@@ -11,9 +11,7 @@ export default function DiscoveryPage() {
   const [useGps, setUseGps] = useState(false);
   const [coords, setCoords] = useState<{ lat: number; lng: number } | null>(null);
   const [intentText, setIntentText] = useState('เบื่อ อยากออกไปทำอะไรกับเพื่อน');
-  const [mood, setMood] = useState('อยากเปลี่ยนบรรยากาศ ชิลๆ หาแรงบันดาลใจ');
   const [budgetTHB, setBudgetTHB] = useState<number | ''>(300);
-  const [companions, setCompanions] = useState('friends');
   const [pinnedCoords, setPinnedCoords] = useState<{ lat: number; lng: number } | null>(null);
 
   // Free time state (ตามที่ user เน้นย้ำ)
@@ -55,11 +53,9 @@ export default function DiscoveryPage() {
       }
       const payload: any = {
         location: pinnedCoords || (useGps && coords)
-          ? { mode: 'coordinates', latitude: (pinnedCoords || coords)!.lat, longitude: (pinnedCoords || coords)!.lng, radiusKm: 10000 }
-          : { mode: 'coordinates', latitude: (pinnedCoords || coords)!.lat, longitude: (pinnedCoords || coords)!.lng, radiusKm: 10000 },
+          ? { mode: 'coordinates', latitude: (pinnedCoords || coords)!.lat, longitude: (pinnedCoords || coords)!.lng }
+          : { mode: 'coordinates', latitude: (pinnedCoords || coords)!.lat, longitude: (pinnedCoords || coords)!.lng },
         intentText,
-        mood,
-        companions,
         budgetTHB: budgetTHB === '' ? undefined : Number(budgetTHB),
       };
 
@@ -121,18 +117,19 @@ export default function DiscoveryPage() {
   };
 
   return (
-    <main style={{ maxWidth: '1000px', margin: '0 auto', padding: '2rem 1rem' }}>
+    <main className="travel-shell" style={{ maxWidth: '1120px', margin: '0 auto', padding: '2rem 1rem 4rem' }}>
       {/* Header */}
       <header style={{ textAlign: 'center', marginBottom: '2.5rem' }}>
-        <h1 style={{ fontSize: '2.2rem', fontWeight: 700, color: '#38bdf8', marginBottom: '0.5rem' }}>
-          ค้นหากิจกรรมและที่เที่ยวกรุงเทพฯ
+        <div className="eyebrow">BANGKOK · DISCOVER NEARBY</div>
+        <h1 style={{ fontSize: 'clamp(2.2rem, 6vw, 4.4rem)', lineHeight: 1.05, fontWeight: 800, color: '#f8fafc', marginBottom: '0.8rem', letterSpacing: '-0.04em' }}>
+          วันนี้อยากไปไหน<br /><span style={{ color: '#7dd3fc' }}>ใกล้ตัวคุณ</span>
         </h1>
         <p style={{ color: '#94a3b8', fontSize: '1.05rem', marginBottom: '1rem' }}>
-          ระบบจับคู่กิจกรรมจริงและนิทรรศการตามเวลาว่าง อารมณ์ และงบประมาณของคุณ (Bangkok Travel Discovery)
+          ปักหมุดแล้วค้นพบสถานที่และอีเวนต์ใกล้ตัว เรียงจากใกล้ไปไกล
         </p>
         <div style={{ background: '#1e293b', padding: '0.5rem 1rem', borderRadius: '8px', marginBottom: '1rem', display: 'inline-block', border: '1px solid #334155' }}>
           <span style={{ color: '#10b981', fontWeight: 600 }}>📊 ข้อมูล: 12,207 สถานที่จริง</span>
-          <span style={{ color: '#64748b', marginLeft: '0.5rem' }}>+ ค้นพบอีเวนต์สดผ่าน AI</span>
+          <span style={{ color: '#64748b', marginLeft: '0.5rem' }}>ข้อมูลกรุงเทพฯ • ไม่ต้องใช้ AI</span>
         </div>
         <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
           <Link
@@ -343,27 +340,6 @@ export default function DiscoveryPage() {
             />
           </div>
 
-          {/* Mood / Experience */}
-          <div>
-            <label style={{ display: 'block', fontWeight: 600, marginBottom: '0.5rem', color: '#e2e8f0' }}>
-              ✨ อารมณ์ / บรรยากาศที่ต้องการ (Mood)
-            </label>
-            <input
-              type="text"
-              value={mood}
-              onChange={(e) => setMood(e.target.value)}
-              placeholder="เช่น อยากเปลี่ยนบรรยากาศ, ผ่อนคลาย, ตื่นเต้น"
-              style={{
-                width: '100%',
-                padding: '0.75rem',
-                borderRadius: '8px',
-                background: '#0f172a',
-                color: '#fff',
-                border: '1px solid #475569',
-              }}
-            />
-          </div>
-
           {/* Budget */}
           <div>
             <label style={{ display: 'block', fontWeight: 600, marginBottom: '0.5rem', color: '#e2e8f0' }}>
@@ -385,29 +361,6 @@ export default function DiscoveryPage() {
             />
           </div>
 
-          {/* Companions */}
-          <div>
-            <label style={{ display: 'block', fontWeight: 600, marginBottom: '0.5rem', color: '#e2e8f0' }}>
-              👥 ไปกับใคร
-            </label>
-            <select
-              value={companions}
-              onChange={(e) => setCompanions(e.target.value)}
-              style={{
-                width: '100%',
-                padding: '0.75rem',
-                borderRadius: '8px',
-                background: '#0f172a',
-                color: '#fff',
-                border: '1px solid #475569',
-              }}
-            >
-              <option value="friends">ไปกับเพื่อน (Friends)</option>
-              <option value="couple">ไปกับแฟน / เดท (Couple)</option>
-              <option value="solo">ไปคนเดียว ชิลๆ (Solo)</option>
-              <option value="family">ครอบครัว / พาเด็กๆ ไป (Family)</option>
-            </select>
-          </div>
         </div>
 
         {/* Submit button */}
