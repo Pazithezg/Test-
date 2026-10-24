@@ -32,7 +32,7 @@ export async function fetchPublicCalendarEvents(source: WebCalendarSource): Prom
       const raw = block.replace(/^.*?>|<\/script>$/gis, '').trim();
       try {
         const parsed = JSON.parse(raw);
-        const values = Array.isArray(parsed) ? parsed : parsed?.['@graph'] || [parsed];
+        const values: any[] = Array.isArray(parsed) ? parsed : parsed?.['@graph'] || [parsed];
         events.push(...values.filter((item) => item?.['@type'] === 'Event' || item?.eventType));
       } catch {
         // One malformed card must not break the complete source sync.
