@@ -26,6 +26,48 @@ body {
   margin-bottom: 0.8rem;
 }
 
+.brand-mark {
+  color: #f8fafc;
+  font-size: 1.45rem;
+  font-weight: 850;
+  letter-spacing: -0.06em;
+}
+
+.brand-mark span { color: #fb7185; }
+
+.nav-pill {
+  color: #cbd5e1;
+  border: 1px solid #334155;
+  border-radius: 999px;
+  padding: 0.35rem 0.8rem;
+  font-size: 0.8rem;
+  text-decoration: none;
+  background: rgba(15, 23, 42, 0.45);
+}
+
+.nav-pill:hover, .nav-pill.active {
+  color: #fff;
+  border-color: #fb7185;
+  text-decoration: none;
+}
+
+.value-strip {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  margin: 0 auto 2.5rem;
+  border: 1px solid #25364d;
+  border-radius: 18px;
+  overflow: hidden;
+  background: #25364d;
+}
+
+.value-strip > div { padding: 1.1rem 1.2rem; background: rgba(15, 23, 42, 0.72); }
+.value-strip strong { display: block; color: #fb7185; font-size: 0.75rem; letter-spacing: 0.08em; margin-bottom: 0.3rem; }
+.value-strip span { color: #cbd5e1; font-size: 0.9rem; }
+
+@media (max-width: 720px) { .value-strip { grid-template-columns: 1fr; } }
+
 button, input, select {
   transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
 }

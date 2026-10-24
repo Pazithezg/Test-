@@ -120,20 +120,28 @@ export default function DiscoveryPage() {
     <main className="travel-shell" style={{ maxWidth: '1120px', margin: '0 auto', padding: '2rem 1rem 4rem' }}>
       {/* Header */}
       <header style={{ textAlign: 'center', marginBottom: '2.5rem' }}>
-        <div className="eyebrow">BANGKOK · DISCOVER NEARBY</div>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '1rem', marginBottom: '3rem', textAlign: 'left' }}>
+          <div className="brand-mark">spidersa<span>.</span></div>
+          <div style={{ display: 'flex', gap: '0.6rem', flexWrap: 'wrap', justifyContent: 'flex-end' }}>
+            <span className="nav-pill active">ค้นพบใกล้ตัว</span>
+            <Link href="/map" className="nav-pill">แผนที่</Link>
+            <Link href="/places" className="nav-pill">สถานที่ทั้งหมด</Link>
+          </div>
+        </div>
+        <div className="eyebrow">REAL-TIME EXPERIENCE FINDER · BANGKOK</div>
         <h1 style={{ fontSize: 'clamp(2.2rem, 6vw, 4.4rem)', lineHeight: 1.05, fontWeight: 800, color: '#f8fafc', marginBottom: '0.8rem', letterSpacing: '-0.04em' }}>
-          วันนี้อยากไปไหน<br /><span style={{ color: '#7dd3fc' }}>ใกล้ตัวคุณ</span>
+          ใช้เวลาว่างให้คุ้ม<br /><span style={{ color: '#fb7185' }}>เริ่มจากใกล้ตัว</span>
         </h1>
         <p style={{ color: '#94a3b8', fontSize: '1.05rem', marginBottom: '1rem' }}>
-          ปักหมุดแล้วค้นพบสถานที่และอีเวนต์ใกล้ตัว เรียงจากใกล้ไปไกล
+          พิมพ์ความรู้สึกหรือสิ่งที่อยากทำ แล้วดูประสบการณ์ที่เกิดขึ้นได้จริงตอนนี้
         </p>
         <div style={{ background: '#1e293b', padding: '0.5rem 1rem', borderRadius: '8px', marginBottom: '1rem', display: 'inline-block', border: '1px solid #334155' }}>
-          <span style={{ color: '#10b981', fontWeight: 600 }}>📊 ข้อมูล: 12,207 สถานที่จริง</span>
-          <span style={{ color: '#64748b', marginLeft: '0.5rem' }}>ข้อมูลกรุงเทพฯ • ไม่ต้องใช้ AI</span>
+          <span style={{ color: '#fbbf24', fontWeight: 600 }}>✦ 12,207 จุดในกรุงเทพฯ</span>
+          <span style={{ color: '#94a3b8', marginLeft: '0.5rem' }}>สถานที่ · กิจกรรม · อีเวนต์</span>
         </div>
         <div style={{ display: 'flex', gap: '0.75rem', justifyContent: 'center', flexWrap: 'wrap' }}>
-          <Link
-            href="/map"
+          <a
+            href="#discover"
             style={{
               display: 'inline-flex',
               alignItems: 'center',
@@ -147,10 +155,10 @@ export default function DiscoveryPage() {
               border: '1px solid #475569',
             }}
           >
-            🗺️ แผนที่พื้นฐาน
-          </Link>
+            ↓ เริ่มค้นพบ
+          </a>
           <Link
-            href="/places"
+            href="/map"
             style={{
               display: 'inline-flex',
               alignItems: 'center',
@@ -164,15 +172,21 @@ export default function DiscoveryPage() {
               boxShadow: '0 4px 15px rgba(2, 132, 199, 0.4)',
             }}
           >
-            🏙️ สถานที่จริง 12,207 แห่ง
+            🗺️ เปิดแผนที่
           </Link>
         </div>
       </header>
 
+      <section className="value-strip" aria-label="จุดเด่นของ spidersa">
+        <div><strong>01 · ค้นพบ</strong><span>ไม่ต้องรู้ว่าจะไปไหน แค่บอกความรู้สึก</span></div>
+        <div><strong>02 · ใช้เวลา</strong><span>เห็นสิ่งที่ทำได้จริงใกล้คุณ เรียงตามระยะทาง</span></div>
+        <div><strong>03 · ไปต่อ</strong><span>กิจกรรมที่จองได้จะส่งต่อไปยังผู้จัดโดยตรง</span></div>
+      </section>
+
       {/* Search Form */}
-      <section style={{ marginBottom: '2rem' }}>
-        <h2 style={{ color: '#e2e8f0', marginBottom: '0.75rem' }}>📍 ปักหมุดจุดเริ่มต้น</h2>
-        <p style={{ color: '#94a3b8', marginBottom: '0.75rem' }}>คลิกหรือเลื่อนหมุดบนแผนที่ แล้วค้นหาสถานที่ใกล้จุดนี้ได้ทันที</p>
+      <section id="discover" style={{ marginBottom: '2rem' }}>
+        <h2 style={{ color: '#e2e8f0', marginBottom: '0.75rem' }}>เริ่มจากจุดที่คุณอยู่</h2>
+        <p style={{ color: '#94a3b8', marginBottom: '0.75rem' }}>ปักหมุดหรือใช้ GPS แล้วให้ spidersa หาอะไรที่ทำได้รอบตัวคุณ</p>
         <BangkokMap
           height="360px"
           onLocationSelect={(lat, lng) => {
@@ -321,14 +335,14 @@ export default function DiscoveryPage() {
           {/* User intent */}
           <div style={{ gridColumn: 'span 2' }}>
             <label style={{ display: 'block', fontWeight: 600, marginBottom: '0.5rem', color: '#e2e8f0' }}>
-              💬 บอกสิ่งที่คุณอยากทำด้วยภาษาธรรมชาติ
+              ✦ วันนี้คุณอยากใช้เวลาแบบไหน?
             </label>
             
             <input
               type="text"
               value={intentText}
               onChange={(e) => setIntentText(e.target.value)}
-              placeholder="เช่น เบื่อ อยากออกไปเดินเล่นชิลๆ ฟังดนตรีสด หรือดูงานศิลปะ"
+              placeholder="เช่น เหนื่อย อยากหาคาเฟ่เงียบๆ หรืออยากออกกำลังกายใกล้ฉัน"
               style={{
                 width: '100%',
                 padding: '0.75rem',
@@ -343,7 +357,7 @@ export default function DiscoveryPage() {
           {/* Budget */}
           <div>
             <label style={{ display: 'block', fontWeight: 600, marginBottom: '0.5rem', color: '#e2e8f0' }}>
-              💵 งบประมาณ (บาท)
+              💵 งบกิจกรรมสูงสุด (บาท)
             </label>
             <input
               type="number"
@@ -381,7 +395,7 @@ export default function DiscoveryPage() {
               transition: 'all 0.2s',
             }}
           >
-            {loading ? '⏳ กำลังวิเคราะห์ความต้องการและตรวจสอบข้อมูล...' : '🔍 ค้นหากิจกรรมที่เหมาะกับคุณ'}
+            {loading ? '⏳ กำลังค้นหาสิ่งที่ทำได้ใกล้คุณ...' : 'ค้นพบสิ่งที่ทำได้ตอนนี้ →'}
           </button>
         </div>
       </form>
@@ -436,9 +450,7 @@ export default function DiscoveryPage() {
                 borderRadius: '4px',
                 fontSize: '0.8rem'
               }}>
-                🤖 {response.metadata?.aiProvider === 'deterministic_rule_engine' ? 'Rule Engine' : 
-                    response.metadata?.aiProvider === 'groq_ai' ? 'Groq AI' : 
-                    response.metadata?.aiProvider === 'google_gemini' ? 'Gemini AI' : 'AI'}
+                ✦ ค้นหาจากข้อมูลสถานที่จริง
               </span>
             </div>
           </div>
