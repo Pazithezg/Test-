@@ -10,8 +10,13 @@ export function getAiService(): IAiService {
     return aiServiceInstance;
   }
 
-  // Groq is preferred for fast intent parsing and explanations. If Gemini is
-  // also configured, it supplies Google Search grounding for live events.
+  // Keep the core product local-first. External AI is opt-in only.
+  if (process.env.USE_EXTERNAL_AI !== 'true') {
+    aiServiceInstance = new RuleBasedAiService();
+    return aiServiceInstance;
+  }
+
+  // Groq is preferred when external AI is explicitly enabled.
   const groqKey = process.env.GROQ_API_KEY;
   if (groqKey && groqKey.trim() !== '') {
     aiServiceInstance = new GroqAiService(groqKey.trim());

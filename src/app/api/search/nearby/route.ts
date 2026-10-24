@@ -25,7 +25,7 @@ export const dynamic = 'force-dynamic';
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
-    const { latitude, longitude, radiusKm = 999, query, mood } = body;
+    const { latitude, longitude, query, mood } = body;
 
     if (latitude === undefined || longitude === undefined) {
       return NextResponse.json(
@@ -63,7 +63,7 @@ export async function POST(request: NextRequest) {
           distanceLabel: distance !== null ? `${distance} km away` : 'Unknown distance'
         };
       })
-      .filter(p => p.distance !== null && p.distance <= radiusKm);
+      .filter(p => p.distance !== null);
 
     // 3. Filter by categories (from intent or mood)
     if (targetCategories.length > 0) {
@@ -82,7 +82,7 @@ export async function POST(request: NextRequest) {
     }
 
     // 4. Sort by distance (closest first)
-    results.sort((a, b) => (a.distance || 0) - (b.distance || 0));
+    results.sort((a, b) => (a.distance ?? Number.POSITIVE_INFINITY) - (b.distance ?? Number.POSITIVE_INFINITY));
 
     return NextResponse.json({
       results: results.slice(0, 50),

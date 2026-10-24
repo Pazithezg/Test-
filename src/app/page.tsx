@@ -14,7 +14,6 @@ export default function DiscoveryPage() {
   const [mood, setMood] = useState('อยากเปลี่ยนบรรยากาศ ชิลๆ หาแรงบันดาลใจ');
   const [budgetTHB, setBudgetTHB] = useState<number | ''>(300);
   const [companions, setCompanions] = useState('friends');
-  const [radiusKm, setRadiusKm] = useState(8);
   const [pinnedCoords, setPinnedCoords] = useState<{ lat: number; lng: number } | null>(null);
 
   // Free time state (ตามที่ user เน้นย้ำ)
@@ -56,8 +55,8 @@ export default function DiscoveryPage() {
       }
       const payload: any = {
         location: pinnedCoords || (useGps && coords)
-          ? { mode: 'coordinates', latitude: (pinnedCoords || coords)!.lat, longitude: (pinnedCoords || coords)!.lng, radiusKm }
-          : { mode: 'coordinates', latitude: (pinnedCoords || coords)!.lat, longitude: (pinnedCoords || coords)!.lng, radiusKm },
+          ? { mode: 'coordinates', latitude: (pinnedCoords || coords)!.lat, longitude: (pinnedCoords || coords)!.lng, radiusKm: 10000 }
+          : { mode: 'coordinates', latitude: (pinnedCoords || coords)!.lat, longitude: (pinnedCoords || coords)!.lng, radiusKm: 10000 },
         intentText,
         mood,
         companions,
@@ -83,7 +82,13 @@ export default function DiscoveryPage() {
         body: JSON.stringify(payload),
       });
 
-      const data = await res.json();
+      const raw = await res.text();
+      let data: any = {};
+      try {
+        data = raw ? JSON.parse(raw) : {};
+      } catch {
+        throw new Error(`เซิร์ฟเวอร์ตอบกลับไม่ใช่ JSON (${res.status})`);
+      }
       if (!res.ok) {
         throw new Error(data.message || 'เกิดข้อผิดพลาดในการค้นหา');
       }
@@ -256,21 +261,6 @@ export default function DiscoveryPage() {
                 </button>
               )}
             </div>
-          </div>
-
-          {/* Search Radius */}
-          <div>
-            <label style={{ display: 'block', fontWeight: 600, marginBottom: '0.5rem', color: '#e2e8f0' }}>
-              🎯 รัศมีการค้นหา (กม.)
-            </label>
-            <input
-              type="number"
-              min={0.1}
-              step="any"
-              value={radiusKm}
-              onChange={(e) => setRadiusKm(Number(e.target.value))}
-              style={{ width: '100%', marginTop: '0.5rem' }}
-            />
           </div>
 
           {/* Free time / Available hours */}
