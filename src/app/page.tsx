@@ -119,7 +119,7 @@ export default function DiscoveryPage() {
   return (
     <main className="travel-shell" style={{ maxWidth: '1120px', margin: '0 auto', padding: '2rem 1rem 4rem' }}>
       {/* Header */}
-      <header style={{ textAlign: 'center', marginBottom: '2.5rem' }}>
+      <header className="hero-section" style={{ textAlign: 'center', marginBottom: '2.5rem' }}>
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '1rem', marginBottom: '3rem', textAlign: 'left' }}>
           <div className="brand-mark">spidersa<span>.</span></div>
           <div style={{ display: 'flex', gap: '0.6rem', flexWrap: 'wrap', justifyContent: 'flex-end' }}>
@@ -184,7 +184,7 @@ export default function DiscoveryPage() {
       </section>
 
       {/* Search Form */}
-      <section id="discover" style={{ marginBottom: '2rem' }}>
+      <section id="discover" className="map-section" style={{ marginBottom: '2rem' }}>
         <h2 style={{ color: '#e2e8f0', marginBottom: '0.75rem' }}>เริ่มจากจุดที่คุณอยู่</h2>
         <p style={{ color: '#94a3b8', marginBottom: '0.75rem' }}>ปักหมุดหรือใช้ GPS แล้วให้ spidersa หาอะไรที่ทำได้รอบตัวคุณ</p>
         <BangkokMap
@@ -198,6 +198,7 @@ export default function DiscoveryPage() {
       </section>
       <form
         onSubmit={handleSearch}
+        className="search-panel"
         style={{
           background: '#1e293b',
           borderRadius: '16px',
