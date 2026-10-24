@@ -229,3 +229,41 @@ a:hover {
 input, select, textarea, button {
   font-family: inherit;
 }
+
+/* Final Ocean Blue system: keep all shared components on one visual contract. */
+:root {
+  --ocean-primary: #183b56;
+  --ocean-primary-hover: #244e70;
+  --ocean-secondary: #36769b;
+  --ocean-accent: #8ed8f8;
+  --ocean-accent-soft: #e6f5fc;
+  --ocean-page: #f5f8fc;
+  --ocean-surface: #ffffff;
+  --ocean-text: #172b3a;
+  --ocean-muted: #617487;
+  --ocean-border: #dfe8ef;
+  --ocean-shadow: 0 10px 30px rgba(24, 59, 86, 0.08);
+}
+
+body { background: var(--ocean-page); color: var(--ocean-text); }
+.hero-section { background: var(--ocean-primary); background-image: linear-gradient(135deg, rgba(24,59,86,.98), rgba(54,118,155,.9)); box-shadow: 0 18px 40px rgba(24,59,86,.14); }
+.brand-nav { background: rgba(255,255,255,.92); border-color: var(--ocean-border); box-shadow: 0 6px 18px rgba(24,59,86,.08); }
+.brand-mark { color: var(--ocean-primary); }
+.brand-mark span { color: var(--ocean-secondary); }
+.brand-nav-links a { color: var(--ocean-muted); }
+.brand-nav-links a:hover, .brand-nav-links a.active { color: var(--ocean-primary); }
+.brand-nav-cta { background: var(--ocean-primary); color: #fff; }
+.brand-nav-cta:hover { background: var(--ocean-primary-hover); color: #fff; }
+.eyebrow { color: var(--ocean-accent); }
+.search-panel, article, .secondary-page section { background: var(--ocean-surface) !important; border-color: var(--ocean-border) !important; box-shadow: var(--ocean-shadow) !important; }
+.search-panel input, .search-panel select, .secondary-page input, .secondary-page select { background: var(--ocean-page) !important; color: var(--ocean-text) !important; border-color: var(--ocean-border) !important; }
+.search-panel button[type='submit'] { background: var(--ocean-primary) !important; box-shadow: 0 8px 18px rgba(24,59,86,.18) !important; }
+.search-panel button[type='submit']:hover { background: var(--ocean-primary-hover) !important; }
+.map-section > h2, .secondary-page h1, .secondary-page h2, .secondary-page h3, article h3 { color: var(--ocean-text) !important; }
+.map-section > p, .secondary-page p, article p { color: var(--ocean-muted) !important; }
+.value-strip { background: var(--ocean-border); border-color: var(--ocean-border); }
+.value-strip > div { background: var(--ocean-surface); }
+.value-strip strong { color: var(--ocean-secondary); }
+.value-strip span { color: var(--ocean-muted); }
+.secondary-page a { background: var(--ocean-accent-soft) !important; color: var(--ocean-primary) !important; border-color: #b8e7f7 !important; }
+button:focus-visible, input:focus, select:focus { outline: 3px solid rgba(142,216,248,.65); outline-offset: 2px; }
