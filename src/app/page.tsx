@@ -411,7 +411,7 @@ export default function DiscoveryPage() {
 
       {/* Results Section */}
       {response && (
-        <section>
+        <section className="results-section">
           {/* Intent interpretation box */}
           <div
             style={{

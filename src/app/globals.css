@@ -306,6 +306,12 @@ article [style*="background"], article [style*="border"] {
 }
 article [style*="background"] * { color: var(--ocean-primary) !important; }
 article a[style*="background"] { background: var(--ocean-primary) !important; color: #fff !important; }
+.results-section > div > h2,
+.results-section > section h2,
+.results-section h2:not([style*="background"]),
+.results-section h3 { color: var(--ocean-primary) !important; }
+.results-section > div > p,
+.results-section p { color: var(--ocean-muted) !important; }
 
 @media (max-width: 640px) {
   .hero-section { margin: 0 !important; }
