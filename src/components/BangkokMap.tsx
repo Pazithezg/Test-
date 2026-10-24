@@ -79,8 +79,8 @@ export default function BangkokMap({
           height,
           borderRadius: '12px',
           overflow: 'hidden',
-          border: '2px solid #334155',
-          boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.3)',
+          border: '2px solid #b8e7f7',
+          boxShadow: '0 4px 12px rgba(24, 59, 86, 0.08)',
         }}
       >
         <MapContainer
@@ -105,19 +105,19 @@ export default function BangkokMap({
             position: 'absolute',
             top: '16px',
             right: '16px',
-            background: 'rgba(15, 23, 42, 0.95)',
-            border: '1px solid #38bdf8',
+            background: '#e6f5fc',
+            border: '1px solid #8ed8f8',
             borderRadius: '8px',
             padding: '0.75rem 1rem',
-            boxShadow: '0 4px 12px rgba(0, 0, 0, 0.4)',
+            boxShadow: '0 4px 12px rgba(24, 59, 86, 0.12)',
             zIndex: 1000,
             minWidth: '220px',
           }}
         >
-          <div style={{ fontSize: '0.85rem', color: '#38bdf8', fontWeight: 600, marginBottom: '0.3rem' }}>
+          <div style={{ fontSize: '0.85rem', color: '#183b56', fontWeight: 600, marginBottom: '0.3rem' }}>
             📍 พิกัดที่เลือก
           </div>
-          <div style={{ fontSize: '0.8rem', color: '#e2e8f0', fontFamily: 'monospace' }}>
+          <div style={{ fontSize: '0.8rem', color: '#36769b', fontFamily: 'monospace' }}>
             <div>Lat: {selectedCoords.lat.toFixed(6)}</div>
             <div>Lng: {selectedCoords.lng.toFixed(6)}</div>
           </div>
@@ -129,14 +129,14 @@ export default function BangkokMap({
         style={{
           marginTop: '0.75rem',
           padding: '0.75rem',
-          background: '#0f172a',
+          background: '#e6f5fc',
           borderRadius: '8px',
-          border: '1px solid #334155',
+          border: '1px solid #b8e7f7',
           fontSize: '0.85rem',
-          color: '#94a3b8',
+          color: '#617487',
         }}
       >
-        <strong style={{ color: '#38bdf8' }}>💡 วิธีใช้งาน:</strong>
+        <strong style={{ color: '#183b56' }}>💡 วิธีใช้งาน:</strong>
         <ul style={{ marginLeft: '1.2rem', marginTop: '0.3rem', lineHeight: 1.5 }}>
           <li>คลิกที่แผนที่เพื่อเลือกตำแหน่ง</li>
           <li>ใช้ปุ่ม + / - หรือ scroll เพื่อซูมเข้า/ออก</li>

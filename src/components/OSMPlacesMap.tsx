@@ -226,8 +226,8 @@ export default function OSMPlacesMap({
           height,
           borderRadius: '12px',
           overflow: 'hidden',
-          border: '2px solid #334155',
-          boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.3)',
+          border: '2px solid #b8e7f7',
+          boxShadow: '0 4px 12px rgba(24, 59, 86, 0.08)',
           position: 'relative',
         }}
       >
@@ -239,14 +239,14 @@ export default function OSMPlacesMap({
               left: 0,
               right: 0,
               bottom: 0,
-              background: 'rgba(15, 23, 42, 0.9)',
+              background: 'rgba(230, 245, 252, 0.92)',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
               zIndex: 1000,
             }}
           >
-            <div style={{ textAlign: 'center', color: '#38bdf8' }}>
+            <div style={{ textAlign: 'center', color: '#183b56' }}>
               <div style={{ fontSize: '2rem', marginBottom: '0.5rem' }}>⏳</div>
               <div>กำลังโหลดข้อมูล {selectedCategories.length} หมวดหมู่...</div>
             </div>
@@ -273,14 +273,14 @@ export default function OSMPlacesMap({
         style={{
           marginTop: '1rem',
           padding: '0.75rem',
-          background: '#0f172a',
+          background: '#e6f5fc',
           borderRadius: '8px',
-          border: '1px solid #334155',
+          border: '1px solid #b8e7f7',
           fontSize: '0.85rem',
-          color: '#94a3b8',
+          color: '#617487',
         }}
       >
-        <strong style={{ color: '#38bdf8' }}>ℹ️ ข้อมูลสถานที่:</strong>
+        <strong style={{ color: '#183b56' }}>ℹ️ ข้อมูลสถานที่:</strong>
         <ul style={{ marginLeft: '1.2rem', marginTop: '0.3rem', lineHeight: 1.5 }}>
           <li>แหล่งข้อมูล: OpenStreetMap (ดาวน์โหลดวันที่ 23 ตุลาคม 2026)</li>
           <li>จำนวนสถานที่ทั้งหมด: 12,207 แห่ง</li>
