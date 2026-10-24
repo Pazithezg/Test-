@@ -266,7 +266,13 @@ export class DiscoveryEngine {
     }
 
     // 9. Deterministic Ranking Sort
-    candidates.sort((a, b) => b.scoreDetails.totalScore - a.scoreDetails.totalScore);
+    // With radius removed, present the complete nearby list from closest to
+    // farthest. Use relevance score only to break ties at similar distance.
+    candidates.sort((a, b) => {
+      const distanceA = a.distanceKm ?? Number.POSITIVE_INFINITY;
+      const distanceB = b.distanceKm ?? Number.POSITIVE_INFINITY;
+      return distanceA - distanceB || b.scoreDetails.totalScore - a.scoreDetails.totalScore;
+    });
 
     // Take top candidates
     const limit = input.limit || 10;
