@@ -16,6 +16,9 @@ import { NextRequest, NextResponse } from 'next/server';
 import { getPlaceIndex } from '@/search/place-index';
 import { getRecommendationEngine } from '@/personalization/recommendation-engine';
 import { createDefaultPreferences, UserProfile } from '@/personalization/user-profile';
+import { getDiscoveryRepository } from '@/repository';
+import { RuleBasedAiService } from '@/ai/rule-based-service';
+import { DiscoveryEngine } from '@/discovery/engine';
 
 export const dynamic = 'force-dynamic';
 
@@ -103,6 +106,40 @@ export async function GET(request: NextRequest) {
         error: 'Internal server error',
         message: error instanceof Error ? error.message : 'Unknown error',
       },
+      { status: 500 }
+    );
+  }
+}
+
+// Homepage search: local data + deterministic Thai parser only.
+// This is intentionally independent from Groq/Gemini and does not require a radius.
+export async function POST(request: NextRequest) {
+  try {
+    const body = await request.json();
+    const location = body?.location;
+    if (!location || location.mode !== 'coordinates' ||
+        typeof location.latitude !== 'number' || typeof location.longitude !== 'number') {
+      return NextResponse.json(
+        { status: 'error', message: 'กรุณาปักหมุดหรืออนุญาต GPS ก่อนค้นหา' },
+        { status: 400 }
+      );
+    }
+
+    const engine = new DiscoveryEngine(getDiscoveryRepository(), new RuleBasedAiService());
+    const result = await engine.recommend({
+      ...body,
+      location: {
+        mode: 'coordinates',
+        latitude: location.latitude,
+        longitude: location.longitude,
+        radiusKm: 10000,
+      },
+    });
+    return NextResponse.json(result, { status: 200 });
+  } catch (error) {
+    console.error('[Recommendations API POST] Error:', error);
+    return NextResponse.json(
+      { status: 'error', message: error instanceof Error ? error.message : 'ค้นหาไม่สำเร็จ' },
       { status: 500 }
     );
   }
