@@ -13,6 +13,7 @@ interface Place {
   vicinity?: string;
   latitude?: number;
   longitude?: number;
+  distanceKm?: number;
 }
 
 export default function NearbyPlaces({ lat, lng }: NearbyPlacesProps) {
@@ -56,25 +57,56 @@ export default function NearbyPlaces({ lat, lng }: NearbyPlacesProps) {
         const hotelData = await hotelRes.json();
         const parkData = await parkRes.json();
 
+        // ฟังก์ชันคำนวณระยะทาง (Haversine formula)
+        const calculateDistance = (lat1: number, lon1: number, lat2: number, lon2: number): number => {
+          const R = 6371; // รัศมีโลก (กม.)
+          const dLat = (lat2 - lat1) * Math.PI / 180;
+          const dLon = (lon2 - lon1) * Math.PI / 180;
+          const a = 
+            Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+            Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+            Math.sin(dLon / 2) * Math.sin(dLon / 2);
+          const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+          return R * c;
+        };
+
         const hotelList = hotelData.elements
           .filter((el: any) => el.tags?.name)
-          .slice(0, 3)
-          .map((el: any) => ({
-            name: el.tags.name,
-            type: 'hotel' as const,
-            vicinity: el.tags['addr:street'] || '',
-            latitude: el.lat ?? el.center?.lat,
-            longitude: el.lon ?? el.center?.lon
-          }));
+          .map((el: any) => {
+            const hotelLat = el.lat ?? el.center?.lat;
+            const hotelLon = el.lon ?? el.center?.lon;
+            const distance = hotelLat && hotelLon ? calculateDistance(lat, lng, hotelLat, hotelLon) : 0;
+            
+            return {
+              name: el.tags.name,
+              type: 'hotel' as const,
+              vicinity: el.tags['addr:street'] || '',
+              latitude: hotelLat,
+              longitude: hotelLon,
+              distanceKm: distance
+            };
+          })
+          .sort((a: any, b: any) => a.distanceKm - b.distanceKm)
+          .slice(0, 3);
 
         const parkList = parkData.elements
           .filter((el: any) => el.tags?.name)
-          .slice(0, 3)
-          .map((el: any) => ({
-            name: el.tags.name,
-            type: 'park' as const,
-            vicinity: el.tags['addr:street'] || ''
-          }));
+          .map((el: any) => {
+            const parkLat = el.lat ?? el.center?.lat;
+            const parkLon = el.lon ?? el.center?.lon;
+            const distance = parkLat && parkLon ? calculateDistance(lat, lng, parkLat, parkLon) : 0;
+            
+            return {
+              name: el.tags.name,
+              type: 'park' as const,
+              vicinity: el.tags['addr:street'] || '',
+              latitude: parkLat,
+              longitude: parkLon,
+              distanceKm: distance
+            };
+          })
+          .sort((a: any, b: any) => a.distanceKm - b.distanceKm)
+          .slice(0, 3);
 
         setHotels(hotelList);
         setParks(parkList);
@@ -101,7 +133,7 @@ export default function NearbyPlaces({ lat, lng }: NearbyPlacesProps) {
       {hotels.length > 0 && (
         <div>
           <div style={{ fontSize: '0.75rem', fontWeight: 600, color: '#0369a1', marginBottom: '0.25rem' }}>
-            🏨 โรงแรม:
+            🏨 โรงแรมใกล้เคียง:
           </div>
           {hotels.map((hotel, idx) => (
             <a
@@ -111,9 +143,16 @@ export default function NearbyPlaces({ lat, lng }: NearbyPlacesProps) {
                 : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(hotel.name)}`}
               target="_blank"
               rel="noopener noreferrer"
-              style={{ fontSize: '0.8125rem', color: '#075985', paddingLeft: '0.5rem', textDecoration: 'none' }}
+              style={{ 
+                fontSize: '0.8125rem', 
+                color: '#075985', 
+                paddingLeft: '0.5rem', 
+                textDecoration: 'none',
+                display: 'block',
+                marginBottom: '0.25rem'
+              }}
             >
-              • {hotel.name} {hotel.vicinity && `(${hotel.vicinity})`} ↗
+              • {hotel.name} {hotel.distanceKm ? `(${hotel.distanceKm.toFixed(2)} กม.)` : ''} ↗
             </a>
           ))}
         </div>
@@ -122,12 +161,27 @@ export default function NearbyPlaces({ lat, lng }: NearbyPlacesProps) {
       {parks.length > 0 && (
         <div>
           <div style={{ fontSize: '0.75rem', fontWeight: 600, color: '#0369a1', marginBottom: '0.25rem' }}>
-            🌳 สวนสาธารณะ:
+            🌳 สวนสาธารณะใกล้เคียง:
           </div>
           {parks.map((park, idx) => (
-            <div key={idx} style={{ fontSize: '0.8125rem', color: '#075985', paddingLeft: '0.5rem' }}>
-              • {park.name}
-            </div>
+            <a
+              key={idx}
+              href={park.latitude && park.longitude
+                ? `https://www.google.com/maps/search/?api=1&query=${park.latitude},${park.longitude}`
+                : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(park.name)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ 
+                fontSize: '0.8125rem', 
+                color: '#075985', 
+                paddingLeft: '0.5rem',
+                textDecoration: 'none',
+                display: 'block',
+                marginBottom: '0.25rem'
+              }}
+            >
+              • {park.name} {park.distanceKm ? `(${park.distanceKm.toFixed(2)} กม.)` : ''} ↗
+            </a>
           ))}
         </div>
       )}
