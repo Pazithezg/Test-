@@ -19,7 +19,8 @@ export default function DiscoveryPage() {
   const [selectedMood, setSelectedMood] = useState<string | null>(null);
   const [budgetTHB, setBudgetTHB] = useState<number | ''>(500);
   const [travelMode, setTravelMode] = useState<'car' | 'walk' | 'transit'>('car');
-  const [departureTime, setDepartureTime] = useState('');
+  const [departureTime, setDepartureTime] = useState(''); // เวลาออก (optional)
+  const [returnDeadline, setReturnDeadline] = useState(''); // เวลาที่ต้องกลับ (required)
   
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -28,14 +29,14 @@ export default function DiscoveryPage() {
 
   const activeLocation = pinnedCoords || coords;
 
-  // Set default departure time
+  // Set default return deadline
   useEffect(() => {
-    if (!departureTime) {
+    if (!returnDeadline) {
       const now = new Date();
-      now.setMinutes(now.getMinutes() + 10);
+      now.setHours(now.getHours() + 3); // default: 3 ชั่วโมงจากนี้
       const hours = String(now.getHours()).padStart(2, '0');
       const minutes = String(now.getMinutes()).padStart(2, '0');
-      setDepartureTime(`${hours}:${minutes}`);
+      setReturnDeadline(`${hours}:${minutes}`);
     }
   }, []);
 
@@ -44,7 +45,7 @@ export default function DiscoveryPage() {
     if (response && activeLocation) {
       handleSearch();
     }
-  }, [intentText, selectedMood, budgetTHB, travelMode, departureTime, activeLocation]);
+  }, [intentText, selectedMood, budgetTHB, travelMode, departureTime, returnDeadline, activeLocation]);
 
   const handleGetLocation = () => {
     if (!navigator.geolocation) {
@@ -398,6 +399,7 @@ export default function DiscoveryPage() {
             </div>
 
             {/* Departure Time */}
+            {/* เวลาออก (Optional) */}
             <div style={{ marginBottom: '1.5rem' }}>
               <label style={{
                 display: 'block',
@@ -406,12 +408,42 @@ export default function DiscoveryPage() {
                 marginBottom: '0.5rem',
                 color: '#0c4a6e'
               }}>
-                🏠 ต้องกลับก่อน
+                🕐 เวลาออก (ไม่ใส่ก็ได้)
               </label>
               <input
                 type="time"
                 value={departureTime}
                 onChange={(e) => setDepartureTime(e.target.value)}
+                placeholder="ไม่ระบุ"
+                style={{
+                  width: '100%',
+                  padding: '0.75rem',
+                  borderRadius: '8px',
+                  border: '1px solid #cbd5e1',
+                  fontSize: '0.9375rem',
+                  outline: 'none'
+                }}
+                onFocus={(e) => e.currentTarget.style.borderColor = '#0ea5e9'}
+                onBlur={(e) => e.currentTarget.style.borderColor = '#cbd5e1'}
+              />
+            </div>
+
+            {/* เวลาที่ต้องกลับ (Required) */}
+            <div style={{ marginBottom: '1.5rem' }}>
+              <label style={{
+                display: 'block',
+                fontSize: '0.875rem',
+                fontWeight: 600,
+                marginBottom: '0.5rem',
+                color: '#0c4a6e'
+              }}>
+                🏠 ต้องกลับก่อน *
+              </label>
+              <input
+                type="time"
+                value={returnDeadline}
+                onChange={(e) => setReturnDeadline(e.target.value)}
+                required
                 style={{
                   width: '100%',
                   padding: '0.75rem',
@@ -538,13 +570,23 @@ export default function DiscoveryPage() {
                                    item.categories?.includes('park') ? 120 : 75;
                 
                 // คำนวณเวลาไป-กลับ
-                const [depHour, depMin] = departureTime ? departureTime.split(':').map(Number) : [new Date().getHours(), new Date().getMinutes() + 10];
                 const now = new Date();
-                const departTime = new Date(now);
-                departTime.setHours(depHour, depMin, 0, 0);
+                let departTime: Date;
+                
+                if (departureTime) {
+                  // ใช้เวลาที่ผู้ใช้ใส่
+                  const [depHour, depMin] = departureTime.split(':').map(Number);
+                  departTime = new Date(now);
+                  departTime.setHours(depHour, depMin, 0, 0);
+                } else {
+                  // ใช้เวลาปัจจุบัน + 10 นาที
+                  departTime = new Date(now.getTime() + 10 * 60000);
+                }
+                
                 const arrivalTime = new Date(departTime.getTime() + travelTimeMin * 60000);
                 const leaveTime = new Date(arrivalTime.getTime() + stayTimeMin * 60000);
                 const returnTime = new Date(leaveTime.getTime() + travelTimeMin * 60000);
+                const totalTimeMin = travelTimeMin * 2 + stayTimeMin;
                 
                 const formatTime = (d: Date) => d.toLocaleTimeString('th-TH', { hour: '2-digit', minute: '2-digit' });
                 
@@ -565,7 +607,6 @@ export default function DiscoveryPage() {
                 
                 // รวม
                 const totalCost = travelCost + placeCost;
-                const totalTimeMin = travelTimeMin * 2 + stayTimeMin;
 
                 return (
                 <article key={item.id} style={{
@@ -691,16 +732,22 @@ export default function DiscoveryPage() {
                       {(() => {
                         const budget = typeof budgetTHB === 'number' ? budgetTHB : 500;
                         const withinBudget = totalCost <= budget;
-                        const isShortTrip = totalTimeMin <= 180; // 3 hours or less
                         
-                        if (withinBudget && isShortTrip) {
-                          return `✓ ไปได้เลย! อยู่ในงบ ${budget}฿ และใช้เวลาแค่ ${Math.floor(totalTimeMin/60)} ชม. ${totalTimeMin%60} นาที - คุ้มค่าที่สุด`;
-                        } else if (!withinBudget && isShortTrip) {
-                          return `⚠️ เกินงบ ${Math.abs(budget - totalCost)}฿ แต่ใช้เวลาไม่นาน`;
-                        } else if (withinBudget && !isShortTrip) {
-                          return `⚠️ อยู่ในงบ แต่ใช้เวลา ${Math.floor(totalTimeMin/60)} ชม. ${totalTimeMin%60} นาที`;
+                        // เช็คว่ากลับทันเวลาที่กำหนดหรือไม่
+                        const [deadlineHour, deadlineMin] = returnDeadline.split(':').map(Number);
+                        const deadline = new Date(now);
+                        deadline.setHours(deadlineHour, deadlineMin, 0, 0);
+                        const onTime = returnTime <= deadline;
+                        
+                        if (withinBudget && onTime) {
+                          return `✓ ไปได้เลย! อยู่ในงบ ${budget}฿ และกลับทันเวลา ${returnDeadline} - คุ้มค่าที่สุด`;
+                        } else if (!withinBudget && onTime) {
+                          return `⚠️ เกินงบ ${Math.abs(budget - totalCost)}฿ แต่กลับทันเวลา`;
+                        } else if (withinBudget && !onTime) {
+                          const lateMin = Math.round((returnTime.getTime() - deadline.getTime()) / 60000);
+                          return `⚠️ อยู่ในงบ แต่กลับไม่ทันเวลา (สาย ${Math.floor(lateMin/60)} ชม. ${lateMin%60} นาที)`;
                         } else {
-                          return `❌ เกินงบและใช้เวลานาน - ลองหาที่ใกล้กว่านี้`;
+                          return `❌ เกินงบและกลับไม่ทันเวลา - ลองหาที่ใกล้กว่านี้`;
                         }
                       })()}
                     </div>
