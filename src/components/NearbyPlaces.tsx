@@ -26,27 +26,21 @@ export default function NearbyPlaces({ lat, lng }: NearbyPlacesProps) {
       try {
         setLoading(true);
         
-        // ใช้ Overpass API (OSM) แทน Google Maps API (ฟรี)
-        const radius = 15000; // 15km เพื่อหาโรงแรมได้ทั้งหมด แล้วเรียงตามระยะ
+        // ใช้ Overpass API (OSM) - ค้นหาในระยะกว้างเพื่อให้เจอโรงแรมเสมอ
+        const radius = 50000; // 50km - ไม่จำกัดระยะ เอาที่ใกล้สุดมาเรียง
         
-        // ค้นหาโรงแรม
+        // ค้นหาโรงแรม (เฉพาะ node เพื่อความเร็ว, timeout 10 วินาที)
         const hotelQuery = `
-          [out:json];
-          (
-            node["tourism"="hotel"](around:${radius},${lat},${lng});
-            way["tourism"="hotel"](around:${radius},${lat},${lng});
-          );
-          out center 3;
+          [out:json][timeout:10];
+          node["tourism"="hotel"](around:${radius},${lat},${lng});
+          out body 20;
         `;
         
-        // ค้นหาสวน
+        // ค้นหาสวน (เฉพาะ node เพื่อความเร็ว, timeout 10 วินาที)
         const parkQuery = `
-          [out:json];
-          (
-            node["leisure"="park"](around:${radius},${lat},${lng});
-            way["leisure"="park"](around:${radius},${lat},${lng});
-          );
-          out center 3;
+          [out:json][timeout:10];
+          node["leisure"="park"](around:${radius},${lat},${lng});
+          out body 20;
         `;
 
         const [hotelRes, parkRes] = await Promise.all([
