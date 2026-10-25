@@ -19,6 +19,8 @@ export default function DiscoveryPage() {
   const [selectedMood, setSelectedMood] = useState<string | null>(null);
   const [budgetTHB, setBudgetTHB] = useState<number | ''>(500);
   const [travelMode, setTravelMode] = useState<'car' | 'walk' | 'transit'>('car');
+  const [travelTimeMinInput, setTravelTimeMinInput] = useState<number | ''>('');
+  const [returnTimeInput, setReturnTimeInput] = useState('22:00');
   
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -385,6 +387,20 @@ export default function DiscoveryPage() {
               />
             </div>
 
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0.75rem', marginBottom: '1.5rem' }}>
+              <div>
+                <label htmlFor="travel-time-min">⏱️ เวลาเดินทาง (นาที)</label>
+                <input id="travel-time-min" type="number" min="1" value={travelTimeMinInput}
+                  onChange={(e) => setTravelTimeMinInput(e.target.value === '' ? '' : Number(e.target.value))}
+                  placeholder="คำนวณอัตโนมัติ" />
+              </div>
+              <div>
+                <label htmlFor="return-time">🏠 ต้องกลับก่อน</label>
+                <input id="return-time" type="time" value={returnTimeInput}
+                  onChange={(e) => setReturnTimeInput(e.target.value)} />
+              </div>
+            </div>
+
             {/* Submit */}
             <button
               type="submit"
@@ -490,7 +506,8 @@ export default function DiscoveryPage() {
                 if (travelMode === 'walk') travelSpeed = 4; // เดิน 4 km/h
                 if (travelMode === 'transit') travelSpeed = 20; // ขนส่งสาธารณะ 20 km/h
                 
-                const travelTimeMin = Math.round((roadDistKm / travelSpeed) * 60);
+                const calculatedTravelTimeMin = Math.max(1, Math.round((roadDistKm / travelSpeed) * 60));
+                const travelTimeMin = travelTimeMinInput === '' ? calculatedTravelTimeMin : Number(travelTimeMinInput);
                 const hours = Math.floor(travelTimeMin / 60);
                 const mins = travelTimeMin % 60;
                 
@@ -505,6 +522,9 @@ export default function DiscoveryPage() {
                 const arrivalTime = new Date(departureTime.getTime() + travelTimeMin * 60000);
                 const leaveTime = new Date(arrivalTime.getTime() + stayTimeMin * 60000);
                 const returnTime = new Date(leaveTime.getTime() + travelTimeMin * 60000);
+                const returnDeadline = new Date();
+                const [deadlineHour, deadlineMinute] = returnTimeInput.split(':').map(Number);
+                returnDeadline.setHours(deadlineHour, deadlineMinute, 0, 0);
                 
                 const formatTime = (d: Date) => d.toLocaleTimeString('th-TH', { hour: '2-digit', minute: '2-digit' });
                 
@@ -539,7 +559,14 @@ export default function DiscoveryPage() {
                   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '0.75rem' }}>
                     <div style={{ flex: 1 }}>
                       <h3 style={{ marginBottom: '0.375rem', fontSize: '1.125rem', fontWeight: 600 }}>
-                        {item.titleTh || item.title}
+                        <a
+                          href={item.actionableLinks?.mapsUrl || `https://www.google.com/maps/search/?api=1&query=${item.coordinates.latitude},${item.coordinates.longitude}`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          style={{ color: '#075985', textDecoration: 'none' }}
+                        >
+                          {item.titleTh || item.title} ↗
+                        </a>
                       </h3>
                       <p style={{ fontSize: '0.875rem', color: '#6b7280', marginBottom: '0.25rem' }}>
                         📍 {item.venueName}
@@ -644,7 +671,7 @@ export default function DiscoveryPage() {
                       {(() => {
                         const budget = typeof budgetTHB === 'number' ? budgetTHB : 500;
                         const withinBudget = totalCost <= budget;
-                        const withinTime = totalTimeMin <= 180;
+                        const withinTime = returnTime <= returnDeadline;
                         
                         if (withinBudget && withinTime) {
                           return `✓ ไปได้เลย! อยู่ในงบ ${budget}฿ และเวลา 3 ชม. - คุ้มค่าที่สุด`;
