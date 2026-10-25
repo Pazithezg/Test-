@@ -691,16 +691,16 @@ export default function DiscoveryPage() {
                       {(() => {
                         const budget = typeof budgetTHB === 'number' ? budgetTHB : 500;
                         const withinBudget = totalCost <= budget;
-                        const withinTime = returnTime <= returnDeadline;
+                        const isShortTrip = totalTimeMin <= 180; // 3 hours or less
                         
-                        if (withinBudget && withinTime) {
-                          return `✓ ไปได้เลย! อยู่ในงบ ${budget}฿ และเวลา 3 ชม. - คุ้มค่าที่สุด`;
-                        } else if (!withinBudget && withinTime) {
-                          return `⚠️ เกินงบ ${Math.abs(budget - totalCost)}฿ แต่เวลาพอ`;
-                        } else if (withinBudget && !withinTime) {
+                        if (withinBudget && isShortTrip) {
+                          return `✓ ไปได้เลย! อยู่ในงบ ${budget}฿ และใช้เวลาแค่ ${Math.floor(totalTimeMin/60)} ชม. ${totalTimeMin%60} นาที - คุ้มค่าที่สุด`;
+                        } else if (!withinBudget && isShortTrip) {
+                          return `⚠️ เกินงบ ${Math.abs(budget - totalCost)}฿ แต่ใช้เวลาไม่นาน`;
+                        } else if (withinBudget && !isShortTrip) {
                           return `⚠️ อยู่ในงบ แต่ใช้เวลา ${Math.floor(totalTimeMin/60)} ชม. ${totalTimeMin%60} นาที`;
                         } else {
-                          return `❌ เกินงบและเกินเวลา - ลองหาที่ใกล้กว่านี้`;
+                          return `❌ เกินงบและใช้เวลานาน - ลองหาที่ใกล้กว่านี้`;
                         }
                       })()}
                     </div>
