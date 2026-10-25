@@ -506,10 +506,7 @@ export default function DiscoveryPage() {
                 if (travelMode === 'walk') travelSpeed = 4; // เดิน 4 km/h
                 if (travelMode === 'transit') travelSpeed = 20; // ขนส่งสาธารณะ 20 km/h
                 
-                const calculatedTravelTimeMin = Math.max(1, Math.round((roadDistKm / travelSpeed) * 60));
-                const travelTimeMin = travelTimeMinInput === '' ? calculatedTravelTimeMin : Number(travelTimeMinInput);
-                const hours = Math.floor(travelTimeMin / 60);
-                const mins = travelTimeMin % 60;
+                const travelTimeMin = Math.round((roadDistKm / travelSpeed) * 60);
                 
                 // เวลาที่สถานที่ (ตามประเภท)
                 const stayTimeMin = item.categories?.includes('restaurant') ? 90 : 
