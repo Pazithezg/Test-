@@ -19,8 +19,7 @@ export default function DiscoveryPage() {
   const [selectedMood, setSelectedMood] = useState<string | null>(null);
   const [budgetTHB, setBudgetTHB] = useState<number | ''>(500);
   const [travelMode, setTravelMode] = useState<'car' | 'walk' | 'transit'>('car');
-  const [travelTimeMinInput, setTravelTimeMinInput] = useState<number | ''>('');
-  const [returnTimeInput, setReturnTimeInput] = useState('22:00');
+  const [departureTime, setDepartureTime] = useState('');
   
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -29,12 +28,23 @@ export default function DiscoveryPage() {
 
   const activeLocation = pinnedCoords || coords;
 
+  // Set default departure time
+  useEffect(() => {
+    if (!departureTime) {
+      const now = new Date();
+      now.setMinutes(now.getMinutes() + 10);
+      const hours = String(now.getHours()).padStart(2, '0');
+      const minutes = String(now.getMinutes()).padStart(2, '0');
+      setDepartureTime(`${hours}:${minutes}`);
+    }
+  }, []);
+
   // Auto search when params change
   useEffect(() => {
     if (response && activeLocation) {
       handleSearch();
     }
-  }, [intentText, selectedMood, budgetTHB, travelMode, activeLocation]);
+  }, [intentText, selectedMood, budgetTHB, travelMode, departureTime, activeLocation]);
 
   const handleGetLocation = () => {
     if (!navigator.geolocation) {
@@ -387,18 +397,32 @@ export default function DiscoveryPage() {
               />
             </div>
 
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0.75rem', marginBottom: '1.5rem' }}>
-              <div>
-                <label htmlFor="travel-time-min">⏱️ เวลาเดินทาง (นาที)</label>
-                <input id="travel-time-min" type="number" min="1" value={travelTimeMinInput}
-                  onChange={(e) => setTravelTimeMinInput(e.target.value === '' ? '' : Number(e.target.value))}
-                  placeholder="คำนวณอัตโนมัติ" />
-              </div>
-              <div>
-                <label htmlFor="return-time">🏠 ต้องกลับก่อน</label>
-                <input id="return-time" type="time" value={returnTimeInput}
-                  onChange={(e) => setReturnTimeInput(e.target.value)} />
-              </div>
+            {/* Departure Time */}
+            <div style={{ marginBottom: '1.5rem' }}>
+              <label style={{
+                display: 'block',
+                fontSize: '0.875rem',
+                fontWeight: 600,
+                marginBottom: '0.5rem',
+                color: '#0c4a6e'
+              }}>
+                🏠 ต้องกลับก่อน
+              </label>
+              <input
+                type="time"
+                value={departureTime}
+                onChange={(e) => setDepartureTime(e.target.value)}
+                style={{
+                  width: '100%',
+                  padding: '0.75rem',
+                  borderRadius: '8px',
+                  border: '1px solid #cbd5e1',
+                  fontSize: '0.9375rem',
+                  outline: 'none'
+                }}
+                onFocus={(e) => e.currentTarget.style.borderColor = '#0ea5e9'}
+                onBlur={(e) => e.currentTarget.style.borderColor = '#cbd5e1'}
+              />
             </div>
 
             {/* Submit */}
@@ -514,14 +538,13 @@ export default function DiscoveryPage() {
                                    item.categories?.includes('park') ? 120 : 75;
                 
                 // คำนวณเวลาไป-กลับ
+                const [depHour, depMin] = departureTime ? departureTime.split(':').map(Number) : [new Date().getHours(), new Date().getMinutes() + 10];
                 const now = new Date();
-                const departureTime = new Date(now.getTime() + 10 * 60000); // ออกใน 10 นาที
-                const arrivalTime = new Date(departureTime.getTime() + travelTimeMin * 60000);
+                const departTime = new Date(now);
+                departTime.setHours(depHour, depMin, 0, 0);
+                const arrivalTime = new Date(departTime.getTime() + travelTimeMin * 60000);
                 const leaveTime = new Date(arrivalTime.getTime() + stayTimeMin * 60000);
                 const returnTime = new Date(leaveTime.getTime() + travelTimeMin * 60000);
-                const returnDeadline = new Date();
-                const [deadlineHour, deadlineMinute] = returnTimeInput.split(':').map(Number);
-                returnDeadline.setHours(deadlineHour, deadlineMinute, 0, 0);
                 
                 const formatTime = (d: Date) => d.toLocaleTimeString('th-TH', { hour: '2-digit', minute: '2-digit' });
                 
@@ -601,7 +624,7 @@ export default function DiscoveryPage() {
                     </div>
                     <div style={{ display: 'grid', gridTemplateColumns: 'auto 1fr', gap: '0.375rem 0.75rem', fontSize: '0.8125rem' }}>
                       <span style={{ color: '#0369a1', fontWeight: 600 }}>ออก:</span>
-                      <span style={{ color: '#0c4a6e' }}>{formatTime(departureTime)}</span>
+                      <span style={{ color: '#0c4a6e' }}>{formatTime(departTime)}</span>
                       
                       <span style={{ color: '#0369a1', fontWeight: 600 }}>ถึง:</span>
                       <span style={{ color: '#0c4a6e' }}>{formatTime(arrivalTime)} ({travelTimeMin} นาที)</span>
