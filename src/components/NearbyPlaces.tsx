@@ -27,7 +27,7 @@ export default function NearbyPlaces({ lat, lng }: NearbyPlacesProps) {
         setLoading(true);
         
         // ใช้ Overpass API (OSM) แทน Google Maps API (ฟรี)
-        const radius = 5000; // 5km เพื่อหาโรงแรมได้มากขึ้น
+        const radius = 15000; // 15km เพื่อหาโรงแรมได้ทั้งหมด แล้วเรียงตามระยะ
         
         // ค้นหาโรงแรม
         const hotelQuery = `
@@ -188,7 +188,7 @@ export default function NearbyPlaces({ lat, lng }: NearbyPlacesProps) {
 
       {hotels.length === 0 && parks.length === 0 && (
         <div style={{ fontSize: '0.8125rem', color: '#64748b' }}>
-          ไม่พบสถานที่ใกล้เคียงในระยะ 5km
+          ไม่พบสถานที่ใกล้เคียงในพื้นที่นี้
         </div>
       )}
 
